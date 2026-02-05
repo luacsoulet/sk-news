@@ -10,28 +10,21 @@ st.set_page_config(page_title="Veille Médiatique", page_icon="🔻", layout="wi
 # --- CSS "ULTRA GLASSMORPHISM RED - V3" ---
 st.markdown("""
     <style>
-    /* 1. Fond global */
     [data-testid="stAppViewContainer"] {
         background: linear-gradient(135deg, #000000, #150505, #350a0a);
         background-attachment: fixed;
     }
     
-    [data-testid="stHeader"] {
-        background: transparent;
-    }
+    [data-testid="stHeader"] { background: transparent; }
 
-    /* 2. SIDEBAR - Ultra contrastée */
+    /* SIDEBAR - Ultra contrastée */
     [data-testid="stSidebar"] {
         background-color: #050505 !important; 
         border-right: 3px solid #dc2626 !important; 
         box-shadow: 10px 0 30px rgba(0,0,0,1);
     }
     
-    [data-testid="stSidebarContent"] {
-        padding-top: 2rem;
-    }
-
-    /* 3. Titre et Badge Compteur */
+    /* Titre et Badge Compteur */
     .title-wrapper {
         display: flex;
         align-items: center;
@@ -49,7 +42,7 @@ st.markdown("""
         box-shadow: 0 0 15px rgba(220, 38, 38, 0.3);
     }
 
-    /* 4. DASHBOARD - Cases symétriques */
+    /* DASHBOARD - Cases identiques */
     .stat-card-fixed {
         background: rgba(30, 30, 30, 0.6);
         backdrop-filter: blur(15px);
@@ -63,7 +56,7 @@ st.markdown("""
         align-items: flex-start;
     }
 
-    /* 5. BADGE SOURCE (Ajusté au texte) */
+    /* BADGE SOURCE (Ajusté au texte) */
     .source-badge {
         background: rgba(220, 38, 38, 0.25);
         border: 1px solid rgba(220, 38, 38, 0.6);
@@ -74,13 +67,11 @@ st.markdown("""
         font-weight: 800;
         text-transform: uppercase;
         margin-bottom: 12px;
-        
-        /* LA MAGIE ICI */
         width: fit-content; 
         display: block; 
     }
 
-    /* 6. GRILLE ARTICLES */
+    /* GRILLE ARTICLES */
     .article-card {
         background: rgba(20, 20, 20, 0.7);
         backdrop-filter: blur(16px);
@@ -109,11 +100,6 @@ st.markdown("""
         border-radius: 12px;
         text-decoration: none !important;
         font-weight: 700;
-        transition: 0.3s;
-    }
-    .btn-glass-red:hover {
-        filter: brightness(1.2);
-        box-shadow: 0 5px 15px rgba(220, 38, 38, 0.4);
     }
     </style>
     """, unsafe_allow_html=True)
@@ -150,11 +136,10 @@ def fetch_news(query, start_date, end_date):
 with st.sidebar:
     st.markdown("<h2 style='color:white; font-size:1.5rem;'>⚙️ Paramètres</h2>", unsafe_allow_html=True)
     subject = st.text_input("Sujet de veille", value="Swiss krono")
+    date_min_input = st.date_input("Depuis le", value=None)
+    date_max_input = st.date_input("Jusqu'au", value=None)
     
-    date_min = st.date_input("Depuis le", value=None)
-    date_max = st.date_input("Jusqu'au", value=None)
-    
-    all_articles = fetch_news(subject, date_min, date_max)
+    all_articles = fetch_news(subject, date_min_input, date_max_input)
     sources_disponibles = sorted(list(set(a['source'] for a in all_articles)))
     selected_sources = st.multiselect("Filtrer sources", sources_disponibles, default=sources_disponibles)
     sort_option = st.selectbox("Trier par", ["Plus récent", "Plus ancien", "Média"])
@@ -169,6 +154,7 @@ else: filtered.sort(key=lambda x: x['source'])
 count = len(filtered)
 st.markdown(f"""
     <div class="title-wrapper">
+        <div class="main-badge">{count}</div>
         <h1 style="margin:0; color: white; font-size: 2.5rem; font-weight: 800; letter-spacing: -1px;">Veille Médiatique</h1>
     </div>
     """, unsafe_allow_html=True)
@@ -176,9 +162,13 @@ st.markdown(f"""
 if not filtered:
     st.info("Utilisez la barre latérale pour lancer une recherche.")
 else:
-    # --- DASHBOARD ---
+    # --- DASHBOARD (CORRECTION DATES ICI) ---
     top_source = Counter([a['source'] for a in filtered]).most_common(1)[0][0]
-    date_range = f"{filtered[-1]['published'][:11]} - {filtered[0]['published'][:11]}"
+    
+    # Transformation des struct_time en objets datetime pour un formatage propre
+    dt_min = datetime(*filtered[-1]['timestamp'][:6])
+    dt_max = datetime(*filtered[0]['timestamp'][:6])
+    date_range = f"{dt_min.strftime('%d/%m/%Y')} — {dt_max.strftime('%d/%m/%Y')}"
     
     m1, m2, m3 = st.columns(3)
     with m1:
@@ -203,6 +193,7 @@ else:
     cols = st.columns(3)
     for idx, art in enumerate(filtered):
         with cols[idx % 3]:
+            # Pour la grille, on garde un peu plus de détails sur la date
             st.markdown(f"""
                 <div class="article-card">
                     <div>
