@@ -39,7 +39,7 @@ class RSSFeedParser:
             elif hasattr(entry, 'published'):
                 try:
                     published = date_parser.parse(entry.published)
-                except:
+                except (ValueError, TypeError, AttributeError):
                     pass
             
             # Extract tags
