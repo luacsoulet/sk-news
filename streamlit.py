@@ -2,77 +2,131 @@ import streamlit as st
 import feedparser
 import urllib.parse
 from datetime import datetime
+from collections import Counter
 
 # Configuration de la page
-st.set_page_config(page_title="Veille Média Pro", page_icon="📊", layout="wide")
+st.set_page_config(page_title="Veille Médiatique", page_icon="🔻", layout="wide")
 
-# --- DESIGN & CSS AMÉLIORÉ ---
+# --- CSS "ULTRA GLASSMORPHISM RED - V3" ---
 st.markdown("""
     <style>
-    /* Fond de l'application */
-    .main {
-        background-color: #f8f9fa;
+    /* 1. Fond global */
+    [data-testid="stAppViewContainer"] {
+        background: linear-gradient(135deg, #000000, #150505, #350a0a);
+        background-attachment: fixed;
     }
-    /* Style des cartes */
-    .article-card {
-        padding: 24px;
-        border-radius: 15px;
-        background-color: white;
-        border: 1px solid #e0e0e0;
-        margin-bottom: 18px;
-        transition: all 0.3s ease;
-        box-shadow: 0 2px 4px rgba(0,0,0,0.02);
+    
+    [data-testid="stHeader"] {
+        background: transparent;
     }
-    .article-card:hover {
-        transform: translateY(-4px);
-        box-shadow: 0 10px 20px rgba(0,0,0,0.08);
-        border-color: #007bff;
+
+    /* 2. SIDEBAR - Ultra contrastée */
+    [data-testid="stSidebar"] {
+        background-color: #050505 !important; 
+        border-right: 3px solid #dc2626 !important; 
+        box-shadow: 10px 0 30px rgba(0,0,0,1);
     }
-    /* Badge du journal */
-    .source-badge {
-        background-color: #e7f1ff;
-        color: #007bff;
-        padding: 4px 12px;
-        border-radius: 20px;
-        font-size: 0.75rem;
-        font-weight: 700;
-        text-transform: uppercase;
-        display: inline-block;
-        margin-bottom: 10px;
+    
+    [data-testid="stSidebarContent"] {
+        padding-top: 2rem;
     }
-    .article-title {
-        font-size: 1.25rem;
-        font-weight: 600;
-        color: #1a1a1a;
-        margin-bottom: 8px;
-        line-height: 1.4;
-    }
-    .article-date {
-        font-size: 0.85rem;
-        color: #6c757d;
+
+    /* 3. Titre et Badge Compteur */
+    .title-wrapper {
         display: flex;
         align-items: center;
-        gap: 5px;
+        gap: 15px;
+        margin-bottom: 30px;
     }
-    a {
+    .main-badge {
+        background: rgba(220, 38, 38, 0.4);
+        border: 2px solid #dc2626;
+        color: #ffffff;
+        padding: 5px 18px;
+        border-radius: 15px;
+        font-weight: 800;
+        font-size: 1.6rem;
+        box-shadow: 0 0 15px rgba(220, 38, 38, 0.3);
+    }
+
+    /* 4. DASHBOARD - Cases symétriques */
+    .stat-card-fixed {
+        background: rgba(30, 30, 30, 0.6);
+        backdrop-filter: blur(15px);
+        border: 1px solid rgba(255, 255, 255, 0.1);
+        border-radius: 20px;
+        padding: 20px;
+        height: 140px; 
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: flex-start;
+    }
+
+    /* 5. BADGE SOURCE (Ajusté au texte) */
+    .source-badge {
+        background: rgba(220, 38, 38, 0.25);
+        border: 1px solid rgba(220, 38, 38, 0.6);
+        color: #ff4b4b;
+        padding: 4px 12px;
+        border-radius: 8px;
+        font-size: 0.7rem;
+        font-weight: 800;
+        text-transform: uppercase;
+        margin-bottom: 12px;
+        
+        /* LA MAGIE ICI */
+        width: fit-content; 
+        display: block; 
+    }
+
+    /* 6. GRILLE ARTICLES */
+    .article-card {
+        background: rgba(20, 20, 20, 0.7);
+        backdrop-filter: blur(16px);
+        border: 1px solid rgba(255, 255, 255, 0.1);
+        border-radius: 20px;
+        padding: 24px;
+        height: 380px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        transition: all 0.3s ease;
+    }
+    .article-card:hover {
+        transform: translateY(-8px);
+        background: rgba(45, 10, 10, 0.85);
+        border-color: rgba(220, 38, 38, 0.7);
+    }
+
+    .btn-glass-red {
+        display: block;
+        width: 100%;
+        background: linear-gradient(90deg, #991b1b, #dc2626);
+        color: white !important;
+        text-align: center;
+        padding: 12px 0;
+        border-radius: 12px;
         text-decoration: none !important;
+        font-weight: 700;
+        transition: 0.3s;
+    }
+    .btn-glass-red:hover {
+        filter: brightness(1.2);
+        box-shadow: 0 5px 15px rgba(220, 38, 38, 0.4);
     }
     </style>
     """, unsafe_allow_html=True)
 
-# --- FONCTIONS LOGIQUES ---
+# --- LOGIQUE ---
 
 def clean_and_parse_entries(entries):
-    """Extrait le journal du titre et nettoie la donnée."""
     parsed_data = []
     for entry in entries:
         title = entry.title
-        # Google News met souvent "Titre - Journal"
         parts = title.rsplit(' - ', 1)
-        
         clean_title = parts[0]
-        source = parts[1] if len(parts) > 1 else "Source inconnue"
-        
+        source = parts[1] if len(parts) > 1 else "Source"
         parsed_data.append({
             "title": clean_title,
             "source": source,
@@ -85,70 +139,79 @@ def clean_and_parse_entries(entries):
 def fetch_news(query, start_date, end_date):
     encoded_subject = urllib.parse.quote(query)
     full_query = encoded_subject
-    if start_date:
-        full_query += f"+after:{start_date.strftime('%Y-%m-%d')}"
-    if end_date:
-        full_query += f"+before:{end_date.strftime('%Y-%m-%d')}"
+    if start_date: full_query += f"+after:{start_date.strftime('%Y-%m-%d')}"
+    if end_date: full_query += f"+before:{end_date.strftime('%Y-%m-%d')}"
     
     feed_url = f"https://news.google.com/rss/search?q={full_query}&hl=fr&gl=FR&ceid=FR:fr"
     feed = feedparser.parse(feed_url)
     return clean_and_parse_entries(feed.entries)
 
-# --- INTERFACE UTILISATEUR ---
-
-st.title("📊 Veille Stratégique")
-
+# --- SIDEBAR ---
 with st.sidebar:
-    st.header("🔍 Recherche")
-    subject = st.text_input("Sujet", value="Swiss krono")
+    st.markdown("<h2 style='color:white; font-size:1.5rem;'>⚙️ Paramètres</h2>", unsafe_allow_html=True)
+    subject = st.text_input("Sujet de veille", value="Swiss krono")
     
-    col1, col2 = st.columns(2)
-    with col1:
-        date_min = st.date_input("Début", value=None)
-    with col2:
-        date_max = st.date_input("Fin", value=None)
+    date_min = st.date_input("Depuis le", value=None)
+    date_max = st.date_input("Jusqu'au", value=None)
     
-    st.divider()
-    st.header("⚙️ Filtres & Tri")
-    
-    # On récupère les données pour remplir les filtres
     all_articles = fetch_news(subject, date_min, date_max)
-    
-    # Liste unique des journaux pour le filtre
     sources_disponibles = sorted(list(set(a['source'] for a in all_articles)))
-    selected_sources = st.multiselect("Filtrer par journaux", sources_disponibles, default=sources_disponibles)
+    selected_sources = st.multiselect("Filtrer sources", sources_disponibles, default=sources_disponibles)
+    sort_option = st.selectbox("Trier par", ["Plus récent", "Plus ancien", "Média"])
+
+# --- TRAITEMENT ---
+filtered = [a for a in all_articles if a['source'] in selected_sources]
+if sort_option == "Plus récent": filtered.sort(key=lambda x: x['timestamp'], reverse=True)
+elif sort_option == "Plus ancien": filtered.sort(key=lambda x: x['timestamp'], reverse=False)
+else: filtered.sort(key=lambda x: x['source'])
+
+# --- AFFICHAGE HEADER ---
+count = len(filtered)
+st.markdown(f"""
+    <div class="title-wrapper">
+        <h1 style="margin:0; color: white; font-size: 2.5rem; font-weight: 800; letter-spacing: -1px;">Veille Médiatique</h1>
+    </div>
+    """, unsafe_allow_html=True)
+
+if not filtered:
+    st.info("Utilisez la barre latérale pour lancer une recherche.")
+else:
+    # --- DASHBOARD ---
+    top_source = Counter([a['source'] for a in filtered]).most_common(1)[0][0]
+    date_range = f"{filtered[-1]['published'][:11]} - {filtered[0]['published'][:11]}"
     
-    sort_option = st.selectbox("Trier par", ["Plus récent", "Plus ancien", "Journal (A-Z)"])
+    m1, m2, m3 = st.columns(3)
+    with m1:
+        st.markdown(f"""<div class="stat-card-fixed">
+            <div style="color: rgba(255,255,255,0.4); font-size: 0.75rem; font-weight: 700; text-transform: uppercase;">Articles</div>
+            <div style="font-size: 2.2rem; font-weight: 800; color: #dc2626;">{count}</div>
+        </div>""", unsafe_allow_html=True)
+    with m2:
+        st.markdown(f"""<div class="stat-card-fixed">
+            <div style="color: rgba(255,255,255,0.4); font-size: 0.75rem; font-weight: 700; text-transform: uppercase;">Top Source</div>
+            <div style="font-size: 1.2rem; font-weight: 700; color: white;">{top_source}</div>
+        </div>""", unsafe_allow_html=True)
+    with m3:
+        st.markdown(f"""<div class="stat-card-fixed">
+            <div style="color: rgba(255,255,255,0.4); font-size: 0.75rem; font-weight: 700; text-transform: uppercase;">Période</div>
+            <div style="font-size: 0.95rem; font-weight: 700; color: white;">{date_range}</div>
+        </div>""", unsafe_allow_html=True)
 
-# --- TRAITEMENT DES DONNÉES ---
+    st.write("##")
 
-# 1. Filtrage par journal
-filtered_articles = [a for a in all_articles if a['source'] in selected_sources]
-
-# 2. Logique de Tri
-if sort_option == "Plus récent":
-    filtered_articles.sort(key=lambda x: x['timestamp'], reverse=True)
-elif sort_option == "Plus ancien":
-    filtered_articles.sort(key=lambda x: x['timestamp'], reverse=False)
-else:
-    filtered_articles.sort(key=lambda x: x['source'])
-
-# --- AFFICHAGE ---
-
-st.subheader(f"📈 {len(filtered_articles)} Articles trouvés")
-
-if not filtered_articles:
-    st.info("Aucun article ne correspond à vos filtres.")
-else:
-    for art in filtered_articles:
-        st.markdown(f"""
-            <a href="{art['link']}" target="_blank">
+    # --- GRID ---
+    cols = st.columns(3)
+    for idx, art in enumerate(filtered):
+        with cols[idx % 3]:
+            st.markdown(f"""
                 <div class="article-card">
-                    <span class="source-badge">{art['source']}</span>
-                    <div class="article-title">{art['title']}</div>
-                    <div class="article-date">
-                        <span>📅</span> {art['published']}
+                    <div>
+                        <div class="source-badge">{art['source']}</div>
+                        <div style="font-size: 1.15rem; font-weight: 600; color: white; line-height: 1.4;">{art['title']}</div>
+                    </div>
+                    <div>
+                        <div style="color: rgba(255,255,255,0.4); font-size: 0.8rem; margin-bottom: 15px;">📅 {art['published'][:16]}</div>
+                        <a href="{art['link']}" target="_blank" class="btn-glass-red">Consulter l'article</a>
                     </div>
                 </div>
-            </a>
-        """, unsafe_allow_html=True)
+                """, unsafe_allow_html=True)
