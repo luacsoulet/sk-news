@@ -140,6 +140,10 @@ with st.sidebar:
     date_max_input = st.date_input("Jusqu'au", value=None)
     
     all_articles = fetch_news(subject, date_min_input, date_max_input)
+    
+    seen = set()
+    all_articles = [x for x in all_articles if not (x['title'] in seen or seen.add(x['title']))]
+    
     sources_disponibles = sorted(list(set(a['source'] for a in all_articles)))
     selected_sources = st.multiselect("Filtrer sources", sources_disponibles, default=sources_disponibles)
     sort_option = st.selectbox("Trier par", ["Plus récent", "Plus ancien", "Média"])
