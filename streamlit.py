@@ -154,7 +154,6 @@ else: filtered.sort(key=lambda x: x['source'])
 count = len(filtered)
 st.markdown(f"""
     <div class="title-wrapper">
-        <div class="main-badge">{count}</div>
         <h1 style="margin:0; color: white; font-size: 2.5rem; font-weight: 800; letter-spacing: -1px;">Veille Médiatique</h1>
     </div>
     """, unsafe_allow_html=True)
