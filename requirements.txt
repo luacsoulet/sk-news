@@ -1,0 +1,5 @@
+feedparser
+streamlit
+urllib.parse
+collections
+datetime
