@@ -1,0 +1,2194 @@
+
+
+<!DOCTYPE html>
+<html lang="fr" dir="ltr" prefix="og: https://ogp.me/ns#">
+<head>
+  <meta charset="utf-8" />
+<noscript><style>form.antibot * :not(.antibot-message) { display: none !important; }</style>
+</noscript><link rel="canonical" href="https://bati.zepros.fr/-nous-sommes-prets-pour-la-reprise-avec-nos-fournisseurs-et-nos-clients-v-adam-swiss-krono--87550" />
+<link rel="image_src" href="https://bati.zepros.fr/sites/default/files/2022-09/zepros_default.webp" />
+<meta name="referrer" content="origin-when-cross-origin" />
+<meta property="og:site_name" content="Zepros" />
+<meta property="og:type" content="Article" />
+<meta property="og:url" content="https://bati.zepros.fr/-nous-sommes-prets-pour-la-reprise-avec-nos-fournisseurs-et-nos-clients-v-adam-swiss-krono--87550" />
+<meta property="og:title" content="« Nous sommes prêts pour la reprise avec nos fournisseurs et nos clients », V. Adam (Swiss Krono)" />
+<meta property="og:image" content="https://bati.zepros.fr/sites/default/files/2022-09/zepros_default.webp" />
+<meta property="og:image:width" content="1200" />
+<meta property="article:published_time" content="17/03/2026 - 16h18" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="« Nous sommes prêts pour la reprise avec nos fournisseurs et nos clients », V. Adam (Swiss Krono)" />
+<meta name="twitter:image" content="https://bati.zepros.fr/sites/default/files/2022-09/zepros_default.webp" />
+<meta name="twitter:image:alt" content="zepros_default.webp" />
+<link rel="alternate" hreflang="x-default" href="https://bati.zepros.fr/-nous-sommes-prets-pour-la-reprise-avec-nos-fournisseurs-et-nos-clients-v-adam-swiss-krono--87550" />
+<meta name="Generator" content="Drupal 11 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<script type="application/ld+json">{
+    "@context": "https://schema.org",
+    "@graph": [
+        {
+            "@type": "NewsArticle",
+            "@id": "https://bati.zepros.fr/-nous-sommes-prets-pour-la-reprise-avec-nos-fournisseurs-et-nos-clients-v-adam-swiss-krono--87550",
+            "headline": "« Nous sommes prêts pour la reprise avec nos fournisseurs et nos clients », V. Adam (Swiss Krono)",
+            "name": "« Nous sommes prêts pour la reprise avec nos fournisseurs et nos clients », V. Adam (Swiss Krono)",
+            "about": [
+                "Second-Œuvre Technique"
+            ],
+            "image": {
+                "@type": "ImageObject",
+                "representativeOfPage": "True",
+                "url": [
+                    "https://bati.zepros.fr/sites/default/files/styles/schema_org_16_9/public/2022-09/zepros_default.webp?h=5a47d09f\u0026itok=iGrrvtf5",
+                    "https://bati.zepros.fr/sites/default/files/styles/schema_org_4_3/public/2022-09/zepros_default.webp?h=5a47d09f\u0026itok=iW-llSd9",
+                    "https://bati.zepros.fr/sites/default/files/styles/schema_org_1_1/public/2022-09/zepros_default.webp?h=5a47d09f\u0026itok=xjUDI_cf"
+                ]
+            },
+            "datePublished": "2026-03-17T16:18:00+0100",
+            "dateModified": "2022-01-18T16:21:47+0100",
+            "hasPart": {
+                "@type": "WebPageElement",
+                "isAccessibleForFree": "True"
+            },
+            "isAccessibleForFree": "True",
+            "author": {
+                "@type": "Person",
+                "@id": "https://bati.zepros.fr/la-redaction/40",
+                "name": "Grégoire Noble",
+                "url": "https://bati.zepros.fr/la-redaction/40"
+            },
+            "publisher": {
+                "@type": "NewsMediaOrganization",
+                "@id": "https://bati.zepros.fr/",
+                "name": "Zepros BÂTIMENT",
+                "url": "https://bati.zepros.fr/"
+            },
+            "mainEntityOfPage": "https://bati.zepros.fr/-nous-sommes-prets-pour-la-reprise-avec-nos-fournisseurs-et-nos-clients-v-adam-swiss-krono--87550"
+        },
+        {
+            "@type": "Organization",
+            "@id": "https://bati.zepros.fr/-nous-sommes-prets-pour-la-reprise-avec-nos-fournisseurs-et-nos-clients-v-adam-swiss-krono--87550",
+            "name": "Zepros",
+            "url": "https://bati.zepros.fr/"
+        },
+        {
+            "@type": "WebSite",
+            "@id": "https://bati.zepros.fr/-nous-sommes-prets-pour-la-reprise-avec-nos-fournisseurs-et-nos-clients-v-adam-swiss-krono--87550",
+            "name": "Zepros",
+            "url": "https://bati.zepros.fr/"
+        }
+    ]
+}</script>
+<meta name="robots" content="max-image-preview:large" />
+<link rel="icon" href="/themes/contrib/zepros_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<script>window.a2a_config=window.a2a_config||{};a2a_config.callbacks=[];a2a_config.overlays=[];a2a_config.templates={};</script>
+
+    <title>« Nous sommes prêts pour la reprise avec nos fournisseurs et nos clients », V. Adam (Swiss Krono)</title>
+    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_MoxmYNMKy0M9PIYAYwTWV7FApAjkFJ5iZkh9NQEe46k.css?delta=0&amp;language=fr&amp;theme=zepros_theme&amp;include=eJyVVf32myAMfSFTz7YH6omQKi0SR6Br-_S_-LXZnY3qP0LivYSQS0BrE2N41rhMTpfIIVUNpUTxTI-Bhez54ryaUrcUKKKvjEeRZ92g0DrvSQRbkspwpNrGPKA_4RUfsyNw7NG7F1WUz4b55kiHfvAOg6H6X85zg1Hhj-RduK0rLmbVk3VYz_s6GRyS41ANGLGNOHSywv94TjkMufFOOrKVPCVRP-__7uiX1NP31LPNnqoXDZHlnDrqqW49N-hhNFxo3_9tjdN6hCAJg8VoC9jGs7kBWDKc75EksGBOOkGT3N0lPcePZBfERDdlHnTzfirZZ1qkK7s20CtwFsnRk2hcwvwQNk6Hz0tMhwWTcQgMcOUcg8ZY7B8H6TJwEAZxllQci_d7aZFIaE3MfVMAWYFvhj0AhaRHD5NOjM72cAJbAoMx7kdfsve7warYAxuJZFR87d8afmNcHHkLy-EZve2atppsnztIOVivGczWGPIzZx5ibqL7mXfj51KX9PwOz1dKpUuz2fLKcb02rFWTpYq8cZeqhNtRpl7wbk9Cs6I6LSNZsFis_pairTodwavWd-ikjZwH6FLvgby6R63MvjHUmBTlz0n9f5WEbalsU41K_7Wr61qSm96lAk5D5sLv3-8EwNBxYm2u2kxDKfKGkvRVKkHnHjZ-ARA8Qg4EO7rXlrd2zoNw2NFptzzJrT7i45uiHSEl7sGkL823KYk" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_I0ffrkwlBdyaeWlHVw3UDu6TzhUov4f-XlTliw_Y8Ls.css?delta=1&amp;language=fr&amp;theme=zepros_theme&amp;include=eJyVVf32myAMfSFTz7YH6omQKi0SR6Br-_S_-LXZnY3qP0LivYSQS0BrE2N41rhMTpfIIVUNpUTxTI-Bhez54ryaUrcUKKKvjEeRZ92g0DrvSQRbkspwpNrGPKA_4RUfsyNw7NG7F1WUz4b55kiHfvAOg6H6X85zg1Hhj-RduK0rLmbVk3VYz_s6GRyS41ANGLGNOHSywv94TjkMufFOOrKVPCVRP-__7uiX1NP31LPNnqoXDZHlnDrqqW49N-hhNFxo3_9tjdN6hCAJg8VoC9jGs7kBWDKc75EksGBOOkGT3N0lPcePZBfERDdlHnTzfirZZ1qkK7s20CtwFsnRk2hcwvwQNk6Hz0tMhwWTcQgMcOUcg8ZY7B8H6TJwEAZxllQci_d7aZFIaE3MfVMAWYFvhj0AhaRHD5NOjM72cAJbAoMx7kdfsve7warYAxuJZFR87d8afmNcHHkLy-EZve2atppsnztIOVivGczWGPIzZx5ibqL7mXfj51KX9PwOz1dKpUuz2fLKcb02rFWTpYq8cZeqhNtRpl7wbk9Cs6I6LSNZsFis_pairTodwavWd-ikjZwH6FLvgby6R63MvjHUmBTlz0n9f5WEbalsU41K_7Wr61qSm96lAk5D5sLv3-8EwNBxYm2u2kxDKfKGkvRVKkHnHjZ-ARA8Qg4EO7rXlrd2zoNw2NFptzzJrT7i45uiHSEl7sGkL823KYk" />
+
+      <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"node\/1409","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"fr"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"gtag":{"tagId":"","consentMode":false,"otherIds":[],"events":[],"additionalConfigInfo":[]},"ajaxPageState":{"libraries":"eJyVVu2W4yAIfaGQnN19oByi1NgayYp22nn6JR-daeds0_SPCrlXRBCC1mbGeG1wXVT4U1MfEsdcdZQzpZYuIwvZ9uCDitJgydxK6Qb_FOIoUsJQmYAi16ZDodt6IBF0JJXhRE3kNGDwn1RRaQ3zyZNOwxg8RkPN_5Rth0nhlxx8PDU2lRFDvYqVY3aB2oyucTr8lGs84uVROVTHv4XStbX8EV1CS82qCOTQXKuBrMdm8aw2OGbPsRoxoYLHXm4n-NbUJY6lC156spVkzF6yN1_Ab00lV8k0LNdz9vQhzTzWA9sSqPqkMbG0uaeBGhe4wwCT4KN7_HYv1LcgghqKFpPdwHaBzQnAkuFyTiSRRaOrCzTZn33WML0k-ygm-flaoh4-zBnxmpboyN5F-oxcREoKJGqXsFyEjdfp9RbzZcEsvAUGOHJJUW2s8p836TJyFAbxljQZV-3vrU0SoTWpDN0GyAr8MhwAKGa9epiTyOhqDyeyJTCY0n70oYSwG6zp_MZBEhlNPvczhx8YB0_Bwnp5RuuNuq0i2-sOUok2qAeLNJl8zVmmVLrk9X3vxS-h3srnR3g5Ut56NHdHvnH8oPXwlpNbEXngrlGJp3eZ-sD7PQ4tGdVrGMmCxc3o31O0E-R38JrrO_LEJS4j9HkIQEHVU64susnU5BSV104930WbwVbY5hhtfdeSr3utXfE5Tk2Wjc9fTQRg7DmzFlctpnHL8h0laxfcgi41bBoBEAJCiQQ7qtc971Y534TDjkp7z5Pi9B9h6ilaEXLmAUz-B6AxZFM","theme":"zepros_theme","theme_token":null},"ajaxTrustedUrl":{"\/recherche":true},"gtm":{"tagId":null,"settings":{"data_layer":"dataLayer","include_classes":false,"allowlist_classes":"google\nnonGooglePixels\nnonGoogleScripts\nnonGoogleIframes","blocklist_classes":"customScripts\ncustomPixels","include_environment":false,"environment_id":"","environment_token":""},"tagIds":["GTM-WRN3Q6X"]},"data":{"extlink":{"extTarget":true,"extTargetAppendNewWindowDisplay":true,"extTargetAppendNewWindowLabel":"(opens in a new window)","extTargetNoOverride":true,"extNofollow":false,"extTitleNoOverride":false,"extNoreferrer":true,"extFollowNoOverride":false,"extClass":"0","extLabel":"(link is external)","extImgClass":false,"extSubdomains":true,"extExclude":"","extInclude":"","extCssExclude":"","extCssInclude":"","extCssExplicit":"","extAlert":false,"extAlertText":"This link will take you to an external web site. We are not responsible for their content.","extHideIcons":false,"mailtoClass":"0","telClass":"","mailtoLabel":"(link sends email)","telLabel":"(link is a phone number)","extUseFontAwesome":false,"extIconPlacement":"before","extPreventOrphan":false,"extFaLinkClasses":"fa fa-external-link","extFaMailtoClasses":"fa fa-envelope-o","extAdditionalLinkClasses":"","extAdditionalMailtoClasses":"","extAdditionalTelClasses":"","extFaTelClasses":"fa fa-phone","allowedDomains":[],"extExcludeNoreferrer":""}},"eu_cookie_compliance":{"cookie_policy_version":"1.0.0","popup_enabled":true,"popup_agreed_enabled":false,"popup_hide_agreed":false,"popup_clicking_confirmation":false,"popup_scrolling_confirmation":false,"popup_html_info":"\u003Cdiv aria-labelledby=\u0022popup-text\u0022  class=\u0022eu-cookie-compliance-banner eu-cookie-compliance-banner-info eu-cookie-compliance-banner--default\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n        \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022 role=\u0022document\u0022\u003E\n      \u003Ch2\u003ENous utilisons des cookies sur ce site pour am\u00e9liorer votre exp\u00e9rience d\u0027utilisateur.\u003C\/h2\u003E\u003Cp\u003E\u003Cspan\u003EEn poursuivant votre navigation vous acceptez l\u0027utilisation de ces cookies.\u003C\/span\u003E\u003C\/p\u003E\n              \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button eu-cookie-compliance-more-button\u0022\u003EEn savoir plus\u003C\/button\u003E\n          \u003C\/div\u003E\n\n    \n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons\u0022\u003E\n            \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button eu-cookie-compliance-default-button\u0022\u003EJ\u0026#039;ai compris\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","use_mobile_message":false,"mobile_popup_html_info":"\u003Cdiv aria-labelledby=\u0022popup-text\u0022  class=\u0022eu-cookie-compliance-banner eu-cookie-compliance-banner-info eu-cookie-compliance-banner--default\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n        \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022 role=\u0022document\u0022\u003E\n      \n              \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button eu-cookie-compliance-more-button\u0022\u003EEn savoir plus\u003C\/button\u003E\n          \u003C\/div\u003E\n\n    \n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons\u0022\u003E\n            \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button eu-cookie-compliance-default-button\u0022\u003EJ\u0026#039;ai compris\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","mobile_breakpoint":768,"popup_html_agreed":false,"popup_use_bare_css":true,"popup_height":"auto","popup_width":"100%","popup_delay":1000,"popup_link":"\/donnees-personnelles","popup_link_new_window":true,"popup_position":false,"fixed_top_position":true,"popup_language":"fr","store_consent":false,"better_support_for_screen_readers":false,"cookie_name":"","reload_page":false,"domain":"","domain_all_sites":false,"popup_eu_only":false,"popup_eu_only_js":false,"cookie_lifetime":100,"cookie_session":0,"set_cookie_session_zero_on_disagree":0,"disagree_do_not_show_popup":false,"method":"default","automatic_cookies_removal":true,"allowed_cookies":"","withdraw_markup":"\u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-tab\u0022\u003EParam\u00e8tres de confidentialit\u00e9\u003C\/button\u003E\n\u003Cdiv aria-labelledby=\u0022popup-text\u0022 class=\u0022eu-cookie-withdraw-banner\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022 role=\u0022document\u0022\u003E\n      \u003Ch2\u003ENous utilisons des cookies sur ce site pour am\u00e9liorer votre exp\u00e9rience d\u0027utilisateur.\u003C\/h2\u003E\u003Cp\u003EVous avez consenti \u00e0 l\u0027ajout de cookies.\u003C\/p\u003E\n    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-button \u0022\u003ERetirer le consentement\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","withdraw_enabled":false,"reload_options":0,"reload_routes_list":"","withdraw_button_on_info_popup":false,"cookie_categories":[],"cookie_categories_details":[],"enable_save_preferences_button":true,"cookie_value_disagreed":"0","cookie_value_agreed_show_thank_you":"1","cookie_value_agreed":"2","containing_element":"body","settings_tab_enabled":false,"olivero_primary_button_classes":"","olivero_secondary_button_classes":"","close_button_action":"close_banner","open_by_default":true,"modules_allow_popup":true,"hide_the_banner":false,"geoip_match":true,"unverified_scripts":[]},"statistics":{"data":{"nid":"1409"},"url":"\/modules\/contrib\/statistics\/statistics.php"},"field_group":{"html_element":{"mode":"default","context":"view","settings":{"classes":"group-tags","show_empty_fields":false,"id":"","element":"div","show_label":false,"label_element":"h3","label_element_classes":"","attributes":"","effect":"none","speed":"fast"}}},"better_exposed_filters":{"autosubmit_exclude_textfield":true},"user":{"uid":0,"permissionsHash":"019bf9f361e69e66444bbbb918ea227d29844b1bff8e5e4ac42c917607d3f41d"}}</script>
+<script src="/sites/default/files/js/js_pQDuh1d-DiCPWBKUFhle-dSh0jKXz3EzhCwbIhJoZKo.js?scope=header&amp;delta=0&amp;language=fr&amp;theme=zepros_theme&amp;include=eJyNjlFuwzAIQC9kxx87kIVtypxgk9l4TXr6pVKmttMm7Qd4DxBASipQdwdnMV2aVDUBVbF53FbpmPwl84HdwVDxfYSS_xwhrNiADQ4fRZaMRyorZ6gR3W_S4Kac6-JSGyvwdKIhEWL0CuToCD95ghm2V1nM_DGw7T7JtVKDhO4UjARxN11Bc9cc-_exhzE3XJt0r-9Y0BFLALZ3yJVee88wfWa8dnuP1s4yWoWxWRtY4mLf_rnXBxEeT0i1QVSl2KhfzEShFQ"></script>
+<script src="/modules/contrib/google_tag/js/gtag.js?tbogtj"></script>
+<script src="/modules/contrib/google_tag/js/gtm.js?tbogtj"></script>
+
+                  <link rel="preconnect" href="https://kit.fontawesome.com/" crossorigin="anonymous">
+                  <link rel="preconnect" href="https://fonts.googleapis.com" crossorigin="anonymous">
+                  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="anonymous">
+                  <link rel="preconnect" href="https://youtu.be" crossorigin="anonymous">
+                  <link rel="preconnect" href="https://www.youtube.com" crossorigin="anonymous">
+                  <link rel="preconnect" href="https://www.gstatic.com/" crossorigin="anonymous">
+                  <link rel="preconnect" href="https://static.doubleclick.net" crossorigin="anonymous">
+                  <link rel="preconnect" href="https://static.addtoany.com" crossorigin="anonymous">
+                  <link rel="preconnect" href="https://ajax.googleapis.com" crossorigin="anonymous">
+                <link rel="preload" as="style" onload="this.onload=null;this.rel='stylesheet'"
+              href="https://fonts.googleapis.com/css2?family=Prompt:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
+        >
+                </head>
+<body class="path-node page-node-type-article">
+<a href="#main-content" class="visually-hidden focusable skip-link">
+  Aller au contenu principal
+</a>
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WRN3Q6X"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+  <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+      <div class="arche-pub">
+    <div class="arche-top"><div class="views-element-container"><div class="view view-arche-pub view-id-arche_pub view-display-id-block_1 js-view-dom-id-55f4987c886e8895d082aeb47844b8f308946b677eee13ad5226d6e9428b4435">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="views-field views-field-field-lien"><div class="field-content"><a href="mailto:contact-bati@zepros.fr">mailto:contact-bati@zepros.fr</a></div></div><div class="views-field views-field-image-arche"><div class="field-content"><article class="media media--type-image media--view-mode-arche-top">
+  
+      
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <div class="field__label visually-hidden">Image</div>
+              <div class="field__item">    <picture>
+                  <source srcset="/sites/default/files/styles/arche_top_desktop/public/2026-03/ZA_BATI_2026_ARCHE_SITE_260311.webp?itok=9AtB6BtU 1x" media="(min-width: 576px)" type="image/webp" width="1440" height="730"/>
+              <source srcset="/sites/default/files/styles/arche_top_desktop/public/2026-03/ZA_BATI_2026_ARCHE_SITE_260311.png?itok=9AtB6BtU 1x" media="(min-width: 576px)" type="image/png" width="1440" height="730"/>
+                  
+
+
+<img loading="eager" width="1440" height="730" src="/sites/default/files/styles/arche_top_desktop/public/2026-03/ZA_BATI_2026_ARCHE_SITE_260311.png?itok=9AtB6BtU" alt="ARCHE - ZE AWARDS BATI 2026" />
+
+  </picture>
+
+</div>
+          </div>
+
+  </article>
+</div></div><div class="views-field views-field-image-mobile"><div class="field-content"><article class="media media--type-image media--view-mode-publicite-top-">
+  
+      
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <div class="field__label visually-hidden">Image</div>
+              <div class="field__item">  
+
+
+<img alt="ARCHE - ZE AWARDS BATI 2026" loading="eager" src="/sites/default/files/2026-03/ZA_BATI_26_BAN_MOBILE_900x270.gif" width="900" height="270" />
+
+</div>
+          </div>
+
+  </article>
+</div></div></div>
+
+    </div>
+  
+          </div>
+</div>
+</div>
+  </div>
+  
+<div class="layout-container arche">
+
+  <header role="banner">
+      <div class="region region-header">
+    <div id="block-zepros-theme-branding" class="block block-system block-system-branding-block">
+  
+    
+        <a href="/" rel="home" class="site-logo">
+      <img src="/themes/contrib/zepros_theme/logo.svg" alt="Accueil" />
+    </a>
+        <div class="site-name">
+      <a href="/" rel="home">Zepros</a>
+    </div>
+        <div class="site-slogan">BÂTIMENT</div>
+  </div>
+<div class="views-exposed-form bef-exposed-form block-search block block-views block-views-exposed-filter-blocksearch-page-1" data-bef-auto-submit="" data-bef-auto-submit-delay="1500" data-bef-auto-submit-minimum-length="3" data-bef-auto-submit-full-form="" data-drupal-selector="views-exposed-form-search-page-1" id="block-formulaireexposesearchpage-1-2">
+  
+    
+      <form action="/recherche" method="get" id="views-exposed-form-search-page-1" accept-charset="UTF-8">
+  <div class="form--inline clearfix">
+  <div class="js-form-item form-item js-form-type-textfield form-type-textfield js-form-item-search-api-fulltext form-item-search-api-fulltext">
+      <label for="edit-search-api-fulltext">Rechercher :</label>
+        <input data-drupal-selector="edit-search-api-fulltext" type="text" id="edit-search-api-fulltext" name="search_api_fulltext" value="" size="30" maxlength="128" class="form-text" />
+
+        </div>
+<fieldset data-drupal-selector="edit-sort-bef-combine" id="edit-sort-bef-combine--wrapper" class="fieldgroup form-composite js-form-item form-item js-form-wrapper form-wrapper">
+      <legend>
+    <span class="fieldset-legend">Trier par</span>
+  </legend>
+  <div class="fieldset-wrapper">
+                <div id="edit-sort-bef-combine" class="form-radios"><div class="form-radios">
+                  <div class="js-form-item form-item js-form-type-radio form-type-radio js-form-item-sort-bef-combine form-item-sort-bef-combine">
+        <input data-drupal-selector="edit-sort-bef-combine-search-api-relevance-desc" type="radio" id="edit-sort-bef-combine-search-api-relevance-desc" name="sort_bef_combine" value="search_api_relevance_DESC" checked="checked" class="form-radio" />
+
+        <label for="edit-sort-bef-combine-search-api-relevance-desc" class="option">Pertinence</label>
+      </div>
+
+                    <div class="js-form-item form-item js-form-type-radio form-type-radio js-form-item-sort-bef-combine form-item-sort-bef-combine">
+        <input data-drupal-selector="edit-sort-bef-combine-created-desc" type="radio" id="edit-sort-bef-combine-created-desc" name="sort_bef_combine" value="created_DESC" class="form-radio" />
+
+        <label for="edit-sort-bef-combine-created-desc" class="option">Date</label>
+      </div>
+
+      </div>
+</div>
+
+          </div>
+</fieldset>
+<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions">
+
+<button  data-bef-auto-submit-click="" data-drupal-selector="edit-submit-search" type="submit" id="edit-submit-search" value="Appliquer" class="button js-form-submit form-submit fa fa-search" >
+  Appliquer
+  
+</button>
+</div>
+
+</div>
+
+</form>
+
+  </div>
+<nav role="navigation"
+                 id="block-newsletter" class="block-lien-nl block block-menu navigation menu--newsletter">
+                        
+                
+
+        <ul class="menu">
+                  <li class="menu-item newsletters">
+        <a href="/abonnements">Newsletters</a>
+              </li>
+      </ul>
+    
+
+
+    </nav>
+
+  </div>
+
+  </header>
+
+    <div class="menu-mobile-trigger">
+    <div class="stripe-menu-mob"></div>
+    <div class="stripe-menu-mob"></div>
+    <div class="stripe-menu-mob"></div>
+    <i class="fas fa-times"></i></div>
+  <div class="region region-primary-menu">
+    <nav role="navigation"
+                 id="block-zepros-theme-main-menu" class="block block-menu navigation menu--main">
+                        
+                
+
+        <ul class="menu">
+                  <li class="journaux-trigger fa fa-chevron-up menu-item journaux">
+        <span>Journaux</span>
+              </li>
+                <li class="menu-item menu-item--expanded actu-des-industriels">
+        <a href="/actu-industriels" data-drupal-link-system-path="taxonomy/term/1">Actu des industriels</a>
+                            <ul class="menu">
+                    <li class="menu-item gros-œuvre">
+        <a href="/actu-industriels/gros-oeuvre" data-drupal-link-system-path="taxonomy/term/5">Gros-Œuvre</a>
+              </li>
+                <li class="menu-item second-œuvre-technique">
+        <a href="/actu-industriels/second-oeuvre-technique" data-drupal-link-system-path="taxonomy/term/6">Second-Œuvre Technique</a>
+              </li>
+                <li class="menu-item second-œuvre-finition">
+        <a href="/actu-industriels/second-oeuvre-finition" data-drupal-link-system-path="taxonomy/term/22">Second-Œuvre Finition</a>
+              </li>
+      </ul>
+    
+              </li>
+                <li class="menu-item actu-générale">
+        <a href="/actu-generale" data-drupal-link-system-path="taxonomy/term/2">Actu Générale</a>
+              </li>
+                <li class="menu-item chantiers">
+        <a href="/chantiers" data-drupal-link-system-path="taxonomy/term/11">Chantiers</a>
+              </li>
+                <li class="menu-item dossiers">
+        <a href="/dossiers" data-drupal-link-system-path="taxonomy/term/12">Dossiers</a>
+              </li>
+                <li class="menu-item ma-vie-dartisan">
+        <a href="/ma-vie-artisan" data-drupal-link-system-path="taxonomy/term/3">Ma vie d&#039;artisan</a>
+              </li>
+                <li class="menu-item nouveautés-produits">
+        <a href="/nouveautes-produits" data-drupal-link-system-path="taxonomy/term/4">Nouveautés Produits</a>
+              </li>
+                <li class="menu-item chez-les-distributeurs">
+        <a href="/chez-distributeurs" data-drupal-link-system-path="taxonomy/term/13">Chez les distributeurs</a>
+              </li>
+      </ul>
+    
+
+
+    </nav>
+
+
+<div class="views-element-container block-header-journaux block block-views block-views-blockjournaux-block-2" id="block-views-block-journaux-block-2">
+  
+    
+      <div>
+
+
+<div class="view view-journaux view-id-journaux view-display-id-block_2 js-view-dom-id-0f4ad5066d1af81daa649cef406c2095279da18e84cad4c66c86eb367389bd95">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div data-history-node-id="7238" class="node node--type-journal node--view-mode-mini-teaser ds-1col clearfix">
+
+  
+
+  
+
+
+            <div class="field field--name-field-image field--type-entity-reference field--label-hidden field__item"><a href="https://bati.zepros.fr/journaux/reno/numeros/reno-10"><article class="media media--type-image media--view-mode-journaux">
+  
+      
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <div class="field__label visually-hidden">Image</div>
+              <div class="field__item">    <picture>
+                  <source srcset="/sites/default/files/styles/jounaux_desktop/public/journaux/16124/page-1.webp?itok=Bc8mZWHt 1x, /sites/default/files/styles/journaux_retina/public/journaux/16124/page-1.webp?itok=Qm_MMZnj 2x" media="(min-width: 576px)" type="image/webp" width="203" height="255"/>
+              <source srcset="/sites/default/files/styles/jounaux_desktop/public/journaux/16124/page-1.webp?itok=Bc8mZWHt 1x, /sites/default/files/styles/journaux_retina/public/journaux/16124/page-1.webp?itok=Qm_MMZnj 2x" media="(max-width: 575.98px)" type="image/webp" width="203" height="255"/>
+              <source srcset="/sites/default/files/styles/jounaux_desktop/public/journaux/16124/page-1.jpg?itok=Bc8mZWHt 1x, /sites/default/files/styles/journaux_retina/public/journaux/16124/page-1.jpg?itok=Qm_MMZnj 2x" media="(min-width: 576px)" type="image/jpeg" width="203" height="255"/>
+              <source srcset="/sites/default/files/styles/jounaux_desktop/public/journaux/16124/page-1.jpg?itok=Bc8mZWHt 1x, /sites/default/files/styles/journaux_retina/public/journaux/16124/page-1.jpg?itok=Qm_MMZnj 2x" media="(max-width: 575.98px)" type="image/jpeg" width="203" height="255"/>
+                  
+
+
+<img loading="eager" width="203" height="255" src="/sites/default/files/styles/jounaux_desktop/public/journaux/16124/page-1.jpg?itok=Bc8mZWHt" alt="Réno 10" title="Réno 10" />
+
+  </picture>
+
+</div>
+          </div>
+
+  </article>
+</a></div>
+      
+
+
+            <div class="field field--name-node-link field--type-ds field--label-hidden field__item"><a href="https://bati.zepros.fr/journaux/reno/numeros/reno-10">Lire</a></div>
+      
+
+</div>
+
+</div>
+    <div class="views-row"><div data-history-node-id="7222" class="node node--type-journal node--view-mode-mini-teaser ds-1col clearfix">
+
+  
+
+  
+
+
+            <div class="field field--name-field-image field--type-entity-reference field--label-hidden field__item"><a href="https://bati.zepros.fr/journaux/bati/numeros/bati-133"><article class="media media--type-image media--view-mode-journaux">
+  
+      
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <div class="field__label visually-hidden">Image</div>
+              <div class="field__item">    <picture>
+                  <source srcset="/sites/default/files/styles/jounaux_desktop/public/journaux/16097/page-1.webp?itok=2H6gH1d1 1x, /sites/default/files/styles/journaux_retina/public/journaux/16097/page-1.webp?itok=kfkG-bAT 2x" media="(min-width: 576px)" type="image/webp" width="203" height="255"/>
+              <source srcset="/sites/default/files/styles/jounaux_desktop/public/journaux/16097/page-1.webp?itok=2H6gH1d1 1x, /sites/default/files/styles/journaux_retina/public/journaux/16097/page-1.webp?itok=kfkG-bAT 2x" media="(max-width: 575.98px)" type="image/webp" width="203" height="255"/>
+              <source srcset="/sites/default/files/styles/jounaux_desktop/public/journaux/16097/page-1.jpg?itok=2H6gH1d1 1x, /sites/default/files/styles/journaux_retina/public/journaux/16097/page-1.jpg?itok=kfkG-bAT 2x" media="(min-width: 576px)" type="image/jpeg" width="203" height="255"/>
+              <source srcset="/sites/default/files/styles/jounaux_desktop/public/journaux/16097/page-1.jpg?itok=2H6gH1d1 1x, /sites/default/files/styles/journaux_retina/public/journaux/16097/page-1.jpg?itok=kfkG-bAT 2x" media="(max-width: 575.98px)" type="image/jpeg" width="203" height="255"/>
+                  
+
+
+<img loading="eager" width="203" height="255" src="/sites/default/files/styles/jounaux_desktop/public/journaux/16097/page-1.jpg?itok=2H6gH1d1" alt="Bati 133" title="Bati 133" />
+
+  </picture>
+
+</div>
+          </div>
+
+  </article>
+</a></div>
+      
+
+
+            <div class="field field--name-node-link field--type-ds field--label-hidden field__item"><a href="https://bati.zepros.fr/journaux/bati/numeros/bati-133">Lire</a></div>
+      
+
+</div>
+
+</div>
+    <div class="views-row"><div data-history-node-id="7206" class="node node--type-journal node--view-mode-mini-teaser ds-1col clearfix">
+
+  
+
+  
+
+
+            <div class="field field--name-field-image field--type-entity-reference field--label-hidden field__item"><a href="https://bati.zepros.fr/journaux/negoce/numeros/negoce-54"><article class="media media--type-image media--view-mode-journaux">
+  
+      
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <div class="field__label visually-hidden">Image</div>
+              <div class="field__item">    <picture>
+                  <source srcset="/sites/default/files/styles/jounaux_desktop/public/journaux/16070/page-1.webp?itok=ERaF3OXN 1x, /sites/default/files/styles/journaux_retina/public/journaux/16070/page-1.webp?itok=qP6NECxZ 2x" media="(min-width: 576px)" type="image/webp" width="203" height="255"/>
+              <source srcset="/sites/default/files/styles/jounaux_desktop/public/journaux/16070/page-1.webp?itok=ERaF3OXN 1x, /sites/default/files/styles/journaux_retina/public/journaux/16070/page-1.webp?itok=qP6NECxZ 2x" media="(max-width: 575.98px)" type="image/webp" width="203" height="255"/>
+              <source srcset="/sites/default/files/styles/jounaux_desktop/public/journaux/16070/page-1.jpg?itok=ERaF3OXN 1x, /sites/default/files/styles/journaux_retina/public/journaux/16070/page-1.jpg?itok=qP6NECxZ 2x" media="(min-width: 576px)" type="image/jpeg" width="203" height="255"/>
+              <source srcset="/sites/default/files/styles/jounaux_desktop/public/journaux/16070/page-1.jpg?itok=ERaF3OXN 1x, /sites/default/files/styles/journaux_retina/public/journaux/16070/page-1.jpg?itok=qP6NECxZ 2x" media="(max-width: 575.98px)" type="image/jpeg" width="203" height="255"/>
+                  
+
+
+<img loading="eager" width="203" height="255" src="/sites/default/files/styles/jounaux_desktop/public/journaux/16070/page-1.jpg?itok=ERaF3OXN" alt="Négoce 54" title="Négoce 54" />
+
+  </picture>
+
+</div>
+          </div>
+
+  </article>
+</a></div>
+      
+
+
+            <div class="field field--name-node-link field--type-ds field--label-hidden field__item"><a href="https://bati.zepros.fr/journaux/negoce/numeros/negoce-54">Lire</a></div>
+      
+
+</div>
+
+</div>
+    <div class="views-row"><div data-history-node-id="7139" class="node node--type-journal node--view-mode-mini-teaser ds-1col clearfix">
+
+  
+
+  
+
+
+            <div class="field field--name-field-image field--type-entity-reference field--label-hidden field__item"><a href="https://bati.zepros.fr/journaux/energie/numeros/energie-94"><article class="media media--type-image media--view-mode-journaux">
+  
+      
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <div class="field__label visually-hidden">Image</div>
+              <div class="field__item">    <picture>
+                  <source srcset="/sites/default/files/styles/jounaux_desktop/public/journaux/15905/page-1.webp?itok=4L-4N2jh 1x, /sites/default/files/styles/journaux_retina/public/journaux/15905/page-1.webp?itok=JqfY-st5 2x" media="(min-width: 576px)" type="image/webp" width="203" height="255"/>
+              <source srcset="/sites/default/files/styles/jounaux_desktop/public/journaux/15905/page-1.webp?itok=4L-4N2jh 1x, /sites/default/files/styles/journaux_retina/public/journaux/15905/page-1.webp?itok=JqfY-st5 2x" media="(max-width: 575.98px)" type="image/webp" width="203" height="255"/>
+              <source srcset="/sites/default/files/styles/jounaux_desktop/public/journaux/15905/page-1.jpg?itok=4L-4N2jh 1x, /sites/default/files/styles/journaux_retina/public/journaux/15905/page-1.jpg?itok=JqfY-st5 2x" media="(min-width: 576px)" type="image/jpeg" width="203" height="255"/>
+              <source srcset="/sites/default/files/styles/jounaux_desktop/public/journaux/15905/page-1.jpg?itok=4L-4N2jh 1x, /sites/default/files/styles/journaux_retina/public/journaux/15905/page-1.jpg?itok=JqfY-st5 2x" media="(max-width: 575.98px)" type="image/jpeg" width="203" height="255"/>
+                  
+
+
+<img loading="eager" width="203" height="255" src="/sites/default/files/styles/jounaux_desktop/public/journaux/15905/page-1.jpg?itok=4L-4N2jh" alt="Énergie 94" title="Énergie 94" />
+
+  </picture>
+
+</div>
+          </div>
+
+  </article>
+</a></div>
+      
+
+
+            <div class="field field--name-node-link field--type-ds field--label-hidden field__item"><a href="https://bati.zepros.fr/journaux/energie/numeros/energie-94">Lire</a></div>
+      
+
+</div>
+
+</div>
+    <div class="views-row"><div data-history-node-id="6855" class="node node--type-journal node--view-mode-mini-teaser ds-1col clearfix">
+
+  
+
+  
+
+
+            <div class="field field--name-field-image field--type-entity-reference field--label-hidden field__item"><a href="https://bati.zepros.fr/journaux/safety/numeros/safety-23"><article class="media media--type-image media--view-mode-journaux">
+  
+      
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <div class="field__label visually-hidden">Image</div>
+              <div class="field__item">    <picture>
+                  <source srcset="/sites/default/files/styles/jounaux_desktop/public/journaux/15269/page-1.webp?itok=goDDt56l 1x, /sites/default/files/styles/journaux_retina/public/journaux/15269/page-1.webp?itok=lQOzxFZ7 2x" media="(min-width: 576px)" type="image/webp" width="203" height="255"/>
+              <source srcset="/sites/default/files/styles/jounaux_desktop/public/journaux/15269/page-1.webp?itok=goDDt56l 1x, /sites/default/files/styles/journaux_retina/public/journaux/15269/page-1.webp?itok=lQOzxFZ7 2x" media="(max-width: 575.98px)" type="image/webp" width="203" height="255"/>
+              <source srcset="/sites/default/files/styles/jounaux_desktop/public/journaux/15269/page-1.jpg?itok=goDDt56l 1x, /sites/default/files/styles/journaux_retina/public/journaux/15269/page-1.jpg?itok=lQOzxFZ7 2x" media="(min-width: 576px)" type="image/jpeg" width="203" height="255"/>
+              <source srcset="/sites/default/files/styles/jounaux_desktop/public/journaux/15269/page-1.jpg?itok=goDDt56l 1x, /sites/default/files/styles/journaux_retina/public/journaux/15269/page-1.jpg?itok=lQOzxFZ7 2x" media="(max-width: 575.98px)" type="image/jpeg" width="203" height="255"/>
+                  
+
+
+<img loading="eager" width="203" height="255" src="/sites/default/files/styles/jounaux_desktop/public/journaux/15269/page-1.jpg?itok=goDDt56l" alt="Safety 23" title="Safety 23" />
+
+  </picture>
+
+</div>
+          </div>
+
+  </article>
+</a></div>
+      
+
+
+            <div class="field field--name-node-link field--type-ds field--label-hidden field__item"><a href="https://bati.zepros.fr/journaux/safety/numeros/safety-23">Lire</a></div>
+      
+
+</div>
+
+</div>
+
+    </div>
+  
+            <div class="view-footer">
+      <a href="/abonnements">Abonnez-vous gratuitement</a>
+<a href="/journaux">Découvrez tous nos journaux</a>
+    </div>
+    </div>
+</div>
+
+  </div>
+
+  </div>
+
+  
+
+    <div class="region region-breadcrumb">
+    <div id="block-zepros-theme-breadcrumbs" class="block block-system block-system-breadcrumb-block">
+  
+    
+      
+
+  <nav class="breadcrumb" role="navigation">
+    <ol>
+              <li>
+                      <a href="/">Accueil</a>
+                  </li>
+              <li>
+                      « Nous sommes prêts pour la reprise avec nos fournisseurs et nos clients », V. Adam (Swiss Krono)
+                  </li>
+          </ol>
+  </nav>
+
+  </div>
+
+  </div>
+
+
+    <div class="region region-highlighted">
+    <div data-drupal-messages-fallback class="hidden"></div>
+
+
+<div class="views-element-container block block-views block-views-blocknew-pub-block-1" id="block-views-block-new-pub-block-1">
+  
+    
+      <div><div class="view view-new-pub view-id-new_pub view-display-id-block_1 js-view-dom-id-97eae5ba3e19879ec78f027345a16cab63492c68bbeb681fdf1e69c12b8cc86a">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row">
+
+<div class="entite-publicite entite-publicite--type-publicite entite-publicite--view-mode-top-page ds-1col clearfix">
+
+
+
+<a href="mailto:contact-bati@zepros.fr" target="_blank" rel="nofollow">
+
+</a>
+
+            <div class="field field--name-image-desktop field--type-entity-reference field--label-hidden field__item"><article class="media media--type-image media--view-mode-publicite-top-">
+  
+      
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <div class="field__label visually-hidden">Image</div>
+              <div class="field__item">  
+
+
+<img alt="BILLBOARD - ZE AWARDS BATI 2026" loading="eager" src="/sites/default/files/2026-03/ZA_BATI_BAN_A_BILLBOARD_1180x150_v2.gif" width="1180" height="150" />
+
+</div>
+          </div>
+
+  </article>
+</div>
+      
+            <div class="field field--name-image-mobile field--type-entity-reference field--label-hidden field__item"><article class="media media--type-image media--view-mode-publicite-top-">
+  
+      
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <div class="field__label visually-hidden">Image</div>
+              <div class="field__item">  
+
+
+<img alt="ARCHE - ZE AWARDS BATI 2026" loading="eager" src="/sites/default/files/2026-03/ZA_BATI_26_BAN_MOBILE_900x270.gif" width="900" height="270" />
+
+</div>
+          </div>
+
+  </article>
+</div>
+      
+
+</div>
+
+</div>
+
+    </div>
+  
+          </div>
+</div>
+
+  </div>
+
+  </div>
+
+
+  
+
+  <main role="main">
+    
+    <div class="layout-content">
+        <div class="region region-content">
+    
+
+
+  <div data-history-node-id="1409" class="node node--type-article node--view-mode-full ds-1col clearfix">
+
+  
+
+  
+
+
+<div  class="group-tags">
+    
+
+
+            <div class="field field--name-field-rubrique field--type-entity-reference field--label-hidden field__item"><a href="/actu-industriels/second-oeuvre-technique" hreflang="fr">Second-Œuvre Technique</a></div>
+      
+  </div>
+
+
+
+
+            <div class="clearfix text-formatted field field--name-node-title field--type-ds field--label-hidden field__item"><h1>
+  « Nous sommes prêts pour la reprise avec nos fournisseurs et nos clients », V. Adam (Swiss Krono)
+</h1>
+</div>
+      
+
+
+<div  class="group-date-auteur">
+    
+
+            <div class="field field--name-node-post-date field--type-ds field--label-hidden field__item"><span>Publié le </span>20/04/2020 à 11h36</div>
+      
+
+            <div class="field field--name-node-changed-date field--type-ds field--label-hidden field__item"><span>, mis à jour le </span>18/01/2022 à 16h21</div>
+      
+
+
+
+                    <div class="field field--name-node-author field--type-ds field--label-hidden field__item"><a href="/la-redaction/40">Grégoire Noble</a></div>
+            
+  </div>
+
+            <div class="field field--name-field-image field--type-entity-reference field--label-hidden field__item"><article class="media media--type-image media--view-mode-article-header">
+  
+      
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <div class="field__label visually-hidden">Image</div>
+              <div class="field__item">    <picture>
+                  <source srcset="/sites/default/files/styles/discover/public/2022-09/zepros_default.webp?itok=H9So3G44 1x, /sites/default/files/styles/discover_retina/public/2022-09/zepros_default.webp?itok=p9GvY2KM 2x" media="(min-width: 3000px)" type="image/webp" width="775" height="441"/>
+              <source srcset="/sites/default/files/styles/article_full_desktop_760_470_/public/2022-09/zepros_default.webp?h=5a47d09f&amp;itok=znsl4fb3 1x, /sites/default/files/styles/article_full_desktop_retina/public/2022-09/zepros_default.webp?h=5a47d09f&amp;itok=DUx1ALgj 2x" media="(min-width: 576px)" type="image/webp" width="775" height="441"/>
+              <source srcset="/sites/default/files/styles/article_full_mobile_380_235/public/2022-09/zepros_default.webp?h=5a47d09f&amp;itok=wrIx2M5a 1x, /sites/default/files/styles/article_full_mobile_retina/public/2022-09/zepros_default.webp?h=5a47d09f&amp;itok=KMTwdfuF 2x" media="(max-width: 575.98px)" type="image/webp" width="380" height="235"/>
+                  
+
+
+<img loading="eager" width="380" height="235" src="/sites/default/files/styles/article_full_mobile_380_235/public/2022-09/zepros_default.webp?h=5a47d09f&amp;itok=wrIx2M5a" alt="logo générique ne pas toucher" />
+
+  </picture>
+
+</div>
+          </div>
+
+  </article>
+</div>
+      
+
+
+
+
+  
+    
+<div class="a2a_wrapper">
+    <span class="label-a2a top">Partager sur</span>
+        <span class="a2a_kit a2a_kit_size_32 addtoany_list" data-a2a-url="https://bati.zepros.fr/-nous-sommes-prets-pour-la-reprise-avec-nos-fournisseurs-et-nos-clients-v-adam-swiss-krono--87550"
+          data-a2a-title="« Nous sommes prêts pour la reprise avec nos fournisseurs et nos clients », V. Adam (Swiss Krono)">
+        
+                    <a class="a2a_button_linkedin"></a><a class="a2a_button_facebook"></a><a class="a2a_button_twitter"></a>
+        
+                            <a class="a2a_dd addtoany_share"
+           href="https://www.addtoany.com/share#url=https%3A%2F%2Fbati.zepros.fr%2F-nous-sommes-prets-pour-la-reprise-avec-nos-fournisseurs-et-nos-clients-v-adam-swiss-krono--87550&amp;title=%C2%AB%20Nous%20sommes%20pr%C3%AAts%20pour%20la%20reprise%20avec%20nos%20fournisseurs%20et%20nos%20clients%20%C2%BB%2C%20V.%20Adam%20%28Swiss%20Krono%29">
+                    </a>
+    
+              </span>
+</div>
+
+
+      <div class="field field--name-field-paragraphs field--type-entity-reference-revisions field--label-hidden field__items">
+              <div class="field__item">
+
+  <div class="paragraph paragraph--type--texte paragraph--view-mode--default">
+          
+            <div class="clearfix text-formatted field field--name-field-texte field--type-text-long field--label-hidden field__item"><p><strong><em>[Zepros Bati] Comment le spécialiste de l’OSB fait-il face à la crise du coronavirus ? Stocks, approvisionnement, adaptation de la production… Toutes les réponses avec Vincent Adam, président de Swiss Krono France.</em></strong></p></div>
+      
+      </div>
+</div>
+              <div class="field__item">
+
+  <div class="paragraph paragraph--type--texte paragraph--view-mode--default">
+          
+            <div class="clearfix text-formatted field field--name-field-texte field--type-text-long field--label-hidden field__item"><article class="align-left media media--type-image media--view-mode-photo">
+  
+      
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <div class="field__label visually-hidden">Image</div>
+              <div class="field__item">    <picture>
+                  <source srcset="/sites/default/files/styles/photo_interne_desktop/public/migrate_import/file_image1587374879384.webp?itok=wuJGeLX_ 1x, /sites/default/files/styles/photo_interne_desktop_retina/public/migrate_import/file_image1587374879384.webp?itok=3YzqSdJi 2x" media="(min-width: 576px)" type="image/webp" width="512" height="671">
+              <source srcset="/sites/default/files/styles/photo_interne_mobile/public/migrate_import/file_image1587374879384.webp?itok=KGk9R-cF 1x, /sites/default/files/styles/photo_interne_mobile_retina/public/migrate_import/file_image1587374879384.webp?itok=eNdXKxVD 2x" media="(max-width: 575.98px)" type="image/webp" width="380" height="498">
+              <source srcset="/sites/default/files/styles/photo_interne_desktop/public/migrate_import/file_image1587374879384.jpeg?itok=wuJGeLX_ 1x, /sites/default/files/styles/photo_interne_desktop_retina/public/migrate_import/file_image1587374879384.jpeg?itok=3YzqSdJi 2x" media="(min-width: 576px)" type="image/jpeg" width="512" height="671">
+              <source srcset="/sites/default/files/styles/photo_interne_mobile/public/migrate_import/file_image1587374879384.jpeg?itok=KGk9R-cF 1x, /sites/default/files/styles/photo_interne_mobile_retina/public/migrate_import/file_image1587374879384.jpeg?itok=eNdXKxVD 2x" media="(max-width: 575.98px)" type="image/jpeg" width="380" height="498">
+                  
+
+
+<img loading="eager" width="380" height="498" src="/sites/default/files/styles/photo_interne_mobile/public/migrate_import/file_image1587374879384.jpeg?itok=KGk9R-cF">
+
+  </picture>
+
+</div>
+          </div>
+
+  </article>
+<p></p>
+<p><strong><em>Zepros Bâti : </em></strong><strong>Quelles sont vos activités en France ?</strong></p>
+<p><strong>Vincent Adam : </strong>Nous avons un site de production situé à Sully-sur-Loire (Loiret) avec deux lignes qui fonctionnent en continu, ce qui représente 1 million de m3 de produits dérivés du bois et 400 personnes. Nous sommes fabricants d’OSB et de panneaux mélaminé pour les décors et nous avons deux domaines d’activité : la construction avec les panneaux et dalles OSB, et l’aménagement avec les panneaux décoratifs. Nous nous approvisionnons à 200 km alentours de l'usine pour nos matières premières (bois et colles).<br></p>
+<p><strong><em>Zepros Bâti : </em></strong><strong>Comment la pandémie impacte-t-elle Swiss Krono France ?</strong></p>
+<p><strong>Vincent Adam : </strong>Nous avons mis en place les mesures barrières dès le 9 mars, avant même le début du confinement. En nous appuyant sur les recommandations de l’OMS et du groupe Swiss Krono, nous avons instauré la distanciation et l’arrêt des réunions physiques, aussi bien en interne qu'avec nos différents partenaires, clients et fournisseurs. Nous avons ainsi pu continuer à produire jusqu’à la fin du mois de mars, mais depuis l'annonce du confinement, nous tournons au ralenti en raison de la fermeture de nos clients, GSB, négoces et industriels. Aujourd’hui nous conservons malgré tout une petite activité de production d’OSB pour soutenir la reprise du BTP et la réouverture ponctuelle des négoces de matériaux.</p></div>
+      
+      </div>
+</div>
+              <div class="field__item">
+
+  <div class="paragraph paragraph--type--texte paragraph--view-mode--default">
+          
+            <div class="clearfix text-formatted field field--name-field-texte field--type-text-long field--label-hidden field__item"><p><strong><em>Zepros Bâti :</em></strong><strong> Vous évoquez les mesures mises en place, quelles sont-elles ? </strong></p>
+<p><strong>Vincent Adam : </strong>Le site fait 60 hectares, il est donc grand. Et nos équipes ont été réduites à 10 personnes par ligne de production. Nous fournissons des masques de protection à ceux qui en demandent. Une partie de nos équipements a été donnée grâcieusement à ceux qui en avaient le plus besoin : nous avons remis 500 masques à l’hôpital de Sully et 1 500 à celui d’Orléans pour soutenir les équipes médicales, ce qui est essentiel. Dans le bâtiment administratif, il n’y a plus guère que 4 ou 5 personnes contre 30 à 40 en temps normal. Le chômage partiel a été mis en place avec une incitation à poser des congés, RTT et CET afin de maintenir des salaires complets. Il y a des roulements par service, afin que tout le monde puisse faire tourner une installation qui, elle, ne s’arrête pas. L’ensemble du groupe Swiss Krono s’est mis en mode « crise » en suspendant tous les investissements jusqu’à nouvel ordre. Et nous nous engageons à maintenir l’emploi.</p></div>
+      
+      </div>
+</div>
+              <div class="field__item">
+
+    <div class="paragraph paragraph--type--photo-interne paragraph--view-mode--default">
+                                    
+      <div class="field field--name-field-image-paragraph field--type-entity-reference field--label-hidden field__items">
+              <div class="field__item"><article class="media media--type-image media--view-mode-photo">
+  
+      
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <div class="field__label visually-hidden">Image</div>
+              <div class="field__item">    <picture>
+                  <source srcset="/sites/default/files/styles/photo_interne_desktop/public/migrate_import/file_image1587374923761_8827.webp?itok=2DgCVVDa 1x, /sites/default/files/styles/photo_interne_desktop_retina/public/migrate_import/file_image1587374923761_8827.webp?itok=X62xdGd_ 2x" media="(min-width: 576px)" type="image/webp" width="512" height="339"/>
+              <source srcset="/sites/default/files/styles/photo_interne_mobile/public/migrate_import/file_image1587374923761_8827.webp?itok=TPooo161 1x, /sites/default/files/styles/photo_interne_mobile_retina/public/migrate_import/file_image1587374923761_8827.webp?itok=AarqVgIf 2x" media="(max-width: 575.98px)" type="image/webp" width="380" height="252"/>
+              <source srcset="/sites/default/files/styles/photo_interne_desktop/public/migrate_import/file_image1587374923761_8827.jpeg?itok=2DgCVVDa 1x, /sites/default/files/styles/photo_interne_desktop_retina/public/migrate_import/file_image1587374923761_8827.jpeg?itok=X62xdGd_ 2x" media="(min-width: 576px)" type="image/jpeg" width="512" height="339"/>
+              <source srcset="/sites/default/files/styles/photo_interne_mobile/public/migrate_import/file_image1587374923761_8827.jpeg?itok=TPooo161 1x, /sites/default/files/styles/photo_interne_mobile_retina/public/migrate_import/file_image1587374923761_8827.jpeg?itok=AarqVgIf 2x" media="(max-width: 575.98px)" type="image/jpeg" width="380" height="252"/>
+                  
+
+
+<img loading="eager" width="380" height="252" src="/sites/default/files/styles/photo_interne_mobile/public/migrate_import/file_image1587374923761_8827.jpeg?itok=TPooo161" />
+
+  </picture>
+
+</div>
+          </div>
+
+  </article>
+</div>
+          </div>
+  
+                        <div class="group-legend-copyright">
+                                    <div class="field field--name-field-legende">Confection de panneaux OSB </div>
+                                            </div>
+            </div>
+</div>
+              <div class="field__item">
+
+  <div class="paragraph paragraph--type--texte paragraph--view-mode--default">
+          
+            <div class="clearfix text-formatted field field--name-field-texte field--type-text-long field--label-hidden field__item"><p><strong><em>Zepros Bâti :</em></strong><strong> Comment envisagez-vous la suite et la reprise d’une activité plus soutenue ?</strong></p>
+<p><strong>Vincent Adam : </strong>Nous voyons une lumière au bout du tunnel avec la date de déconfinement annoncé au 11 mai. Mais la santé des salariés et de leurs familles passe avant tout. Nous reprendrons donc, atelier par atelier, avec des personnes sans doute maintenues en télétravail pour l’administratif, et les équipements nécessaires pour les autres. Il faut que nous puissions équiper l’ensemble des salariés de masques de protection. Nous allons continuer à servir nos clients et à produire tant que nous n'avons pas atteint nos limites de capacité de stockage. Côté approvisionnement, les exploitations forestières fonctionnent toujours. Pour les panneaux de particules, nous avons un stock de matière première suffisant.</p>
+<p></p>
+<p><strong><em>Zepros Bâti :</em></strong><strong> Attendez-vous des soutiens particuliers ?</strong></p>
+<p><strong>Vincent Adam : </strong>Nous savons nous prendre en main, car on ne peut pas tout attendre du gouvernement. Nous avons donc passé commande pour des masques de protection. Et nous avons sollicité un soutien bancaire. Mais le prêt garanti par l’Etat devra tout de même être remboursé ! Il faudra tirer des enseignements de cette crise, revenir à des productions plus locales pour éviter des pénuries de certains produits ou composants. Le problème, pour la suite, sera celui des clients de nos clients, charpentiers, menuisiers et agenceurs. Auront-ils la trésorerie suffisante pour franchir le cap ? Peut-être y aura-t-il un contrecoup à l’automne ? Car les particuliers vont reporter leurs travaux en raison de pertes de salaire voire d’emploi. De notre côté, nous attaquerons la reprise avec un carnet de commandes relativement important, assurant 2-3 mois d’activité. Nous sommes prêts pour la reprise avec nos fournisseurs, nos clients et nous souhaitons avant tout que la majorité de nos partenaires et salariés reste en bonne santé afin de pouvoir traverser cette tempête ensemble.</p>
+<p></p>
+<p><strong>Propos recueillis pas Grégoire Noble</strong></p></div>
+      
+      </div>
+</div>
+          </div>
+  
+
+  <div class="auteur-end-article">
+    
+
+
+
+                    <div class="field field--name-node-author field--type-ds field--label-hidden field__item"><a href="/la-redaction/40">Grégoire Noble</a></div>
+            
+          <div class="auteur-short-description">
+        Fort de 13 ans d’expérience dans la presse bâtiment, Grégoire, Rédacteur en chef de Zepros Bâti depuis 2019, est spécialisé dans les matériaux, l’isolation, la charpente, la couverture et les innovations énergétiques.
+      </div>
+      </div>
+  <div class="bottom-article">
+    
+
+
+<div  class="group-tags">
+    
+
+
+            <div class="field field--name-field-rubrique field--type-entity-reference field--label-hidden field__item"><a href="/actu-industriels/second-oeuvre-technique" hreflang="fr">Second-Œuvre Technique</a></div>
+      
+  </div>
+
+    
+
+
+
+
+  
+    
+<div class="a2a_wrapper">
+    <span class="label-a2a top">Partager sur</span>
+        <span class="a2a_kit a2a_kit_size_32 addtoany_list" data-a2a-url="https://bati.zepros.fr/-nous-sommes-prets-pour-la-reprise-avec-nos-fournisseurs-et-nos-clients-v-adam-swiss-krono--87550"
+          data-a2a-title="« Nous sommes prêts pour la reprise avec nos fournisseurs et nos clients », V. Adam (Swiss Krono)">
+        
+                    <a class="a2a_button_linkedin"></a><a class="a2a_button_facebook"></a><a class="a2a_button_twitter"></a>
+        
+                            <a class="a2a_dd addtoany_share"
+           href="https://www.addtoany.com/share#url=https%3A%2F%2Fbati.zepros.fr%2F-nous-sommes-prets-pour-la-reprise-avec-nos-fournisseurs-et-nos-clients-v-adam-swiss-krono--87550&amp;title=%C2%AB%20Nous%20sommes%20pr%C3%AAts%20pour%20la%20reprise%20avec%20nos%20fournisseurs%20et%20nos%20clients%20%C2%BB%2C%20V.%20Adam%20%28Swiss%20Krono%29">
+                    </a>
+    
+              </span>
+</div>
+
+
+  </div>
+
+  
+
+<div id="block-inscriptionnewsletter" class="block-inscription-nl block block-block-content block-block-contentf3d632f0-5669-4713-b71d-b8902ef39f9d">
+  
+    
+      
+
+
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field__item"><div class="cta-nl"><div class="logo-nl"><i class="fas fa-envelope" aria-hidden="true"></i></div><p>Inscrivez-vous gratuitement à nos newsletters</p><p><a href="/abonnements" rel="noopener noreferrer">S'inscrire</a></p></div></div>
+      
+
+  </div>
+
+
+  
+  <div class="field field--name-dynamic-block-fieldnode-suggestion field--type-ds field--label-above">
+    <h2 class="field__label">Sur le même sujet</h2>
+                  <div class="field__item"><div class="views-element-container">
+
+
+<div class="view view-suggestion-bottom-ct view-id-suggestion_bottom_ct view-display-id-block_1 js-view-dom-id-15f8b71a742fb5d3e45e765599b750efac4ed8f4c979eb3840ae15d397844414 page-">
+
+      <div class="view-content">
+                  <div class="views-row">
+
+
+
+  
+  <div data-history-node-id="7260" class="node node--type-interview node--view-mode-rectangle-no-h3 ds-1col clearfix">
+
+  
+
+  
+            <div class="field field--name-field-image field--type-entity-reference field--label-hidden field__item"><article class="media media--type-image media--view-mode-rect">
+  
+      
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <div class="field__label visually-hidden">Image</div>
+              <div class="field__item">  <a href="/actu-industriels/chauffage-collectif-devient-enfin-pilotable">  <picture>
+                  <source srcset="/sites/default/files/styles/rect_desktio/public/2026-03/Portrait%20Eric%20Vorger%20--%20resiz%C3%A9.webp?h=86f9d211&amp;itok=9W0OcLs4 1x, /sites/default/files/styles/rect_desktop_retina/public/2026-03/Portrait%20Eric%20Vorger%20--%20resiz%C3%A9.webp?h=86f9d211&amp;itok=pES87hpm 2x" media="(min-width: 576px)" type="image/webp" width="128" height="80"/>
+              <source srcset="/sites/default/files/styles/rect_desktio/public/2026-03/Portrait%20Eric%20Vorger%20--%20resiz%C3%A9.jpg?h=86f9d211&amp;itok=9W0OcLs4 1x, /sites/default/files/styles/rect_desktop_retina/public/2026-03/Portrait%20Eric%20Vorger%20--%20resiz%C3%A9.jpg?h=86f9d211&amp;itok=pES87hpm 2x" media="(min-width: 576px)" type="image/jpeg" width="128" height="80"/>
+                  
+
+
+<img loading="eager" width="128" height="80" src="/sites/default/files/styles/rect_desktio/public/2026-03/Portrait%20Eric%20Vorger%20--%20resiz%C3%A9.jpg?h=86f9d211&amp;itok=9W0OcLs4" alt="Portrait d&#039;Eric Vorger cofondateur et CEO de Kocliko" />
+
+  </picture>
+</a>
+</div>
+          </div>
+
+  </article>
+</div>
+      
+
+
+            <div class="field field--name-field-rubrique field--type-entity-reference field--label-hidden field__item"><a href="/actu-industriels" hreflang="fr">Actu des industriels</a></div>
+      
+
+
+      <div class="field field--name-field-sujets field--type-entity-reference field--label-hidden field__items">
+              <div class="field__item"><a href="/second-oeuvre-technique" hreflang="fr">Second œuvre technique</a></div>
+          </div>
+  
+
+
+
+            <div class="clearfix text-formatted field field--name-bundle-fieldnode field--type-ds field--label-hidden field__item">Interview</div>
+      
+
+            <div class="field field--name-node-post-date field--type-ds field--label-hidden field__item"><span>Publié le </span>17/03/2026</div>
+      
+
+
+
+            <div class="clearfix text-formatted field field--name-node-title field--type-ds field--label-hidden field__item">  <a href="/actu-industriels/chauffage-collectif-devient-enfin-pilotable" hreflang="fr">« Le chauffage collectif devient enfin pilotable »</a>
+</div>
+      
+
+  </div>
+
+
+</div>
+
+                                  <div class="views-row">
+
+
+
+  
+  <div data-history-node-id="7224" class="node node--type-article node--view-mode-rectangle-no-h3 ds-1col clearfix sponso">
+
+  
+
+  
+            <div class="field field--name-field-image field--type-entity-reference field--label-hidden field__item"><article class="media media--type-image media--view-mode-rect">
+  
+      
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <div class="field__label visually-hidden">Image</div>
+              <div class="field__item">  <a href="/actu-generale/bosch-expert-gamme-etend-outils-electroportatifs-instruments-mesure">  <picture>
+                  <source srcset="/sites/default/files/styles/rect_desktio/public/2026-03/BO_26_164_Digitale%20EXPERT%20Assets_Banner%20Container_Bati%20Zepros_HY_V1_150dpi.webp?h=4ff8be71&amp;itok=BPnX4AUe 1x, /sites/default/files/styles/rect_desktop_retina/public/2026-03/BO_26_164_Digitale%20EXPERT%20Assets_Banner%20Container_Bati%20Zepros_HY_V1_150dpi.webp?h=4ff8be71&amp;itok=bqKrhPJi 2x" media="(min-width: 576px)" type="image/webp" width="128" height="80"/>
+              <source srcset="/sites/default/files/styles/rect_desktio/public/2026-03/BO_26_164_Digitale%20EXPERT%20Assets_Banner%20Container_Bati%20Zepros_HY_V1_150dpi.jpg?h=4ff8be71&amp;itok=BPnX4AUe 1x, /sites/default/files/styles/rect_desktop_retina/public/2026-03/BO_26_164_Digitale%20EXPERT%20Assets_Banner%20Container_Bati%20Zepros_HY_V1_150dpi.jpg?h=4ff8be71&amp;itok=bqKrhPJi 2x" media="(min-width: 576px)" type="image/jpeg" width="128" height="80"/>
+                  
+
+
+<img loading="eager" width="128" height="80" src="/sites/default/files/styles/rect_desktio/public/2026-03/BO_26_164_Digitale%20EXPERT%20Assets_Banner%20Container_Bati%20Zepros_HY_V1_150dpi.jpg?h=4ff8be71&amp;itok=BPnX4AUe" alt="LE MEILLEUR POUR VOTRE MÉTIER - BOSCH" />
+
+  </picture>
+</a>
+</div>
+          </div>
+
+  </article>
+</div>
+      
+
+
+            <div class="field field--name-field-rubrique field--type-entity-reference field--label-hidden field__item"><a href="/actu-generale" hreflang="fr">Actu Générale</a></div>
+      
+
+            <div class="field field--name-field-sponsor field--type-string field--label-hidden field__item">Sponsorisé par BOSCH</div>
+      
+
+            <div class="field field--name-node-post-date field--type-ds field--label-hidden field__item"><span>Publié le </span>02/03/2026 à 10h21</div>
+      
+
+
+
+            <div class="clearfix text-formatted field field--name-node-title field--type-ds field--label-hidden field__item">  <a href="/actu-generale/bosch-expert-gamme-etend-outils-electroportatifs-instruments-mesure" hreflang="fr">Bosch Expert : la gamme s’étend aux outils électroportatifs et aux instruments de mesure</a>
+</div>
+      
+
+  </div>
+
+
+</div>
+
+                                                                <div class="views-row">
+
+
+
+  
+  <div data-history-node-id="7259" class="node node--type-article node--view-mode-rectangle-no-h3 ds-1col clearfix">
+
+  
+
+  
+            <div class="field field--name-field-image field--type-entity-reference field--label-hidden field__item"><article class="media media--type-image media--view-mode-rect">
+  
+      
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <div class="field__label visually-hidden">Image</div>
+              <div class="field__item">  <a href="/actu-industriels/queguiner-ouvre-nouvelle-centrale-bpe-guipavas">  <picture>
+                  <source srcset="/sites/default/files/styles/rect_desktio/public/2026-03/Qu%C3%A9guiner%20b%C3%A9ton%201_0.webp?h=665d4375&amp;itok=4fAwV1aY 1x, /sites/default/files/styles/rect_desktop_retina/public/2026-03/Qu%C3%A9guiner%20b%C3%A9ton%201_0.webp?h=665d4375&amp;itok=NJA634lK 2x" media="(min-width: 576px)" type="image/webp" width="128" height="80"/>
+              <source srcset="/sites/default/files/styles/rect_desktio/public/2026-03/Qu%C3%A9guiner%20b%C3%A9ton%201_0.jpg?h=665d4375&amp;itok=4fAwV1aY 1x, /sites/default/files/styles/rect_desktop_retina/public/2026-03/Qu%C3%A9guiner%20b%C3%A9ton%201_0.jpg?h=665d4375&amp;itok=NJA634lK 2x" media="(min-width: 576px)" type="image/jpeg" width="128" height="80"/>
+                  
+
+
+<img loading="eager" width="128" height="80" src="/sites/default/files/styles/rect_desktio/public/2026-03/Qu%C3%A9guiner%20b%C3%A9ton%201_0.jpg?h=665d4375&amp;itok=4fAwV1aY" alt="Quéguiner" />
+
+  </picture>
+</a>
+</div>
+          </div>
+
+  </article>
+</div>
+      
+
+
+            <div class="field field--name-field-rubrique field--type-entity-reference field--label-hidden field__item"><a href="/actu-industriels" hreflang="fr">Actu des industriels</a></div>
+      
+
+            <div class="field field--name-node-post-date field--type-ds field--label-hidden field__item"><span>Publié le </span>17/03/2026 à 11h12</div>
+      
+
+
+
+            <div class="clearfix text-formatted field field--name-node-title field--type-ds field--label-hidden field__item">  <a href="/actu-industriels/queguiner-ouvre-nouvelle-centrale-bpe-guipavas" hreflang="fr">Quéguiner ouvre une nouvelle centrale BPE à Guipavas</a>
+</div>
+      
+
+  </div>
+
+
+</div>
+    <div class="views-row">
+
+
+
+  
+  <div data-history-node-id="7258" class="node node--type-article node--view-mode-rectangle-no-h3 ds-1col clearfix">
+
+  
+
+  
+            <div class="field field--name-field-image field--type-entity-reference field--label-hidden field__item"><article class="media media--type-image media--view-mode-rect">
+  
+      
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <div class="field__label visually-hidden">Image</div>
+              <div class="field__item">  <a href="/actu-industriels/pompes-chaleur-cepac-veut-structurer-filiere-pleine-acceleration">  <picture>
+                  <source srcset="/sites/default/files/styles/rect_desktio/public/2026-03/CEPAC%20membres%20--%20resiz%C3%A9.webp?h=f051d263&amp;itok=NXnRDs75 1x, /sites/default/files/styles/rect_desktop_retina/public/2026-03/CEPAC%20membres%20--%20resiz%C3%A9.webp?h=f051d263&amp;itok=FOlO5XxP 2x" media="(min-width: 576px)" type="image/webp" width="128" height="80"/>
+              <source srcset="/sites/default/files/styles/rect_desktio/public/2026-03/CEPAC%20membres%20--%20resiz%C3%A9.jpg?h=f051d263&amp;itok=NXnRDs75 1x, /sites/default/files/styles/rect_desktop_retina/public/2026-03/CEPAC%20membres%20--%20resiz%C3%A9.jpg?h=f051d263&amp;itok=FOlO5XxP 2x" media="(min-width: 576px)" type="image/jpeg" width="128" height="80"/>
+                  
+
+
+<img loading="eager" width="128" height="80" src="/sites/default/files/styles/rect_desktio/public/2026-03/CEPAC%20membres%20--%20resiz%C3%A9.jpg?h=f051d263&amp;itok=NXnRDs75" alt="CEPAC Centre d’Expertise pour les Pompes à Chaleur membres" />
+
+  </picture>
+</a>
+</div>
+          </div>
+
+  </article>
+</div>
+      
+
+
+            <div class="field field--name-field-rubrique field--type-entity-reference field--label-hidden field__item"><a href="/actu-industriels" hreflang="fr">Actu des industriels</a></div>
+      
+
+
+      <div class="field field--name-field-sujets field--type-entity-reference field--label-hidden field__items">
+              <div class="field__item"><a href="/second-oeuvre-technique" hreflang="fr">Second œuvre technique</a></div>
+          </div>
+  
+
+            <div class="field field--name-node-post-date field--type-ds field--label-hidden field__item"><span>Publié le </span>17/03/2026 à 09h18</div>
+      
+
+
+
+            <div class="clearfix text-formatted field field--name-node-title field--type-ds field--label-hidden field__item">  <a href="/actu-industriels/pompes-chaleur-cepac-veut-structurer-filiere-pleine-acceleration" hreflang="fr">Pompes à chaleur : le CEPAC veut structurer une filière en pleine accélération</a>
+</div>
+      
+
+  </div>
+
+
+</div>
+
+                                                
+                                                                <div class="views-row">
+
+
+
+  
+  <div data-history-node-id="7254" class="node node--type-interview node--view-mode-rectangle-no-h3 ds-1col clearfix">
+
+  
+
+  
+            <div class="field field--name-field-image field--type-entity-reference field--label-hidden field__item"><article class="media media--type-image media--view-mode-rect">
+  
+      
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <div class="field__label visually-hidden">Image</div>
+              <div class="field__item">  <a href="/actu-industriels/marion-boisset-prend-direction-marketing-sp-france">  <picture>
+                  <source srcset="/sites/default/files/styles/rect_desktio/public/2026-01/marion-boisset-1%20--%20resiz%C3%A9.webp?h=665d4375&amp;itok=VBIVR85E 1x, /sites/default/files/styles/rect_desktop_retina/public/2026-01/marion-boisset-1%20--%20resiz%C3%A9.webp?h=665d4375&amp;itok=ArjVVORO 2x" media="(min-width: 576px)" type="image/webp" width="128" height="80"/>
+              <source srcset="/sites/default/files/styles/rect_desktio/public/2026-01/marion-boisset-1%20--%20resiz%C3%A9.jpg?h=665d4375&amp;itok=VBIVR85E 1x, /sites/default/files/styles/rect_desktop_retina/public/2026-01/marion-boisset-1%20--%20resiz%C3%A9.jpg?h=665d4375&amp;itok=ArjVVORO 2x" media="(min-width: 576px)" type="image/jpeg" width="128" height="80"/>
+                  
+
+
+<img loading="eager" width="128" height="80" src="/sites/default/files/styles/rect_desktio/public/2026-01/marion-boisset-1%20--%20resiz%C3%A9.jpg?h=665d4375&amp;itok=VBIVR85E" alt="Marion Boisset directrice marketing S&amp;P France" />
+
+  </picture>
+</a>
+</div>
+          </div>
+
+  </article>
+</div>
+      
+
+
+            <div class="field field--name-field-rubrique field--type-entity-reference field--label-hidden field__item"><a href="/actu-industriels" hreflang="fr">Actu des industriels</a></div>
+      
+
+
+      <div class="field field--name-field-sujets field--type-entity-reference field--label-hidden field__items">
+              <div class="field__item"><a href="/second-oeuvre-technique" hreflang="fr">Second œuvre technique</a></div>
+          </div>
+  
+
+
+
+            <div class="clearfix text-formatted field field--name-bundle-fieldnode field--type-ds field--label-hidden field__item">Interview</div>
+      
+
+            <div class="field field--name-node-post-date field--type-ds field--label-hidden field__item"><span>Publié le </span>12/03/2026</div>
+      
+
+
+
+            <div class="clearfix text-formatted field field--name-node-title field--type-ds field--label-hidden field__item">  <a href="/actu-industriels/ventilation-doit-devenir-reflexe-projets-renovation" hreflang="fr">« La ventilation doit devenir un réflexe dans les projets de rénovation »</a>
+</div>
+      
+
+  </div>
+
+
+</div>
+    <div class="views-row">
+
+
+
+  
+  <div data-history-node-id="7253" class="node node--type-interview node--view-mode-rectangle-no-h3 ds-1col clearfix">
+
+  
+
+  
+            <div class="field field--name-field-image field--type-entity-reference field--label-hidden field__item"><article class="media media--type-image media--view-mode-rect">
+  
+      
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <div class="field__label visually-hidden">Image</div>
+              <div class="field__item">  <a href="/actu-industriels/etre-plus-proche-marches-nos-clients">  <picture>
+                  <source srcset="/sites/default/files/styles/rect_desktio/public/2026-03/Edouard%20de%20la%20Cotardi%C3%A8re.webp?h=350452de&amp;itok=PHI3i4B0 1x, /sites/default/files/styles/rect_desktop_retina/public/2026-03/Edouard%20de%20la%20Cotardi%C3%A8re.webp?h=350452de&amp;itok=CgOoGInr 2x" media="(min-width: 576px)" type="image/webp" width="128" height="80"/>
+              <source srcset="/sites/default/files/styles/rect_desktio/public/2026-03/Edouard%20de%20la%20Cotardi%C3%A8re.png?h=350452de&amp;itok=PHI3i4B0 1x, /sites/default/files/styles/rect_desktop_retina/public/2026-03/Edouard%20de%20la%20Cotardi%C3%A8re.png?h=350452de&amp;itok=CgOoGInr 2x" media="(min-width: 576px)" type="image/png" width="128" height="80"/>
+                  
+
+
+<img loading="eager" width="128" height="80" src="/sites/default/files/styles/rect_desktio/public/2026-03/Edouard%20de%20la%20Cotardi%C3%A8re.png?h=350452de&amp;itok=PHI3i4B0" alt="édouard de la cotardière vice-président europe ouest Tarkett" />
+
+  </picture>
+</a>
+</div>
+          </div>
+
+  </article>
+</div>
+      
+
+
+            <div class="field field--name-field-rubrique field--type-entity-reference field--label-hidden field__item"><a href="/actu-industriels" hreflang="fr">Actu des industriels</a></div>
+      
+
+
+      <div class="field field--name-field-sujets field--type-entity-reference field--label-hidden field__items">
+              <div class="field__item"><a href="/revetements-sol" hreflang="fr">Revêtements de sol</a></div>
+          </div>
+  
+
+
+
+            <div class="clearfix text-formatted field field--name-bundle-fieldnode field--type-ds field--label-hidden field__item">Interview</div>
+      
+
+            <div class="field field--name-node-post-date field--type-ds field--label-hidden field__item"><span>Publié le </span>12/03/2026</div>
+      
+
+
+
+            <div class="clearfix text-formatted field field--name-node-title field--type-ds field--label-hidden field__item">  <a href="/actu-industriels/etre-plus-proche-marches-nos-clients" hreflang="fr">&quot;Être au plus proche des marchés et de nos clients&quot;</a>
+</div>
+      
+
+  </div>
+
+
+</div>
+    <div class="views-row">
+
+
+
+  
+  <div data-history-node-id="7249" class="node node--type-article node--view-mode-rectangle-no-h3 ds-1col clearfix">
+
+  
+
+  
+            <div class="field field--name-field-image field--type-entity-reference field--label-hidden field__item"><article class="media media--type-image media--view-mode-rect">
+  
+      
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <div class="field__label visually-hidden">Image</div>
+              <div class="field__item">  <a href="/actu-industriels/etex-se-penche-recyclage-composites">  <picture>
+                  <source srcset="/sites/default/files/styles/rect_desktio/public/2026-03/Fairmat%20chip.webp?h=904df13e&amp;itok=aZAI5KJ0 1x, /sites/default/files/styles/rect_desktop_retina/public/2026-03/Fairmat%20chip.webp?h=904df13e&amp;itok=M_jAE4fs 2x" media="(min-width: 576px)" type="image/webp" width="128" height="80"/>
+              <source srcset="/sites/default/files/styles/rect_desktio/public/2026-03/Fairmat%20chip.png?h=904df13e&amp;itok=aZAI5KJ0 1x, /sites/default/files/styles/rect_desktop_retina/public/2026-03/Fairmat%20chip.png?h=904df13e&amp;itok=M_jAE4fs 2x" media="(min-width: 576px)" type="image/png" width="128" height="80"/>
+                  
+
+
+<img loading="eager" width="128" height="80" src="/sites/default/files/styles/rect_desktio/public/2026-03/Fairmat%20chip.png?h=904df13e&amp;itok=aZAI5KJ0" alt="fibre de carbone recyclage" />
+
+  </picture>
+</a>
+</div>
+          </div>
+
+  </article>
+</div>
+      
+
+
+            <div class="field field--name-field-rubrique field--type-entity-reference field--label-hidden field__item"><a href="/actu-industriels" hreflang="fr">Actu des industriels</a></div>
+      
+
+
+      <div class="field field--name-field-sujets field--type-entity-reference field--label-hidden field__items">
+              <div class="field__item"><a href="/recyclage" hreflang="fr">Recyclage</a></div>
+          </div>
+  
+
+            <div class="field field--name-node-post-date field--type-ds field--label-hidden field__item"><span>Publié le </span>11/03/2026 à 16h23</div>
+      
+
+
+
+            <div class="clearfix text-formatted field field--name-node-title field--type-ds field--label-hidden field__item">  <a href="/actu-industriels/etex-se-penche-recyclage-composites" hreflang="fr">Etex se penche sur le recyclage des composites</a>
+</div>
+      
+
+  </div>
+
+
+</div>
+
+                                        </div>
+  
+</div></div>
+</div>
+              </div>
+
+
+  </div>
+
+
+
+  </div>
+
+    </div>
+
+          <aside class="layout-sidebar-second" role="complementary">
+          <div class="region region-sidebar-second">
+    
+
+<div class="views-element-container block block-views block-views-blocka-la-une-block-2" id="block-views-block-a-la-une-block-2">
+  
+      <h2>à la une</h2>
+    
+      <div>
+
+
+<div class="view view-a-la-une view-id-a_la_une view-display-id-block_2 js-view-dom-id-6a98a3637837ec898d1fc45d602c56a3bfcb1560a20fda994681da96419e4cb0">
+  
+    
+      <div class="view-header">
+      <div class="view view-a-la-une view-id-a_la_une view-display-id-block_9 js-view-dom-id-ca9ad64732bfd274371ee97f53a647b559cf869f045811f5c9244abddc17360d">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row">
+
+
+
+  
+  <div data-history-node-id="7248" class="node node--type-article node--view-mode-liste-no-h3 ds-1col clearfix">
+
+  
+
+  
+            <div class="field field--name-field-image field--type-entity-reference field--label-hidden field__item"><article class="media media--type-image media--view-mode-rect">
+  
+      
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <div class="field__label visually-hidden">Image</div>
+              <div class="field__item">  <a href="/actu-generale/premiere-logement-parlement-europeen-vote-plan-anti-crise">  <picture>
+                  <source srcset="/sites/default/files/styles/rect_desktio/public/2026-03/Parlement%20europ%C3%A9en.webp?h=ac0e93cd&amp;itok=nSR-i9EF 1x, /sites/default/files/styles/rect_desktop_retina/public/2026-03/Parlement%20europ%C3%A9en.webp?h=ac0e93cd&amp;itok=d4SFC0T6 2x" media="(min-width: 576px)" type="image/webp" width="128" height="80"/>
+              <source srcset="/sites/default/files/styles/rect_desktio/public/2026-03/Parlement%20europ%C3%A9en.jpg?h=ac0e93cd&amp;itok=nSR-i9EF 1x, /sites/default/files/styles/rect_desktop_retina/public/2026-03/Parlement%20europ%C3%A9en.jpg?h=ac0e93cd&amp;itok=d4SFC0T6 2x" media="(min-width: 576px)" type="image/jpeg" width="128" height="80"/>
+                  
+
+
+<img loading="eager" width="128" height="80" src="/sites/default/files/styles/rect_desktio/public/2026-03/Parlement%20europ%C3%A9en.jpg?h=ac0e93cd&amp;itok=nSR-i9EF" alt="Parlement Européen" />
+
+  </picture>
+</a>
+</div>
+          </div>
+
+  </article>
+</div>
+      
+
+            <div class="field field--name-node-post-date field--type-ds field--label-hidden field__item"><span>Publié le </span>11/03/2026</div>
+      
+
+
+
+            <div class="clearfix text-formatted field field--name-node-title field--type-ds field--label-hidden field__item">  <a href="/actu-generale/premiere-logement-parlement-europeen-vote-plan-anti-crise" hreflang="fr">Une première pour le Logement :  le Parlement européen vote un plan anti-crise</a>
+</div>
+      
+
+  </div>
+
+
+</div>
+
+    </div>
+  
+          </div>
+
+    </div>
+      
+      <div class="view-content">
+          <div class="views-row">
+
+
+
+  
+  <div data-history-node-id="7261" class="node node--type-article node--view-mode-liste-no-h3 ds-1col clearfix">
+
+  
+
+  
+            <div class="field field--name-field-image field--type-entity-reference field--label-hidden field__item"><article class="media media--type-image media--view-mode-rect">
+  
+      
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <div class="field__label visually-hidden">Image</div>
+              <div class="field__item">  <a href="/actu-generale/ffb-entrevoit-amorce-reprise">  <picture>
+                  <source srcset="/sites/default/files/styles/rect_desktio/public/2026-03/FFB%20salleron%20derni%C3%A8re.webp?h=fd3c79c5&amp;itok=AmTgwBRW 1x, /sites/default/files/styles/rect_desktop_retina/public/2026-03/FFB%20salleron%20derni%C3%A8re.webp?h=fd3c79c5&amp;itok=Ml61cO_h 2x" media="(min-width: 576px)" type="image/webp" width="128" height="80"/>
+              <source srcset="/sites/default/files/styles/rect_desktio/public/2026-03/FFB%20salleron%20derni%C3%A8re.jpeg?h=fd3c79c5&amp;itok=AmTgwBRW 1x, /sites/default/files/styles/rect_desktop_retina/public/2026-03/FFB%20salleron%20derni%C3%A8re.jpeg?h=fd3c79c5&amp;itok=Ml61cO_h 2x" media="(min-width: 576px)" type="image/jpeg" width="128" height="80"/>
+                  
+
+
+<img loading="eager" width="128" height="80" src="/sites/default/files/styles/rect_desktio/public/2026-03/FFB%20salleron%20derni%C3%A8re.jpeg?h=fd3c79c5&amp;itok=AmTgwBRW" alt="FFB président olivier Salleron" />
+
+  </picture>
+</a>
+</div>
+          </div>
+
+  </article>
+</div>
+      
+
+            <div class="field field--name-node-post-date field--type-ds field--label-hidden field__item"><span>Publié le </span>17/03/2026</div>
+      
+
+
+
+            <div class="clearfix text-formatted field field--name-node-title field--type-ds field--label-hidden field__item">  <a href="/actu-generale/ffb-entrevoit-amorce-reprise" hreflang="fr">La FFB entrevoit l&#039;amorce d&#039;une reprise</a>
+</div>
+      
+
+  </div>
+
+
+</div>
+    <div class="views-row">
+
+
+
+  
+  <div data-history-node-id="7253" class="node node--type-interview node--view-mode-liste-no-h3 ds-1col clearfix">
+
+  
+
+  
+            <div class="field field--name-field-image field--type-entity-reference field--label-hidden field__item"><article class="media media--type-image media--view-mode-rect">
+  
+      
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <div class="field__label visually-hidden">Image</div>
+              <div class="field__item">  <a href="/actu-industriels/etre-plus-proche-marches-nos-clients">  <picture>
+                  <source srcset="/sites/default/files/styles/rect_desktio/public/2026-03/Edouard%20de%20la%20Cotardi%C3%A8re.webp?h=350452de&amp;itok=PHI3i4B0 1x, /sites/default/files/styles/rect_desktop_retina/public/2026-03/Edouard%20de%20la%20Cotardi%C3%A8re.webp?h=350452de&amp;itok=CgOoGInr 2x" media="(min-width: 576px)" type="image/webp" width="128" height="80"/>
+              <source srcset="/sites/default/files/styles/rect_desktio/public/2026-03/Edouard%20de%20la%20Cotardi%C3%A8re.png?h=350452de&amp;itok=PHI3i4B0 1x, /sites/default/files/styles/rect_desktop_retina/public/2026-03/Edouard%20de%20la%20Cotardi%C3%A8re.png?h=350452de&amp;itok=CgOoGInr 2x" media="(min-width: 576px)" type="image/png" width="128" height="80"/>
+                  
+
+
+<img loading="eager" width="128" height="80" src="/sites/default/files/styles/rect_desktio/public/2026-03/Edouard%20de%20la%20Cotardi%C3%A8re.png?h=350452de&amp;itok=PHI3i4B0" alt="édouard de la cotardière vice-président europe ouest Tarkett" />
+
+  </picture>
+</a>
+</div>
+          </div>
+
+  </article>
+</div>
+      
+
+            <div class="field field--name-node-post-date field--type-ds field--label-hidden field__item"><span>Publié le </span>12/03/2026</div>
+      
+
+
+
+            <div class="clearfix text-formatted field field--name-node-title field--type-ds field--label-hidden field__item">  <a href="/actu-industriels/etre-plus-proche-marches-nos-clients" hreflang="fr">&quot;Être au plus proche des marchés et de nos clients&quot;</a>
+</div>
+      
+
+  </div>
+
+
+</div>
+    <div class="views-row">
+
+
+
+  
+  <div data-history-node-id="7250" class="node node--type-article node--view-mode-liste-no-h3 ds-1col clearfix">
+
+  
+
+  
+            <div class="field field--name-field-image field--type-entity-reference field--label-hidden field__item"><article class="media media--type-image media--view-mode-rect">
+  
+      
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <div class="field__label visually-hidden">Image</div>
+              <div class="field__item">  <a href="/chantiers/curage-comment-ancienne-cite-administrative-vannes-ete-deshabillee">  <picture>
+                  <source srcset="/sites/default/files/styles/rect_desktio/public/2026-03/RENOZP10%20Chantier%20Vannes%20photo%201%20--%20cr%C3%A9dit%20Ville%20de%20Vannes.webp?h=251e9bf5&amp;itok=u4WUF1VA 1x, /sites/default/files/styles/rect_desktop_retina/public/2026-03/RENOZP10%20Chantier%20Vannes%20photo%201%20--%20cr%C3%A9dit%20Ville%20de%20Vannes.webp?h=251e9bf5&amp;itok=8qjUQpKR 2x" media="(min-width: 576px)" type="image/webp" width="128" height="80"/>
+              <source srcset="/sites/default/files/styles/rect_desktio/public/2026-03/RENOZP10%20Chantier%20Vannes%20photo%201%20--%20cr%C3%A9dit%20Ville%20de%20Vannes.jpg?h=251e9bf5&amp;itok=u4WUF1VA 1x, /sites/default/files/styles/rect_desktop_retina/public/2026-03/RENOZP10%20Chantier%20Vannes%20photo%201%20--%20cr%C3%A9dit%20Ville%20de%20Vannes.jpg?h=251e9bf5&amp;itok=8qjUQpKR 2x" media="(min-width: 576px)" type="image/jpeg" width="128" height="80"/>
+                  
+
+
+<img loading="eager" width="128" height="80" src="/sites/default/files/styles/rect_desktio/public/2026-03/RENOZP10%20Chantier%20Vannes%20photo%201%20--%20cr%C3%A9dit%20Ville%20de%20Vannes.jpg?h=251e9bf5&amp;itok=u4WUF1VA" alt="Vannes Chantier 1" />
+
+  </picture>
+</a>
+</div>
+          </div>
+
+  </article>
+</div>
+      
+
+            <div class="field field--name-node-post-date field--type-ds field--label-hidden field__item"><span>Publié le </span>12/03/2026</div>
+      
+
+
+
+            <div class="clearfix text-formatted field field--name-node-title field--type-ds field--label-hidden field__item">  <a href="/chantiers/curage-comment-ancienne-cite-administrative-vannes-ete-deshabillee" hreflang="fr">CURAGE Comment l’ancienne cité administrative de Vannes a été déshabillée</a>
+</div>
+      
+
+  </div>
+
+
+</div>
+
+    </div>
+  
+          </div>
+</div>
+
+  </div>
+
+
+
+<div class="views-element-container block block-views block-views-blocksponso-sidebar-block-2" id="block-views-block-sponso-sidebar-block-2">
+  
+      <h2>En lumière</h2>
+    
+      <div><div class="view view-sponso-sidebar view-id-sponso_sidebar view-display-id-block_2 js-view-dom-id-3164022f5ef01b5efd7b48b7e61f0138d7b6a68cb61e9edb2723f08eb893263c">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row">
+
+
+
+  
+  <div data-history-node-id="7257" class="node node--type-article node--view-mode-carre ds-1col clearfix">
+
+  
+
+  
+
+
+            <div class="field field--name-field-rubrique field--type-entity-reference field--label-hidden field__item"><a href="/actu-generale" hreflang="fr">Actu Générale</a></div>
+      
+            <div class="field field--name-field-image field--type-entity-reference field--label-hidden field__item"><article class="media media--type-image media--view-mode-carre">
+  
+      
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <div class="field__label visually-hidden">Image</div>
+              <div class="field__item">  <a href="/actu-generale/ze-awards-bati-2026-ouverture-candidatures">  <picture>
+                  <source srcset="/sites/default/files/styles/carre_desktop/public/2026-03/ZA_BATI_2026_SITE_COUV_760X470_APPEL_CANDIDATURES.webp?h=f7316d97&amp;itok=59Os9mq7 1x, /sites/default/files/styles/carre_desktop_retina/public/2026-03/ZA_BATI_2026_SITE_COUV_760X470_APPEL_CANDIDATURES.webp?h=f7316d97&amp;itok=rWFBqDvo 2x" media="(min-width: 576px)" type="image/webp" width="362" height="226"/>
+              <source srcset="/sites/default/files/styles/carre_desktop/public/2026-03/ZA_BATI_2026_SITE_COUV_760X470_APPEL_CANDIDATURES.png?h=f7316d97&amp;itok=59Os9mq7 1x, /sites/default/files/styles/carre_desktop_retina/public/2026-03/ZA_BATI_2026_SITE_COUV_760X470_APPEL_CANDIDATURES.png?h=f7316d97&amp;itok=rWFBqDvo 2x" media="(min-width: 576px)" type="image/png" width="362" height="226"/>
+                  
+
+
+<img loading="eager" width="362" height="226" src="/sites/default/files/styles/carre_desktop/public/2026-03/ZA_BATI_2026_SITE_COUV_760X470_APPEL_CANDIDATURES.png?h=f7316d97&amp;itok=59Os9mq7" alt="zab" />
+
+  </picture>
+</a>
+</div>
+          </div>
+
+  </article>
+</div>
+      
+
+            <div class="field field--name-node-post-date field--type-ds field--label-hidden field__item"><span>Publié le </span>16/03/2026</div>
+      
+
+
+
+            <div class="clearfix text-formatted field field--name-node-title field--type-ds field--label-hidden field__item"><h3>
+  <a href="/actu-generale/ze-awards-bati-2026-ouverture-candidatures" hreflang="fr">Ze Awards Bâti 2026 : ouverture des candidatures !</a>
+</h3>
+</div>
+      
+
+  </div>
+
+
+</div>
+
+    </div>
+  
+          </div>
+</div>
+
+  </div>
+
+
+<div id="block-rejoigneznoussurlesreseauxsociaux" class="block-rs-front block block-block-content block-block-content938b1adf-8b18-43bf-aa98-2965e725565e">
+  
+      <h2>Rejoignez-nous  sur les réseaux sociaux</h2>
+    
+      
+
+
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field__item"><div class="icon"><div class="rs-popup linkedin"><div class="fab fa-linkedin-in main-icon" aria-hidden="true">&nbsp;</div><ul><li><a href="https://www.linkedin.com/company/zepros-bati" target="_blank" rel="noopener noreferrer"><i class="fab fa-linkedin-in" aria-hidden="true"></i>Zepros Bâti</a></li><li><a href="https://www.linkedin.com/company/zepros-%C3%A9nergie" target="_blank" rel="noopener noreferrer"><i class="fab fa-linkedin-in" aria-hidden="true"></i>Zepros Energie</a></li><li><a href="https://bati.zepros.fr/abonnez-vous-nos-reseaux-sociaux" target="_blank" rel="noopener noreferrer"><i class="fab fa-linkedin-in" aria-hidden="true"></i></a><a href="https://www.linkedin.com/company/zepros-négoce/" target="_blank" rel="noopener noreferrer">Zepros Négoce</a></li><li><a href="https://www.linkedin.com/company/zepros-safety" target="_blank" rel="noopener noreferrer"><i class="fab fa-linkedin-in" aria-hidden="true"></i>Zepros Safety</a></li></ul></div><div class="rs-popup facebook"><div class="fab fa-facebook-f main-icon" aria-hidden="true">&nbsp;</div><ul><li><a href="https://bati.zepros.fr/abonnez-vous-nos-reseaux-sociaux" target="_blank" rel="noopener noreferrer"><i class="fab fa-facebook-f" aria-hidden="true"></i>Zepros Bâti</a></li><li><a href="https://bati.zepros.fr/abonnez-vous-nos-reseaux-sociaux" target="_blank" rel="noopener noreferrer"><i class="fab fa-facebook-f" aria-hidden="true"></i>Zepros Négoce</a></li></ul></div><p><a href="https://bati.zepros.fr/abonnez-vous-nos-reseaux-sociaux" target="_blank" rel="noopener noreferrer"><i class="fab fa-youtube" aria-hidden="true"></i></a></p></div></div>
+      
+
+  </div>
+
+
+<div class="views-element-container block-journaux-sidebar block block-views block-views-blockjournaux-block-3" id="block-views-block-journaux-block-3">
+  
+      <h2>Vient de paraître</h2>
+    
+      <div>
+
+<div class="view view-journaux view-id-journaux view-display-id-block_3 js-view-dom-id-eb65f5189561892948ebcb7b36d23e07f2e88536c3cdbf5e467cf717949e3844">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div data-history-node-id="7238" class="node node--type-journal node--view-mode-mini-teaser ds-1col clearfix">
+
+  
+
+  
+
+
+            <div class="field field--name-field-image field--type-entity-reference field--label-hidden field__item"><a href="https://bati.zepros.fr/journaux/reno/numeros/reno-10"><article class="media media--type-image media--view-mode-journaux">
+  
+      
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <div class="field__label visually-hidden">Image</div>
+              <div class="field__item">    <picture>
+                  <source srcset="/sites/default/files/styles/jounaux_desktop/public/journaux/16124/page-1.webp?itok=Bc8mZWHt 1x, /sites/default/files/styles/journaux_retina/public/journaux/16124/page-1.webp?itok=Qm_MMZnj 2x" media="(min-width: 576px)" type="image/webp" width="203" height="255"/>
+              <source srcset="/sites/default/files/styles/jounaux_desktop/public/journaux/16124/page-1.webp?itok=Bc8mZWHt 1x, /sites/default/files/styles/journaux_retina/public/journaux/16124/page-1.webp?itok=Qm_MMZnj 2x" media="(max-width: 575.98px)" type="image/webp" width="203" height="255"/>
+              <source srcset="/sites/default/files/styles/jounaux_desktop/public/journaux/16124/page-1.jpg?itok=Bc8mZWHt 1x, /sites/default/files/styles/journaux_retina/public/journaux/16124/page-1.jpg?itok=Qm_MMZnj 2x" media="(min-width: 576px)" type="image/jpeg" width="203" height="255"/>
+              <source srcset="/sites/default/files/styles/jounaux_desktop/public/journaux/16124/page-1.jpg?itok=Bc8mZWHt 1x, /sites/default/files/styles/journaux_retina/public/journaux/16124/page-1.jpg?itok=Qm_MMZnj 2x" media="(max-width: 575.98px)" type="image/jpeg" width="203" height="255"/>
+                  
+
+
+<img loading="eager" width="203" height="255" src="/sites/default/files/styles/jounaux_desktop/public/journaux/16124/page-1.jpg?itok=Bc8mZWHt" alt="Réno 10" title="Réno 10" />
+
+  </picture>
+
+</div>
+          </div>
+
+  </article>
+</a></div>
+      
+
+
+            <div class="field field--name-node-link field--type-ds field--label-hidden field__item"><a href="https://bati.zepros.fr/journaux/reno/numeros/reno-10">Lire</a></div>
+      
+
+</div>
+
+</div>
+    <div class="views-row"><div data-history-node-id="7222" class="node node--type-journal node--view-mode-mini-teaser ds-1col clearfix">
+
+  
+
+  
+
+
+            <div class="field field--name-field-image field--type-entity-reference field--label-hidden field__item"><a href="https://bati.zepros.fr/journaux/bati/numeros/bati-133"><article class="media media--type-image media--view-mode-journaux">
+  
+      
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <div class="field__label visually-hidden">Image</div>
+              <div class="field__item">    <picture>
+                  <source srcset="/sites/default/files/styles/jounaux_desktop/public/journaux/16097/page-1.webp?itok=2H6gH1d1 1x, /sites/default/files/styles/journaux_retina/public/journaux/16097/page-1.webp?itok=kfkG-bAT 2x" media="(min-width: 576px)" type="image/webp" width="203" height="255"/>
+              <source srcset="/sites/default/files/styles/jounaux_desktop/public/journaux/16097/page-1.webp?itok=2H6gH1d1 1x, /sites/default/files/styles/journaux_retina/public/journaux/16097/page-1.webp?itok=kfkG-bAT 2x" media="(max-width: 575.98px)" type="image/webp" width="203" height="255"/>
+              <source srcset="/sites/default/files/styles/jounaux_desktop/public/journaux/16097/page-1.jpg?itok=2H6gH1d1 1x, /sites/default/files/styles/journaux_retina/public/journaux/16097/page-1.jpg?itok=kfkG-bAT 2x" media="(min-width: 576px)" type="image/jpeg" width="203" height="255"/>
+              <source srcset="/sites/default/files/styles/jounaux_desktop/public/journaux/16097/page-1.jpg?itok=2H6gH1d1 1x, /sites/default/files/styles/journaux_retina/public/journaux/16097/page-1.jpg?itok=kfkG-bAT 2x" media="(max-width: 575.98px)" type="image/jpeg" width="203" height="255"/>
+                  
+
+
+<img loading="eager" width="203" height="255" src="/sites/default/files/styles/jounaux_desktop/public/journaux/16097/page-1.jpg?itok=2H6gH1d1" alt="Bati 133" title="Bati 133" />
+
+  </picture>
+
+</div>
+          </div>
+
+  </article>
+</a></div>
+      
+
+
+            <div class="field field--name-node-link field--type-ds field--label-hidden field__item"><a href="https://bati.zepros.fr/journaux/bati/numeros/bati-133">Lire</a></div>
+      
+
+</div>
+
+</div>
+    <div class="views-row"><div data-history-node-id="7206" class="node node--type-journal node--view-mode-mini-teaser ds-1col clearfix">
+
+  
+
+  
+
+
+            <div class="field field--name-field-image field--type-entity-reference field--label-hidden field__item"><a href="https://bati.zepros.fr/journaux/negoce/numeros/negoce-54"><article class="media media--type-image media--view-mode-journaux">
+  
+      
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <div class="field__label visually-hidden">Image</div>
+              <div class="field__item">    <picture>
+                  <source srcset="/sites/default/files/styles/jounaux_desktop/public/journaux/16070/page-1.webp?itok=ERaF3OXN 1x, /sites/default/files/styles/journaux_retina/public/journaux/16070/page-1.webp?itok=qP6NECxZ 2x" media="(min-width: 576px)" type="image/webp" width="203" height="255"/>
+              <source srcset="/sites/default/files/styles/jounaux_desktop/public/journaux/16070/page-1.webp?itok=ERaF3OXN 1x, /sites/default/files/styles/journaux_retina/public/journaux/16070/page-1.webp?itok=qP6NECxZ 2x" media="(max-width: 575.98px)" type="image/webp" width="203" height="255"/>
+              <source srcset="/sites/default/files/styles/jounaux_desktop/public/journaux/16070/page-1.jpg?itok=ERaF3OXN 1x, /sites/default/files/styles/journaux_retina/public/journaux/16070/page-1.jpg?itok=qP6NECxZ 2x" media="(min-width: 576px)" type="image/jpeg" width="203" height="255"/>
+              <source srcset="/sites/default/files/styles/jounaux_desktop/public/journaux/16070/page-1.jpg?itok=ERaF3OXN 1x, /sites/default/files/styles/journaux_retina/public/journaux/16070/page-1.jpg?itok=qP6NECxZ 2x" media="(max-width: 575.98px)" type="image/jpeg" width="203" height="255"/>
+                  
+
+
+<img loading="eager" width="203" height="255" src="/sites/default/files/styles/jounaux_desktop/public/journaux/16070/page-1.jpg?itok=ERaF3OXN" alt="Négoce 54" title="Négoce 54" />
+
+  </picture>
+
+</div>
+          </div>
+
+  </article>
+</a></div>
+      
+
+
+            <div class="field field--name-node-link field--type-ds field--label-hidden field__item"><a href="https://bati.zepros.fr/journaux/negoce/numeros/negoce-54">Lire</a></div>
+      
+
+</div>
+
+</div>
+    <div class="views-row"><div data-history-node-id="7139" class="node node--type-journal node--view-mode-mini-teaser ds-1col clearfix">
+
+  
+
+  
+
+
+            <div class="field field--name-field-image field--type-entity-reference field--label-hidden field__item"><a href="https://bati.zepros.fr/journaux/energie/numeros/energie-94"><article class="media media--type-image media--view-mode-journaux">
+  
+      
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <div class="field__label visually-hidden">Image</div>
+              <div class="field__item">    <picture>
+                  <source srcset="/sites/default/files/styles/jounaux_desktop/public/journaux/15905/page-1.webp?itok=4L-4N2jh 1x, /sites/default/files/styles/journaux_retina/public/journaux/15905/page-1.webp?itok=JqfY-st5 2x" media="(min-width: 576px)" type="image/webp" width="203" height="255"/>
+              <source srcset="/sites/default/files/styles/jounaux_desktop/public/journaux/15905/page-1.webp?itok=4L-4N2jh 1x, /sites/default/files/styles/journaux_retina/public/journaux/15905/page-1.webp?itok=JqfY-st5 2x" media="(max-width: 575.98px)" type="image/webp" width="203" height="255"/>
+              <source srcset="/sites/default/files/styles/jounaux_desktop/public/journaux/15905/page-1.jpg?itok=4L-4N2jh 1x, /sites/default/files/styles/journaux_retina/public/journaux/15905/page-1.jpg?itok=JqfY-st5 2x" media="(min-width: 576px)" type="image/jpeg" width="203" height="255"/>
+              <source srcset="/sites/default/files/styles/jounaux_desktop/public/journaux/15905/page-1.jpg?itok=4L-4N2jh 1x, /sites/default/files/styles/journaux_retina/public/journaux/15905/page-1.jpg?itok=JqfY-st5 2x" media="(max-width: 575.98px)" type="image/jpeg" width="203" height="255"/>
+                  
+
+
+<img loading="eager" width="203" height="255" src="/sites/default/files/styles/jounaux_desktop/public/journaux/15905/page-1.jpg?itok=4L-4N2jh" alt="Énergie 94" title="Énergie 94" />
+
+  </picture>
+
+</div>
+          </div>
+
+  </article>
+</a></div>
+      
+
+
+            <div class="field field--name-node-link field--type-ds field--label-hidden field__item"><a href="https://bati.zepros.fr/journaux/energie/numeros/energie-94">Lire</a></div>
+      
+
+</div>
+
+</div>
+    <div class="views-row"><div data-history-node-id="6855" class="node node--type-journal node--view-mode-mini-teaser ds-1col clearfix">
+
+  
+
+  
+
+
+            <div class="field field--name-field-image field--type-entity-reference field--label-hidden field__item"><a href="https://bati.zepros.fr/journaux/safety/numeros/safety-23"><article class="media media--type-image media--view-mode-journaux">
+  
+      
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <div class="field__label visually-hidden">Image</div>
+              <div class="field__item">    <picture>
+                  <source srcset="/sites/default/files/styles/jounaux_desktop/public/journaux/15269/page-1.webp?itok=goDDt56l 1x, /sites/default/files/styles/journaux_retina/public/journaux/15269/page-1.webp?itok=lQOzxFZ7 2x" media="(min-width: 576px)" type="image/webp" width="203" height="255"/>
+              <source srcset="/sites/default/files/styles/jounaux_desktop/public/journaux/15269/page-1.webp?itok=goDDt56l 1x, /sites/default/files/styles/journaux_retina/public/journaux/15269/page-1.webp?itok=lQOzxFZ7 2x" media="(max-width: 575.98px)" type="image/webp" width="203" height="255"/>
+              <source srcset="/sites/default/files/styles/jounaux_desktop/public/journaux/15269/page-1.jpg?itok=goDDt56l 1x, /sites/default/files/styles/journaux_retina/public/journaux/15269/page-1.jpg?itok=lQOzxFZ7 2x" media="(min-width: 576px)" type="image/jpeg" width="203" height="255"/>
+              <source srcset="/sites/default/files/styles/jounaux_desktop/public/journaux/15269/page-1.jpg?itok=goDDt56l 1x, /sites/default/files/styles/journaux_retina/public/journaux/15269/page-1.jpg?itok=lQOzxFZ7 2x" media="(max-width: 575.98px)" type="image/jpeg" width="203" height="255"/>
+                  
+
+
+<img loading="eager" width="203" height="255" src="/sites/default/files/styles/jounaux_desktop/public/journaux/15269/page-1.jpg?itok=goDDt56l" alt="Safety 23" title="Safety 23" />
+
+  </picture>
+
+</div>
+          </div>
+
+  </article>
+</a></div>
+      
+
+
+            <div class="field field--name-node-link field--type-ds field--label-hidden field__item"><a href="https://bati.zepros.fr/journaux/safety/numeros/safety-23">Lire</a></div>
+      
+
+</div>
+
+</div>
+
+    </div>
+  
+            <div class="view-footer">
+      <a href="/abonnements">Abonnez-vous gratuitement</a>
+<a href="/journaux">Découvrez tous nos journaux</a>
+    </div>
+    </div>
+</div>
+
+  </div>
+
+
+<div id="block-decouvresnosautresactivites" class="block-decouvrez-activites block block-block-content block-block-content9c1bd1af-4e75-45e3-a082-1131000877fb">
+  
+      <h2>Découvrez nos autres activités</h2>
+    
+      
+
+
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field__item"><p>L’agence de communication du Groupe Zepros</p><p><a href="https://bati.zepros.fr/zepros-business-solutions-agence-communication-groupe-zepros">Zepros Business Solutions</a></p><p>La newsletter quotidienne pour tout savoir sur l’actualité du Bâtiment</p><p><a href="https://bati.zepros.fr/bati-today" target="_blank">Bâti Today</a></p><p>&nbsp;</p></div>
+      
+
+  </div>
+
+  </div>
+
+      </aside>
+    
+  </main>
+
+      <aside class="layout-sidebar-first" role="complementary">
+        <div class="region region-sidebar-first">
+    
+  </div>
+
+    </aside>
+  
+      <div role="contentinfo">
+        <div class="region region-pre-footer">
+    
+
+<div class="views-element-container block-footerjournaux block block-views block-views-blockjournaux-block-1" id="block-views-block-journaux-block-1">
+  
+    
+      <div>
+
+
+<div class="view view-journaux view-id-journaux view-display-id-block_1 js-view-dom-id-050dc6c47a6f3e6de711476f0f4b3df53887038773c2af7fd742143ffb85ff7d">
+  
+    
+      <div class="view-header">
+      <a href="/journaux">Découvrez tous nos journaux</a>
+    </div>
+      
+      <div class="view-content">
+          <div class="views-row"><div data-history-node-id="7238" class="node node--type-journal node--view-mode-mini-teaser ds-1col clearfix">
+
+  
+
+  
+
+
+            <div class="field field--name-field-image field--type-entity-reference field--label-hidden field__item"><a href="https://bati.zepros.fr/journaux/reno/numeros/reno-10"><article class="media media--type-image media--view-mode-journaux">
+  
+      
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <div class="field__label visually-hidden">Image</div>
+              <div class="field__item">    <picture>
+                  <source srcset="/sites/default/files/styles/jounaux_desktop/public/journaux/16124/page-1.webp?itok=Bc8mZWHt 1x, /sites/default/files/styles/journaux_retina/public/journaux/16124/page-1.webp?itok=Qm_MMZnj 2x" media="(min-width: 576px)" type="image/webp" width="203" height="255"/>
+              <source srcset="/sites/default/files/styles/jounaux_desktop/public/journaux/16124/page-1.webp?itok=Bc8mZWHt 1x, /sites/default/files/styles/journaux_retina/public/journaux/16124/page-1.webp?itok=Qm_MMZnj 2x" media="(max-width: 575.98px)" type="image/webp" width="203" height="255"/>
+              <source srcset="/sites/default/files/styles/jounaux_desktop/public/journaux/16124/page-1.jpg?itok=Bc8mZWHt 1x, /sites/default/files/styles/journaux_retina/public/journaux/16124/page-1.jpg?itok=Qm_MMZnj 2x" media="(min-width: 576px)" type="image/jpeg" width="203" height="255"/>
+              <source srcset="/sites/default/files/styles/jounaux_desktop/public/journaux/16124/page-1.jpg?itok=Bc8mZWHt 1x, /sites/default/files/styles/journaux_retina/public/journaux/16124/page-1.jpg?itok=Qm_MMZnj 2x" media="(max-width: 575.98px)" type="image/jpeg" width="203" height="255"/>
+                  
+
+
+<img loading="eager" width="203" height="255" src="/sites/default/files/styles/jounaux_desktop/public/journaux/16124/page-1.jpg?itok=Bc8mZWHt" alt="Réno 10" title="Réno 10" />
+
+  </picture>
+
+</div>
+          </div>
+
+  </article>
+</a></div>
+      
+
+
+            <div class="field field--name-node-link field--type-ds field--label-hidden field__item"><a href="https://bati.zepros.fr/journaux/reno/numeros/reno-10">Lire</a></div>
+      
+
+</div>
+
+</div>
+    <div class="views-row"><div data-history-node-id="7222" class="node node--type-journal node--view-mode-mini-teaser ds-1col clearfix">
+
+  
+
+  
+
+
+            <div class="field field--name-field-image field--type-entity-reference field--label-hidden field__item"><a href="https://bati.zepros.fr/journaux/bati/numeros/bati-133"><article class="media media--type-image media--view-mode-journaux">
+  
+      
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <div class="field__label visually-hidden">Image</div>
+              <div class="field__item">    <picture>
+                  <source srcset="/sites/default/files/styles/jounaux_desktop/public/journaux/16097/page-1.webp?itok=2H6gH1d1 1x, /sites/default/files/styles/journaux_retina/public/journaux/16097/page-1.webp?itok=kfkG-bAT 2x" media="(min-width: 576px)" type="image/webp" width="203" height="255"/>
+              <source srcset="/sites/default/files/styles/jounaux_desktop/public/journaux/16097/page-1.webp?itok=2H6gH1d1 1x, /sites/default/files/styles/journaux_retina/public/journaux/16097/page-1.webp?itok=kfkG-bAT 2x" media="(max-width: 575.98px)" type="image/webp" width="203" height="255"/>
+              <source srcset="/sites/default/files/styles/jounaux_desktop/public/journaux/16097/page-1.jpg?itok=2H6gH1d1 1x, /sites/default/files/styles/journaux_retina/public/journaux/16097/page-1.jpg?itok=kfkG-bAT 2x" media="(min-width: 576px)" type="image/jpeg" width="203" height="255"/>
+              <source srcset="/sites/default/files/styles/jounaux_desktop/public/journaux/16097/page-1.jpg?itok=2H6gH1d1 1x, /sites/default/files/styles/journaux_retina/public/journaux/16097/page-1.jpg?itok=kfkG-bAT 2x" media="(max-width: 575.98px)" type="image/jpeg" width="203" height="255"/>
+                  
+
+
+<img loading="eager" width="203" height="255" src="/sites/default/files/styles/jounaux_desktop/public/journaux/16097/page-1.jpg?itok=2H6gH1d1" alt="Bati 133" title="Bati 133" />
+
+  </picture>
+
+</div>
+          </div>
+
+  </article>
+</a></div>
+      
+
+
+            <div class="field field--name-node-link field--type-ds field--label-hidden field__item"><a href="https://bati.zepros.fr/journaux/bati/numeros/bati-133">Lire</a></div>
+      
+
+</div>
+
+</div>
+    <div class="views-row"><div data-history-node-id="7206" class="node node--type-journal node--view-mode-mini-teaser ds-1col clearfix">
+
+  
+
+  
+
+
+            <div class="field field--name-field-image field--type-entity-reference field--label-hidden field__item"><a href="https://bati.zepros.fr/journaux/negoce/numeros/negoce-54"><article class="media media--type-image media--view-mode-journaux">
+  
+      
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <div class="field__label visually-hidden">Image</div>
+              <div class="field__item">    <picture>
+                  <source srcset="/sites/default/files/styles/jounaux_desktop/public/journaux/16070/page-1.webp?itok=ERaF3OXN 1x, /sites/default/files/styles/journaux_retina/public/journaux/16070/page-1.webp?itok=qP6NECxZ 2x" media="(min-width: 576px)" type="image/webp" width="203" height="255"/>
+              <source srcset="/sites/default/files/styles/jounaux_desktop/public/journaux/16070/page-1.webp?itok=ERaF3OXN 1x, /sites/default/files/styles/journaux_retina/public/journaux/16070/page-1.webp?itok=qP6NECxZ 2x" media="(max-width: 575.98px)" type="image/webp" width="203" height="255"/>
+              <source srcset="/sites/default/files/styles/jounaux_desktop/public/journaux/16070/page-1.jpg?itok=ERaF3OXN 1x, /sites/default/files/styles/journaux_retina/public/journaux/16070/page-1.jpg?itok=qP6NECxZ 2x" media="(min-width: 576px)" type="image/jpeg" width="203" height="255"/>
+              <source srcset="/sites/default/files/styles/jounaux_desktop/public/journaux/16070/page-1.jpg?itok=ERaF3OXN 1x, /sites/default/files/styles/journaux_retina/public/journaux/16070/page-1.jpg?itok=qP6NECxZ 2x" media="(max-width: 575.98px)" type="image/jpeg" width="203" height="255"/>
+                  
+
+
+<img loading="eager" width="203" height="255" src="/sites/default/files/styles/jounaux_desktop/public/journaux/16070/page-1.jpg?itok=ERaF3OXN" alt="Négoce 54" title="Négoce 54" />
+
+  </picture>
+
+</div>
+          </div>
+
+  </article>
+</a></div>
+      
+
+
+            <div class="field field--name-node-link field--type-ds field--label-hidden field__item"><a href="https://bati.zepros.fr/journaux/negoce/numeros/negoce-54">Lire</a></div>
+      
+
+</div>
+
+</div>
+    <div class="views-row"><div data-history-node-id="7139" class="node node--type-journal node--view-mode-mini-teaser ds-1col clearfix">
+
+  
+
+  
+
+
+            <div class="field field--name-field-image field--type-entity-reference field--label-hidden field__item"><a href="https://bati.zepros.fr/journaux/energie/numeros/energie-94"><article class="media media--type-image media--view-mode-journaux">
+  
+      
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <div class="field__label visually-hidden">Image</div>
+              <div class="field__item">    <picture>
+                  <source srcset="/sites/default/files/styles/jounaux_desktop/public/journaux/15905/page-1.webp?itok=4L-4N2jh 1x, /sites/default/files/styles/journaux_retina/public/journaux/15905/page-1.webp?itok=JqfY-st5 2x" media="(min-width: 576px)" type="image/webp" width="203" height="255"/>
+              <source srcset="/sites/default/files/styles/jounaux_desktop/public/journaux/15905/page-1.webp?itok=4L-4N2jh 1x, /sites/default/files/styles/journaux_retina/public/journaux/15905/page-1.webp?itok=JqfY-st5 2x" media="(max-width: 575.98px)" type="image/webp" width="203" height="255"/>
+              <source srcset="/sites/default/files/styles/jounaux_desktop/public/journaux/15905/page-1.jpg?itok=4L-4N2jh 1x, /sites/default/files/styles/journaux_retina/public/journaux/15905/page-1.jpg?itok=JqfY-st5 2x" media="(min-width: 576px)" type="image/jpeg" width="203" height="255"/>
+              <source srcset="/sites/default/files/styles/jounaux_desktop/public/journaux/15905/page-1.jpg?itok=4L-4N2jh 1x, /sites/default/files/styles/journaux_retina/public/journaux/15905/page-1.jpg?itok=JqfY-st5 2x" media="(max-width: 575.98px)" type="image/jpeg" width="203" height="255"/>
+                  
+
+
+<img loading="eager" width="203" height="255" src="/sites/default/files/styles/jounaux_desktop/public/journaux/15905/page-1.jpg?itok=4L-4N2jh" alt="Énergie 94" title="Énergie 94" />
+
+  </picture>
+
+</div>
+          </div>
+
+  </article>
+</a></div>
+      
+
+
+            <div class="field field--name-node-link field--type-ds field--label-hidden field__item"><a href="https://bati.zepros.fr/journaux/energie/numeros/energie-94">Lire</a></div>
+      
+
+</div>
+
+</div>
+    <div class="views-row"><div data-history-node-id="6855" class="node node--type-journal node--view-mode-mini-teaser ds-1col clearfix">
+
+  
+
+  
+
+
+            <div class="field field--name-field-image field--type-entity-reference field--label-hidden field__item"><a href="https://bati.zepros.fr/journaux/safety/numeros/safety-23"><article class="media media--type-image media--view-mode-journaux">
+  
+      
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <div class="field__label visually-hidden">Image</div>
+              <div class="field__item">    <picture>
+                  <source srcset="/sites/default/files/styles/jounaux_desktop/public/journaux/15269/page-1.webp?itok=goDDt56l 1x, /sites/default/files/styles/journaux_retina/public/journaux/15269/page-1.webp?itok=lQOzxFZ7 2x" media="(min-width: 576px)" type="image/webp" width="203" height="255"/>
+              <source srcset="/sites/default/files/styles/jounaux_desktop/public/journaux/15269/page-1.webp?itok=goDDt56l 1x, /sites/default/files/styles/journaux_retina/public/journaux/15269/page-1.webp?itok=lQOzxFZ7 2x" media="(max-width: 575.98px)" type="image/webp" width="203" height="255"/>
+              <source srcset="/sites/default/files/styles/jounaux_desktop/public/journaux/15269/page-1.jpg?itok=goDDt56l 1x, /sites/default/files/styles/journaux_retina/public/journaux/15269/page-1.jpg?itok=lQOzxFZ7 2x" media="(min-width: 576px)" type="image/jpeg" width="203" height="255"/>
+              <source srcset="/sites/default/files/styles/jounaux_desktop/public/journaux/15269/page-1.jpg?itok=goDDt56l 1x, /sites/default/files/styles/journaux_retina/public/journaux/15269/page-1.jpg?itok=lQOzxFZ7 2x" media="(max-width: 575.98px)" type="image/jpeg" width="203" height="255"/>
+                  
+
+
+<img loading="eager" width="203" height="255" src="/sites/default/files/styles/jounaux_desktop/public/journaux/15269/page-1.jpg?itok=goDDt56l" alt="Safety 23" title="Safety 23" />
+
+  </picture>
+
+</div>
+          </div>
+
+  </article>
+</a></div>
+      
+
+
+            <div class="field field--name-node-link field--type-ds field--label-hidden field__item"><a href="https://bati.zepros.fr/journaux/safety/numeros/safety-23">Lire</a></div>
+      
+
+</div>
+
+</div>
+
+    </div>
+  
+            <div class="view-footer">
+      
+    </div>
+    </div>
+</div>
+
+  </div>
+<div id="block-footersocial" class="block-footersocial block block-block-content block-block-contentcd7cdc60-e3d7-4156-b413-4b49731323f6">
+  
+    
+      
+
+
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field__item"><div class="footer-social"><p><span class="titre">Suivez-nous</span></p><div class="icon"><div class="rs-popup linkedin"><div class="fab fa-linkedin-in main-icon" aria-hidden="true">&nbsp;</div><ul><li><a href="https://www.linkedin.com/company/zepros-bati/" target="_blank" rel="noopener noreferrer"><i class="fab fa-linkedin-in" aria-hidden="true"></i>Zepros Bâti</a></li><li><a href="https://www.linkedin.com/company/zepros-%C3%A9nergie" target="_blank" rel="noopener noreferrer"><i class="fab fa-linkedin-in" aria-hidden="true"></i> Zepros Energie </a></li><li><a href="https://www.linkedin.com/company/zepros-n%C3%A9goce" target="_blank" rel="noopener noreferrer"><i class="fab fa-linkedin-in" aria-hidden="true"></i> Zepros Négoce </a></li><li><a href="https://www.linkedin.com/company/zepros-safety" target="_blank" title="Zepros Safety" rel="noopener noreferrer"><i class="fab fa-linkedin-in" aria-hidden="true"></i> Zepros Safety</a></li></ul></div><div class="rs-popup facebook"><div class="fab fa-facebook-f main-icon" aria-hidden="true">&nbsp;</div><ul><li><a href="https://bati.zepros.fr/abonnez-vous-nos-reseaux-sociaux" target="_blank" rel="noopener noreferrer"><i class="fab fa-facebook-f" aria-hidden="true"></i> Zepros Bâti </a></li><li><a href="https://bati.zepros.fr/abonnez-vous-nos-reseaux-sociaux" target="_blank" rel="noopener noreferrer"><i class="fab fa-facebook-f" aria-hidden="true"></i> Zepros Négoce</a></li></ul></div><p><a href="https://bati.zepros.fr/abonnez-vous-nos-reseaux-sociaux" target="_blank" rel="noopener noreferrer">&lt;<i class="fab fa-youtube" aria-hidden="true"></i></a></p></div></div></div>
+      
+
+  </div>
+
+  </div>
+
+    </div>
+  
+      <footer role="contentinfo">
+        <div class="region region-footer">
+    <div id="block-sitebranding" class="block-logo-footer block block-system block-system-branding-block">
+  
+    
+        <a href="/" rel="home" class="site-logo">
+      <img src="/themes/contrib/zepros_theme/logo.svg" alt="Accueil" />
+    </a>
+      </div>
+<nav role="navigation"
+                 id="block-pieddepage" class="block block-menu navigation menu--footer">
+                        
+                
+
+        <ul class="menu">
+                  <li class="menu-item qui-sommes-nous-">
+        <a href="/qui-sommes-nous" data-drupal-link-system-path="node/132">Qui sommes nous ?</a>
+              </li>
+                <li class="menu-item découvrez-tous-nos-journaux">
+        <a href="https://www.zepros.fr/">Découvrez tous nos journaux</a>
+              </li>
+                <li class="menu-item découvrez-la-rédaction">
+        <a href="/journaux#la-redaction" data-drupal-link-system-path="journaux">Découvrez la rédaction</a>
+              </li>
+                <li class="menu-item contacter-la-rédaction">
+        <a href="mailto:ml.barriera@zepros.fr">Contacter la rédaction</a>
+              </li>
+                <li class="menu-item contacter-le-service-commercial">
+        <a href="mailto:v.lindo-martinez@zepros.fr">Contacter le service commercial</a>
+              </li>
+                <li class="menu-item zepros-sengage-">
+        <a href="/zepros-engage" data-drupal-link-system-path="node/5153">Zepros s&#039;engage !</a>
+              </li>
+                <li class="menu-item abonnez-vous-à-nos-réseaux-sociaux">
+        <a href="https://bati.zepros.fr/abonnez-vous-nos-reseaux-sociaux">Abonnez-vous à nos réseaux sociaux</a>
+              </li>
+                <li class="menu-item bati-today">
+        <a href="https://bati.zepros.fr/bati-today">Bati today</a>
+              </li>
+                <li class="menu-item zepros-business-solutions-">
+        <a href="https://bati.zepros.fr/zepros-business-solutions-agence-communication-groupe-zepros">Zepros Business Solutions </a>
+              </li>
+                <li class="menu-item candidatez-aux-ze-awards-bâti-2026">
+        <a href="https://bati.zepros.fr/actu-generale/ze-awards-bati-2026-ouverture-candidatures">Candidatez aux Ze Awards Bâti 2026</a>
+              </li>
+      </ul>
+    
+
+
+    </nav>
+<nav role="navigation"
+                 id="block-mainmenufooter" class="block block-menu navigation menu--main-menu-footer">
+                        
+                
+
+        <ul class="menu">
+                  <li class="menu-item menu-item--expanded découvrez-tous-nos-sites">
+        <span>Découvrez tous nos sites</span>
+                            <ul class="menu">
+                    <li class="menu-item batizeprosfr">
+        <a href="https://bati.zepros.fr/" target="_blank">bati.zepros.fr</a>
+              </li>
+                <li class="menu-item negocezeprosfr">
+        <a href="https://negoce.zepros.fr/" target="_blank">negoce.zepros.fr</a>
+              </li>
+                <li class="menu-item autozeprosfr">
+        <a href="https://auto.zepros.fr/" target="_blank">auto.zepros.fr</a>
+              </li>
+                <li class="menu-item restozeprosfr">
+        <a href="https://resto.zepros.fr/" target="_blank">resto.zepros.fr</a>
+              </li>
+                <li class="menu-item habitatzeprosfr">
+        <a href="https://habitat.zepros.fr/" target="_blank">habitat.zepros.fr</a>
+              </li>
+                <li class="menu-item territorialzeprosfr">
+        <a href="https://www.territorial.zepros.fr/">territorial.zepros.fr</a>
+              </li>
+                <li class="menu-item artisans-entrepreneurszeprosfr">
+        <a href="https://artisans-entrepreneurs.zepros.fr/" target="_blank">artisans-entrepreneurs.zepros.fr</a>
+              </li>
+                <li class="menu-item zeprosfr">
+        <a href="https://www.zepros.fr/" target="_blank">zepros.fr</a>
+              </li>
+      </ul>
+    
+              </li>
+      </ul>
+    
+
+
+    </nav>
+<div id="block-footernewsleterblock" class="block block-zepros-rubrique-homepage block-footer-newsletter">
+  
+    
+      <div class="footer-newsletter-block">
+  <h2>Newsletter</h2>
+  <div class="message">
+    Inscrivez-vous à notre newsletter pour recevoir nos actualités
+  </div>
+  <div class="link-newsletter">
+    <a href="/abonnements">
+      S'inscrire
+    </a>
+  </div>
+</div>
+
+  </div>
+<nav role="navigation"
+                 id="block-footercopyright" class="block block-menu navigation menu--footer-copyright">
+                        
+                
+
+        <ul class="menu">
+                  <li class="menu-item mentions-légales">
+        <a href="/mention-legales" data-drupal-link-system-path="node/133">Mentions Légales</a>
+              </li>
+                <li class="menu-item données-personnelles">
+        <a href="/donnees-personnelles" data-drupal-link-system-path="node/158">Données personnelles</a>
+              </li>
+      </ul>
+    
+
+
+    </nav>
+
+  </div>
+
+    </footer>
+  
+</div>
+  </div>
+
+
+<script src="/core/assets/vendor/jquery/jquery.min.js?v=4.0.0"></script>
+<script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
+<script src="/sites/default/files/js/js_PSHBQ3fZmFm4EXv2YyHLljBU1yNzH6bfN5yUBiqykUc.js?scope=footer&amp;delta=2&amp;language=fr&amp;theme=zepros_theme&amp;include=eJyNjlFuwzAIQC9kxx87kIVtypxgk9l4TXr6pVKmttMm7Qd4DxBASipQdwdnMV2aVDUBVbF53FbpmPwl84HdwVDxfYSS_xwhrNiADQ4fRZaMRyorZ6gR3W_S4Kac6-JSGyvwdKIhEWL0CuToCD95ghm2V1nM_DGw7T7JtVKDhO4UjARxN11Bc9cc-_exhzE3XJt0r-9Y0BFLALZ3yJVee88wfWa8dnuP1s4yWoWxWRtY4mLf_rnXBxEeT0i1QVSl2KhfzEShFQ"></script>
+<script src="https://static.addtoany.com/menu/page.js" defer></script>
+<script src="/sites/default/files/js/js_ZLMnvx8fzm5VEtRHJl3vlmXRYAmOf8BkY1uD48D614c.js?scope=footer&amp;delta=4&amp;language=fr&amp;theme=zepros_theme&amp;include=eJyNjlFuwzAIQC9kxx87kIVtypxgk9l4TXr6pVKmttMm7Qd4DxBASipQdwdnMV2aVDUBVbF53FbpmPwl84HdwVDxfYSS_xwhrNiADQ4fRZaMRyorZ6gR3W_S4Kac6-JSGyvwdKIhEWL0CuToCD95ghm2V1nM_DGw7T7JtVKDhO4UjARxN11Bc9cc-_exhzE3XJt0r-9Y0BFLALZ3yJVee88wfWa8dnuP1s4yWoWxWRtY4mLf_rnXBxEeT0i1QVSl2KhfzEShFQ"></script>
+
+</body>
+</html>

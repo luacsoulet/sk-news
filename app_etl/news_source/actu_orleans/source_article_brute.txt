@@ -1,0 +1,724 @@
+<!DOCTYPE html>
+<html class="no-js" lang="fr">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="HandheldFriendly" content="true">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=3.0, user-scalable=yes, viewport-fit=cover">
+    <link rel="manifest" href="https://actu.fr/static/themes/actu_v2/dist/favicons/site.webmanifest">
+    <link rel="apple-touch-icon" sizes="180x180" href="https://static.actu.fr/themes/actu_v2/dist/favicons/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="https://static.actu.fr/themes/actu_v2/dist/favicons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="https://static.actu.fr/themes/actu_v2/dist/favicons/favicon-16x16.png">
+    <link rel="mask-icon" href="https://static.actu.fr/themes/actu_v2/dist/favicons/safari-pinned-tab.svg" color="#30a1ef">
+    <link rel="shortcut icon" href="https://static.actu.fr/themes/actu_v2/dist/favicons/favicon.ico">
+    <meta name="apple-itunes-app" content="app-id=1574151598">
+    <meta name="apple-mobile-web-app-title" content="actu.fr">
+    <meta name="application-name" content="actu.fr">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-config" content="https://static.actu.fr/themes/actu_v2/dist/favicons/browserconfig.xml">
+    <meta name="theme-color" content="#30a1ef">
+            <meta name="tdm-reservation" content="1">
+        <meta name="tdm-policy" content="https://actu.fr/policies/policy.json">
+    
+    <link rel="preconnect" href="//securepubads.g.doubleclick.net">
+    <link rel="preconnect" href="//c.amazon-adsystem.com">
+
+            <link rel="stylesheet" id="actu-styles" href="https://actu.fr/static/themes/actu_v2/dist/bundles/styles.bc3208da26ad98b97e63.min.css" type="text/css" media="all">
+        <link rel="stylesheet" id="actu-styles-desktop" href="https://actu.fr/static/themes/actu_v2/dist/bundles/styles.1ad2ebdde848051bc8f3.min.css" type="text/css" media="(min-width: 640px)">
+    
+    <script>
+window.actu = window.actu || {pub: {
+    dfpTargeting: {"marque":"orleans","departement":"loiret","region":"centre-val-de-loire","code_insee":"45068","rubrique":"faits-divers","tags":["Incendie","Police","Pompiers"]},
+    loadedAdUnits: 'Pureplayer_Article',
+    adUnitsOnPage: []
+}};
+</script><script>
+var actu = window.actu || {};
+actu.disPost = {endpoint: document.location.origin + "/api/post/"};
+</script>
+<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"><title>Neuf personnes intoxiquées à cause d&#039;un feu de cave dans un immeuble du Loiret</title><meta name="description" content="Hier soir, les pompiers sont intervenus dans un immeuble de Châlette-sur-Loing, près de Montargis, en raison d&#039;un feu de cave. Neuf personnes ont été intoxiquées."><meta name="restricted" value="false"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:site" content="@actufr"><meta name="twitter:creator" content="@actufr"><meta name="twitter:title" content="Neuf personnes intoxiquées à cause d&#039;un feu de cave dans un immeuble du Loiret"><meta name="twitter:image" content="https://static.actu.fr/uploads/2025/09/pompiers-illustration-adobe-stock-archives-actu.jpeg"><meta name="twitter:dnt" content="on"><meta property="fb:app_id" content="1225745027533211"><meta property="fb:pages" content=""><meta property="og:type" content="Article"><meta property="og:url" content="https://actu.fr/centre-val-de-loire/chalette-sur-loing_45068/neuf-personnes-intoxiquees-a-cause-d-un-feu-de-cave-dans-un-immeuble-du-loiret_63138385.html"><meta property="og:title" content="Neuf personnes intoxiquées à cause d&#039;un feu de cave dans un immeuble du Loiret"><meta property="og:image" content="https://static.actu.fr/uploads/2025/09/pompiers-illustration-adobe-stock-archives-actu.jpeg"><meta property="og:description" content="Hier soir, les pompiers sont intervenus dans un immeuble de Châlette-sur-Loing, près de Montargis, en raison d&#039;un feu de cave. Neuf personnes ont été intoxiquées."><meta property="og:locality" content="Châlette-sur-Loing"><meta property="og:region" content="Centre-Val de Loire"><meta property="og:country-name" content=""><meta property="og:site_name" content="actu.fr"><meta property="og:locale" content="fr_FR"><link rel="shortlink" type="text/html" href="https://actu.fr/?p=63138385"><meta name="copyright" content="Actu Orléans"><link rel="canonical" href="https://actu.fr/centre-val-de-loire/chalette-sur-loing_45068/neuf-personnes-intoxiquees-a-cause-d-un-feu-de-cave-dans-un-immeuble-du-loiret_63138385.html"><script>var actu = window.actu || {}; actu.typePage = 'Article';</script>
+    <script>
+                window.urlParams = new URLSearchParams(window.location.search);
+        window.actu.moncompte = window.actu.moncompte || {
+            auth: {"url":"https://auth.actu.fr/auth","realm":"actu-fr","clientId":"actu-fr-editorial"},
+            signin: 'https://moncompte.actu.fr',
+            api: 'https://moncompte.actu.fr/api'
+        };
+        window.actu.api = window.actu.api || {
+            url: 'https://api.actu.fr'
+        };
+        window.actu.pub.dopub = 1;
+        window._nli = window._nli || [];
+        window._nli.push(["brand", "BNLI-1380"]);
+        window.mcaOnReady = window.mcaOnReady || [];
+        window.didomiEventListeners = window.didomiEventListeners || [];
+        window.didomiOnReady = window.didomiOnReady || [];
+        window.gdprAppliesGlobally = true;
+        !function(t,e,n,a,i){function o(t,n,a,o){if("function"==typeof a){window[e]||(window[e]=[]);var r=!1;i&&(r=i(t,n,a)),r||window[e].push({command:t,parameter:n,callback:a,version:o})}}function r(e){if(window[t]&&!0===window[t].stub&&e.data){var i,o="string"==typeof e.data;try{i=o?JSON.parse(e.data):e.data}catch(t){return}if(i[n]){var r=i[n];window[t](r.command,r.parameter,(function(t,n){var i={};i[a]={returnValue:t,success:n,callId:r.callId},e.source.postMessage(o?JSON.stringify(i):i,"*")}),r.version)}}}o.stub=!0,"function"!=typeof window[t]&&(window[t]=o,window.addEventListener?window.addEventListener("message",r,!1):window.attachEvent("onmessage",r))}("__tcfapi","__tcfapiBuffer","__tcfapiCall","__tcfapiReturn"),function t(e){if(!window.frames[e])if(document.body&&document.body.firstChild){var n=document.body,a=document.createElement("iframe");a.style.display="none",a.name=e,a.title=e,n.insertBefore(a,n.firstChild)}else setTimeout((function(){t(e)}),5)}("__tcfapiLocator"),function(t){var e=document.createElement("script");e.id="spcloader",e.type="text/javascript",e.async=!0,e.src="https://sdk.privacy-center.org/904fd3a3-1883-4bea-85eb-8c4534203407/loader.js?target="+document.location.hostname,e.charset="utf-8";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(e,n)}();        if ('/donnees-personnelles-cookies' === window.location.pathname ||
+            '/politique-d-utilisation-des-cookies' === window.location.pathname ||
+            '/mentions-legales' === window.location.pathname ||
+            '/utiq' === window.location.pathname) {
+            window.didomiConfig = {
+                notice: {
+                    enable: false
+                },
+                user: {
+                    externalConsent: {
+                        enabled: true
+                    }
+                }
+            };
+        }
+    </script>
+
+    
+            <script defer id="actu-head-js" src="https://actu.fr/static/themes/actu_v2/dist/bundles/scripts.3a0a40c3056b7aca98c4.min.js"></script>
+        <script defer id="actu-scripts-js" src="https://actu.fr/static/themes/actu_v2/dist/bundles/scripts.ce040badad2fbf919ce9.min.js"></script>
+    
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        (function(w, d, s, l, i) {
+            w[l] = w[l] || [];
+            w[l].push({
+                'gtm.start': new Date().getTime(),
+                event: 'gtm.js'
+            });
+            var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s),
+                dl = l != 'dataLayer' ? '&l=' + l : '';
+            j.async = true;
+            j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+            f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-KVRQ3TD');
+    </script>
+    <script id="gtm-datalayer">window.dataLayer = window.dataLayer || [];window.actu.dataLayer = {"arborescence":"Faits divers","canonical":"https:\/\/actu.fr\/centre-val-de-loire\/chalette-sur-loing_45068\/neuf-personnes-intoxiquees-a-cause-d-un-feu-de-cave-dans-un-immeuble-du-loiret_63138385.html","code_departement":"45","code_insee_commune":"45068","code_pays":"FRA","code_region":"24","marque":"Actu Orl\u00e9ans","nom_commune":"Ch\u00e2lette-sur-Loing","template":"Article","marque_region":"24","article":{"code_departement":"45","code_insee_commune":"45068","code_pays":"FRA","code_region":"24","id_contenu":63138385,"marque":"Actu Orl\u00e9ans","nom_commune":"Ch\u00e2lette-sur-Loing","signature_auteur":"Emilie Tournie","tags_article_s":"Incendie|Police|Pompiers","titre_contenu":"Neuf personnes intoxiqu\u00e9es \u00e0 cause d\u0027un feu de cave dans un immeuble du Loiret","statut_monetisation":"gratuit","marque_slug":"orleans","date_publication":1757478722,"nombre_mots":265},"iswebview":false,"event":"dataLayerMainReady"};const mcaConnecte = localStorage.getItem("mcaConnecte") || false;const mcaUuid     = localStorage.getItem("mcaUuid") || "";const mcaDatalayer = JSON.parse(localStorage.getItem("mcaDatalayer") || "{}");if(mcaUuid) { window.actu.dataLayer.user = {id: mcaUuid, connecte: mcaConnecte}; }if(Object.keys(mcaDatalayer).length > 0) {window.actu.dataLayer.user = { ...window.actu.dataLayer.user, ...mcaDatalayer.user};}window.dataLayer.push(window.actu.dataLayer);console.log("dataLayer : ", JSON.stringify(window.dataLayer, null, 4));</script>
+    
+    </head>
+<body>
+    <div id="wrapper-global" class="wrapper-global  wrapper-pureplayer">
+        <figure id="dailymotion-embed-x7dyep" class="ac-embed ac-embed--dailymotion ac-embed--inread3" data-provider="dailymotion"><div id="dailymotion-player-x7dyep"><script type="didomi/javascript" data-purposes="promotions-QxGcGAzR">
+window.actu.allowDailymotion = true;
+window.actu.maybeDailymotionEmbed = false;
+</script></div><div id="atf_video_pureplayer" data-actu-ad="Article_atf_video_desktop"></div></figure>
+<header class="ac-header no-print ac-header--folded" role="banner" >
+    <div class="wrap wrap--main">
+        <div class="ac-header__left">
+            <a class="ac-header__logo" href="/">
+                <img src="https://static.actu.fr/themes/actu_v2/dist/img/logo-actu-white.svg" alt="actu.fr" width="100" height="28.6" />
+            </a>
+                            &nbsp;
+                <button data-trk="{&quot;menu&quot;:{&quot;name&quot;:&quot;Nos r\u00e9gions&quot;,&quot;from&quot;:&quot;Header&quot;}}" type="button"
+                    class="ac-btn ac-btn--blue800 ac-btn--corner ac-icon--burger js-btn-region">
+                    Régions
+                </button>
+                    </div>
+        <div class="ac-header__right">
+            <span onclick="window.location = window.atob('aHR0cHM6Ly9hY3R1LmZyL21vbi1hY3R1')"
+                class="ac-btn ac-btn--blue800 ac-btn--round-corner ac-icon--star js-btn-news"
+                data-trk="{&quot;menu&quot;:{&quot;name&quot;:&quot;Mon actu - connexion&quot;,&quot;from&quot;:&quot;Header&quot;}}">
+                Mon actu
+            </span>
+            <button hidden type="button"
+                class="ac-btn ac-btn--round-corner ac-btn--blue800 ac-icon--connect js-btn-logged" aria-expanded="false"
+                aria-owns="dropdown-profile" data-dropdown="true" title="Mon compte"
+                data-trk="{&quot;menu&quot;:{&quot;name&quot;:&quot;Compte&quot;,&quot;from&quot;:&quot;Header&quot;}}">
+                <span>Compte</span>
+            </button>
+            <button class="ac-btn ac-btn--round-corner ac-btn--blue800 ac-icon--connect js-btn-connect"
+                title="Connexion" data-trk="{&quot;menu&quot;:{&quot;name&quot;:&quot;Connexion&quot;,&quot;from&quot;:&quot;Header&quot;}}">
+                <span>Connexion</span>
+            </button>
+            
+                <button type="button" class="ac-btn ac-btn--round-corner ac-btn--blue800 ac-icon--service js-btn-services"
+                    aria-expanded="false" aria-owns="dropdown-services" data-dropdown="true" aria-label="Services"
+                    data-trk="{&quot;menu&quot;:{&quot;name&quot;:&quot;Services&quot;,&quot;from&quot;:&quot;Header&quot;}}">
+                    <span>Services</span>
+                </button>
+                    </div>
+    </div>
+    <div id="dropdown-services" class="ac-dropdown is-hidden">
+        <ul>
+            <li><a href="https://annonces-legales.actu.fr" data-trk="{&quot;menu&quot;:{&quot;name&quot;:&quot;Annonces l\u00e9gales&quot;,&quot;from&quot;:&quot;Services&quot;}}">Annonces légales</a>
+            </li>
+            <li><a href="/horoscope" data-trk="{&quot;menu&quot;:{&quot;name&quot;:&quot;Horoscope&quot;,&quot;from&quot;:&quot;Services&quot;}}">Horoscope</a></li>
+            <li><a href="/jeux" data-trk="{&quot;menu&quot;:{&quot;name&quot;:&quot;Jeux&quot;,&quot;from&quot;:&quot;Services&quot;}}">Jeux</a></li>
+            <li><a href="/meteo" data-trk="{&quot;menu&quot;:{&quot;name&quot;:&quot;M\u00e9t\u00e9o&quot;,&quot;from&quot;:&quot;Services&quot;}}">Météo</a></li>
+            <li><a href="/infoconso" data-trk="{&quot;menu&quot;:{&quot;name&quot;:&quot;Infoconso&quot;,&quot;from&quot;:&quot;Services&quot;}}">Infoconso</a></li>
+            <li><a href="/guide-achat/" data-trk="{&quot;menu&quot;:{&quot;name&quot;:&quot;Guide achat&quot;,&quot;from&quot;:&quot;Services&quot;}}">Guide d'achat</a></li>
+            <li><a href="/videos" data-trk="{&quot;menu&quot;:{&quot;name&quot;:&quot;Vid\u00e9os&quot;,&quot;from&quot;:&quot;Services&quot;}}">Vidéos</a></li>
+            <li><a href="https://infolocale.actu.fr/" data-trk="{&quot;menu&quot;:{&quot;name&quot;:&quot;Agenda des \u00e9v\u00e8nements&quot;,&quot;from&quot;:&quot;Services&quot;}}">Agenda des évènements</a></li>
+            <li><a href="https://www.infolocale.fr/decouvrir/actu/" data-trk="{&quot;menu&quot;:{&quot;name&quot;:&quot;Je partage les actus de mon\n                    asso&quot;,&quot;from&quot;:&quot;Services&quot;}}">Je partage les actus de mon asso</a></li>
+            <li><a href="https://elections.actu.fr" data-trk="{&quot;menu&quot;:{&quot;name&quot;:&quot;\u00c9lections&quot;,&quot;from&quot;:&quot;Services&quot;}}">Élections</a>
+            </li>
+            <li><a href="https://examens.actu.fr" data-trk="{&quot;menu&quot;:{&quot;name&quot;:&quot;Examens&quot;,&quot;from&quot;:&quot;Services&quot;}}">Examens</a></li>
+        </ul>
+    </div>
+
+    <div id="dropdown-profile" class="ac-dropdown is-hidden">
+        <ul>
+            <li><span onclick="window.location = window.atob('aHR0cHM6Ly9tb25jb21wdGUuYWN0dS5mci9zZXNzaW9u')" class="ac-icon ac-icon--connect"
+                    data-trk="{&quot;menu&quot;:{&quot;name&quot;:&quot;Mon compte&quot;,&quot;from&quot;:&quot;Compte&quot;}}">Mon compte</span>
+            </li>
+            <li><span onclick="window.location = window.atob('aHR0cHM6Ly9tb25jb21wdGUuYWN0dS5mci9tb24tYWN0dQ==')" class="ac-icon ac-icon--star"
+                    data-trk="{&quot;menu&quot;:{&quot;name&quot;:&quot;G\u00e9rer mes favoris&quot;,&quot;from&quot;:&quot;Compte&quot;}}">Gérer mes favoris</span></li>
+            <li><span onclick="window.location = window.atob('aHR0cHM6Ly9tb25jb21wdGUuYWN0dS5mci9uZXdzbGV0dGVy')"
+                    class="ac-icon ac-icon--notification" data-trk="{&quot;menu&quot;:{&quot;name&quot;:&quot;G\u00e9rer mes newsletters&quot;,&quot;from&quot;:&quot;Compte&quot;}}">Gérer mes newsletters</span></li>
+            <li><span onclick="window.location = window.atob('aHR0cHM6Ly9tb25jb21wdGUuYWN0dS5mci9tZXMtYXJ0aWNsZXM=')"
+                    class="ac-icon ac-icon--bookmark" data-trk="{&quot;menu&quot;:{&quot;name&quot;:&quot;G\u00e9rer mes articles enregistr\u00e9s&quot;,&quot;from&quot;:&quot;Compte&quot;}}">Gérer mes articles enregistrés</span></li>
+            <li><span class="ac-icon ac-icon--logout js-btn-logout" data-trk="{&quot;menu&quot;:{&quot;name&quot;:&quot;D\u00e9connexion&quot;,&quot;from&quot;:&quot;Compte&quot;}}">Déconnexion</span></li>
+        </ul>
+    </div>
+
+            <div class="wrap wrap--media">
+            <div class="ac-header__media">
+                <a href="https://actu.fr/orleans">
+                    <img width="130" height="60"
+                        src="https://media.actu.fr/marque/logo/orleans.svg"
+                        alt="Actu Orléans"  />
+                </a>
+
+                            </div>
+        </div>
+    
+    </header>        <div class="wrapper-nav">
+            <nav class="ac-nav" role="navigation" aria-label="menu de navigation principal">
+    <ul class="ac-nav__main">
+                    <li><a href="/orleans/dernieres-actus" class="ac-icon ac-icon--time"
+                    data-trk="{&quot;menu&quot;:{&quot;name&quot;:&quot;Derni\u00e8res actus&quot;,&quot;from&quot;:&quot;Nav&quot;}}">
+                    Dernières actus                </a></li>
+                    <li><a href="https://actu.fr/orleans/societe" class=""
+                    data-trk="{&quot;menu&quot;:{&quot;name&quot;:&quot;Soci\u00e9t\u00e9&quot;,&quot;from&quot;:&quot;Nav&quot;}}">
+                    Société                </a></li>
+                    <li><a href="https://actu.fr/orleans/economie" class=""
+                    data-trk="{&quot;menu&quot;:{&quot;name&quot;:&quot;\u00c9conomie&quot;,&quot;from&quot;:&quot;Nav&quot;}}">
+                    Économie                </a></li>
+                    <li><a href="https://actu.fr/orleans/faits-divers" class=" is-active"
+                    data-trk="{&quot;menu&quot;:{&quot;name&quot;:&quot;Faits divers&quot;,&quot;from&quot;:&quot;Nav&quot;}}">
+                    Faits divers                </a></li>
+                    <li><a href="https://actu.fr/orleans/politique" class=""
+                    data-trk="{&quot;menu&quot;:{&quot;name&quot;:&quot;Politique&quot;,&quot;from&quot;:&quot;Nav&quot;}}">
+                    Politique                </a></li>
+                    <li><a href="https://actu.fr/orleans/politique/elections-municipales" class="ac-icon ac-icon--marianne"
+                    data-trk="{&quot;menu&quot;:{&quot;name&quot;:&quot;Municipales 2026&quot;,&quot;from&quot;:&quot;Nav&quot;}}">
+                    Municipales 2026                </a></li>
+                    <li><a href="https://actu.fr/orleans/loisirs-culture" class=""
+                    data-trk="{&quot;menu&quot;:{&quot;name&quot;:&quot;Loisirs-Culture&quot;,&quot;from&quot;:&quot;Nav&quot;}}">
+                    Loisirs-Culture                </a></li>
+                    <li><a href="https://actu.fr/orleans/sports" class=""
+                    data-trk="{&quot;menu&quot;:{&quot;name&quot;:&quot;Sports&quot;,&quot;from&quot;:&quot;Nav&quot;}}">
+                    Sports                </a></li>
+                    <li><a href="https://actu.fr/orleans/insolite" class=""
+                    data-trk="{&quot;menu&quot;:{&quot;name&quot;:&quot;Insolite&quot;,&quot;from&quot;:&quot;Nav&quot;}}">
+                    Insolite                </a></li>
+                    <li><a href="/rugby/" class=""
+                    data-trk="{&quot;menu&quot;:{&quot;name&quot;:&quot;Rugby&quot;,&quot;from&quot;:&quot;Nav&quot;}}">
+                    Rugby                </a></li>
+                    <li><a href="/cinema" class=""
+                    data-trk="{&quot;menu&quot;:{&quot;name&quot;:&quot;Cin\u00e9ma&quot;,&quot;from&quot;:&quot;Nav&quot;}}">
+                    Cinéma                </a></li>
+                    <li><a href="/planete/" class=""
+                    data-trk="{&quot;menu&quot;:{&quot;name&quot;:&quot;Plan\u00e8te&quot;,&quot;from&quot;:&quot;Nav&quot;}}">
+                    Planète                </a></li>
+                    <li><a href="https://actu.fr/monde" class=""
+                    data-trk="{&quot;menu&quot;:{&quot;name&quot;:&quot;Monde&quot;,&quot;from&quot;:&quot;Nav&quot;}}">
+                    Monde                </a></li>
+                    <li><a href="/histoire-patrimoine/" class=""
+                    data-trk="{&quot;menu&quot;:{&quot;name&quot;:&quot;Patrimoine&quot;,&quot;from&quot;:&quot;Nav&quot;}}">
+                    Patrimoine                </a></li>
+                    <li><a href="https://actu.fr/lifestyle" class=""
+                    data-trk="{&quot;menu&quot;:{&quot;name&quot;:&quot;Lifestyle&quot;,&quot;from&quot;:&quot;Nav&quot;}}">
+                    Lifestyle                </a></li>
+                    <li><a href="/enquetes-d-actu/" class=""
+                    data-trk="{&quot;menu&quot;:{&quot;name&quot;:&quot;Enqu\u00eates&quot;,&quot;from&quot;:&quot;Nav&quot;}}">
+                    Enquêtes                </a></li>
+                    <li><a href="/videos" class=""
+                    data-trk="{&quot;menu&quot;:{&quot;name&quot;:&quot;Vid\u00e9os&quot;,&quot;from&quot;:&quot;Nav&quot;}}">
+                    Vidéos                </a></li>
+                    <li><a href="/newsletter/" class=""
+                    data-trk="{&quot;menu&quot;:{&quot;name&quot;:&quot;Newsletters&quot;,&quot;from&quot;:&quot;Nav&quot;}}">
+                    Newsletters                </a></li>
+                <li>
+            <span onclick="window.location = window.atob('Lz9zPQ==')" class="ac-icon ac-icon--search ac-icon--only" data-trk="{&quot;menu&quot;:{&quot;name&quot;:&quot;Recherche&quot;,&quot;from&quot;:&quot;Nav&quot;}}"><span class="sr">recherche</span></span>        </li>
+    </ul>
+    </nav>
+
+
+<div id="alert-actu" class="ac-alert-info alert-elections">
+    <div class="ac-search-autocomplete ac-search-autocomplete--small  js-search-autocomplete-elections">
+        <form action="https://elections.actu.fr/recherche" method="GET"
+            onsubmit="document.getElementById('search-input').value=document.getElementById('search-input').value.trim();">
+            <p style="margin-bottom: .5rem">Municipales 2026, listes et résultats dans votre commune</p>
+            <div class="ac-search-autocomplete__wrap">
+                <div class="ac-search-autocomplete__field  ac-icon--search">
+                    <input
+                        id="search-input"
+                        role="combobox"
+                        aria-owns="search-autocomplete-city"
+                        aria-autocomplete="list"
+                        aria-expanded="false"
+                        type="search"
+                        placeholder="Rechercher une commune"
+                        autocomplete="off"
+                        name="q"
+                        title="Rechercher une commune"
+                        oninput="this.value=this.value.toLowerCase();"
+                        style="border-right: 1px solid #cdd9df;" />
+
+                    <div class="ac-search-autocomplete__results is-hidden">
+                        <ul role="listbox" id="search-autocomplete-city">
+                        </ul>
+                    </div>
+                </div>
+
+                <button type="submit" class="form-submit sr">Rechercher</button>
+            </div>
+        </form>
+    </div>
+
+    <button type="button" class="ac-btn ac-btn--close ac-btn--close-blue sr">
+        <span class="sr">fermer</span>
+    </button>
+</div><div class="ac-banner-ad ac-banner-ad-top">
+<div id="atf_megaban" data-dfp="/49926454/actu_site/pureplayer_article_atf_megaban" class="wrap" data-actu-ad="Pureplayer_Article_atf_megaban"></div></div>
+        </div>
+        <!-- MAIN -->
+        <main id="main" role="main">
+            
+<div class="ac-page ac-page-inner">
+    <div class="ac-page__wrap ac-page__wrap--large" id="sticky-1">
+        <div class="col-1 col-1--no-border ">
+            
+            <div class="ac-breadcrumb ">
+    <ol>
+                    <li class="ac-icon ac-icon--arrow-right"><a href="/">Actu</a></li>
+                    <li class="ac-icon ac-icon--arrow-right"><a href="/centre-val-de-loire/">Centre-Val de Loire</a></li>
+                    <li class="ac-icon ac-icon--arrow-right"><a href="/centre-val-de-loire/loiret_45">Loiret</a></li>
+                    <li class="ac-icon ac-icon--arrow-right"><a href="/centre-val-de-loire/chalette-sur-loing_45068">Châlette-sur-Loing</a></li>
+            </ol>
+
+            <div class="ac-breadcrumb__insee" hx-get="https://api.actu.fr/meteo/picto-commune/45068" hx-trigger="intersect" hx-swap="outerHTML"></div>
+    </div>
+            <article class="js-article-inner">
+                <div class="ac-article-main ">
+                    <h1>
+                                                                        Neuf personnes intoxiquées à cause d'un feu de cave dans un immeuble du Loiret                    </h1>
+                    <div id="poool-before-chapo"></div>
+                    <p>
+                        Hier soir, les pompiers sont intervenus dans un immeuble de Châlette-sur-Loing, près de Montargis, en raison d'un feu de cave. Neuf personnes ont été intoxiquées.                    </p>
+                    <dl class="ac-article-tag"><dt>Sur le même thème</dt><dd><a href="https://actu.fr/tag/incendie" data-trk="{&quot;cta&quot;:{&quot;action&quot;:&quot;Incendie&quot;,&quot;category&quot;:&quot;tag&quot;,&quot;from&quot;:&quot;article footer&quot;,&quot;name&quot;:&quot;Incendie&quot;,&quot;type&quot;:&quot;cta&quot;}}">Incendie</a></dd><dd><a href="https://actu.fr/tag/police" data-trk="{&quot;cta&quot;:{&quot;action&quot;:&quot;Police&quot;,&quot;category&quot;:&quot;tag&quot;,&quot;from&quot;:&quot;article footer&quot;,&quot;name&quot;:&quot;Police&quot;,&quot;type&quot;:&quot;cta&quot;}}">Police</a></dd><dd><a href="https://actu.fr/tag/pompiers" data-trk="{&quot;cta&quot;:{&quot;action&quot;:&quot;Pompiers&quot;,&quot;category&quot;:&quot;tag&quot;,&quot;from&quot;:&quot;article footer&quot;,&quot;name&quot;:&quot;Pompiers&quot;,&quot;type&quot;:&quot;cta&quot;}}">Pompiers</a></dd></dl>                                        <figure class="ac-article-main__figure"><div class="ac-article-main__img" style="padding-top: 66.666666666667%">
+    <img srcset="https://static.actu.fr/uploads/2025/09/pompiers-illustration-adobe-stock-archives-actu-200x200.jpeg 200w, https://static.actu.fr/uploads/2025/09/pompiers-illustration-adobe-stock-archives-actu-300x200.jpeg 300w, https://static.actu.fr/uploads/2025/09/pompiers-illustration-adobe-stock-archives-actu-500x334.jpeg 500w, https://static.actu.fr/uploads/2025/09/pompiers-illustration-adobe-stock-archives-actu-640x427.jpeg 640w, https://static.actu.fr/uploads/2025/09/pompiers-illustration-adobe-stock-archives-actu-960x640.jpeg 960w" sizes="(max-width: 960px) 100vw, 960px" decoding="async" src="https://static.actu.fr/uploads/2025/09/pompiers-illustration-adobe-stock-archives-actu-960x640.jpeg" alt="Deux policiers ayant réalisé des sauvetages ont été gravement intoxiqués" width="960" height="640"></div>
+    <figcaption>Deux policiers ayant réalisé des sauvetages ont été gravement intoxiqués <span class="copyright">(©Illustration Adobe Stock/Archives Actu)</span></figcaption></figure>                </div>
+                <div class="col-1__inner">
+                    <div class="ac-article-content">
+                        
+<div class="ac-article-date">
+                    Par
+        <strong>
+            <a href="https://actu.fr/auteur/emilie-tournie" title="Consulter tous les articles de Emilie Tournie">Emilie Tournie</a>
+                    </strong>
+        <span>
+        Publié le
+        <time datetime="2025-09-10T06:32:02+02:00">
+            10 sept. 2025 à 6h32        </time>
+            </span>
+</div>
+<div class="ac-article-actions">
+    <button
+        type="button"
+        class="ac-btn ac-btn--round ac-btn--border-gray ac-btn--bookmark"
+        data-trk="{&quot;cta&quot;:{&quot;action&quot;:&quot;&quot;,&quot;category&quot;:&quot;mon compte&quot;,&quot;from&quot;:&quot;article actions&quot;,&quot;name&quot;:&quot;Voir mes articles enregistr\u00e9s&quot;,&quot;type&quot;:&quot;cta&quot;}}"        title="Enregistrer l'article"
+        aria-label="Enregistrer l'article"
+        aria-owns="bookmark"
+        aria-controls="bookmark"
+        aria-expanded="false">
+        <span class="sr">Enregistrer</span>
+    </button>
+    
+    <button type="button" class="ac-btn ac-btn--round ac-btn--border-gray ac-btn--share" data-trk="{&quot;menu&quot;:{&quot;name&quot;:&quot;Partager&quot;,&quot;from&quot;:&quot;D\u00e9but article&quot;}}" title="Partager l'article" aria-owns="share" aria-controls="share" aria-expanded="false" aria-label="Partager">
+        <span class="sr">Partager</span>
+    </button>
+
+    <ul id="share" class="ac-article-actions__share ">
+        <li>
+            <a target="_blank" href="http://www.facebook.com/sharer.php?u=https://actu.fr/centre-val-de-loire/chalette-sur-loing_45068/neuf-personnes-intoxiquees-a-cause-d-un-feu-de-cave-dans-un-immeuble-du-loiret_63138385.html" class="ac-btn-social ac-btn-social--facebook" title="Partagez sur Facebook - Nouvelle fenêtre" data-trk="{&quot;social&quot;:{&quot;network&quot;:&quot;facebook&quot;},&quot;article&quot;:{&quot;id_contenu&quot;:63138385,&quot;titre_contenu&quot;:&quot;Neuf personnes intoxiqu\u00e9es \u00e0 cause d&#039;un feu de cave dans un immeuble du Loiret&quot;,&quot;marque&quot;:&quot;Actu Orl\u00e9ans&quot;,&quot;nom_commune&quot;:&quot;Ch\u00e2lette-sur-Loing&quot;,&quot;code_insee_commune&quot;:&quot;45068&quot;,&quot;code_region&quot;:&quot;24&quot;,&quot;code_departement&quot;:&quot;45&quot;,&quot;type&quot;:&quot;article&quot;,&quot;arborescence&quot;:&quot;Faits divers&quot;,&quot;tags_article_s&quot;:&quot;Incendie|Police|Pompiers&quot;,&quot;signature_auteur&quot;:&quot;Emilie Tournie&quot;,&quot;statut_monetisation&quot;:&quot;gratuit&quot;}}"><span class="sr">Partagez sur Facebook</span></a>
+        </li>
+        <li>
+            <a target="_blank" href="https://twitter.com/intent/tweet?url=https://actu.fr/centre-val-de-loire/chalette-sur-loing_45068/neuf-personnes-intoxiquees-a-cause-d-un-feu-de-cave-dans-un-immeuble-du-loiret_63138385.html&text=Neuf personnes intoxiquées à cause d&#039;un feu de cave dans un immeuble du Loiret&via=actufr" class="ac-btn-social ac-btn-social--x" title="Partagez sur Twitter - Nouvelle fenêtre" data-trk="{&quot;social&quot;:{&quot;network&quot;:&quot;twitter&quot;},&quot;article&quot;:{&quot;id_contenu&quot;:63138385,&quot;titre_contenu&quot;:&quot;Neuf personnes intoxiqu\u00e9es \u00e0 cause d&#039;un feu de cave dans un immeuble du Loiret&quot;,&quot;marque&quot;:&quot;Actu Orl\u00e9ans&quot;,&quot;nom_commune&quot;:&quot;Ch\u00e2lette-sur-Loing&quot;,&quot;code_insee_commune&quot;:&quot;45068&quot;,&quot;code_region&quot;:&quot;24&quot;,&quot;code_departement&quot;:&quot;45&quot;,&quot;type&quot;:&quot;article&quot;,&quot;arborescence&quot;:&quot;Faits divers&quot;,&quot;tags_article_s&quot;:&quot;Incendie|Police|Pompiers&quot;,&quot;signature_auteur&quot;:&quot;Emilie Tournie&quot;,&quot;statut_monetisation&quot;:&quot;gratuit&quot;}}"><span class="sr">Partagez sur Twitter</span></a>
+        </li>
+        <li>
+            <a target="_blank" href="/cdn-cgi/l/email-protection#3a7a05494f58505f594e07745f4f5c1a4a5f48495554545f491a53544e5542534b4ff9935f491af99a1a595b4f495f1a5e1c190a0903014f541a5c5f4f1a5e5f1a595b4c5f1a5e5b54491a4f541a5357575f4f58565f1a5e4f1a765553485f4e1c58555e4307745f4f5c1a4a5f48495554545f491a53544e5542534b4ff9935f491af99a1a595b4f495f1a5e1c190a0903014f541a5c5f4f1a5e5f1a595b4c5f1a5e5b54491a4f541a5357575f4f58565f1a5e4f1a765553485f4e1f080a001f080a524e4e4a490015155b594e4f145c4815595f544e485f174c5b56175e5f17565553485f1559525b565f4e4e5f17494f4817565553545d650e0f0a0c0215545f4f5c174a5f48495554545f491753544e5542534b4f5f5f49175b17595b4f495f175e174f54175c5f4f175e5f17595b4c5f175e5b5449174f54175357575f4f58565f175e4f17565553485f4e650c090b090209020f14524e5756" class="ac-btn-social ac-btn-social--mail" title="Partagez par mail - Nouvelle fenêtre" data-trk="{&quot;social&quot;:{&quot;network&quot;:&quot;email&quot;},&quot;article&quot;:{&quot;id_contenu&quot;:63138385,&quot;titre_contenu&quot;:&quot;Neuf personnes intoxiqu\u00e9es \u00e0 cause d&#039;un feu de cave dans un immeuble du Loiret&quot;,&quot;marque&quot;:&quot;Actu Orl\u00e9ans&quot;,&quot;nom_commune&quot;:&quot;Ch\u00e2lette-sur-Loing&quot;,&quot;code_insee_commune&quot;:&quot;45068&quot;,&quot;code_region&quot;:&quot;24&quot;,&quot;code_departement&quot;:&quot;45&quot;,&quot;type&quot;:&quot;article&quot;,&quot;arborescence&quot;:&quot;Faits divers&quot;,&quot;tags_article_s&quot;:&quot;Incendie|Police|Pompiers&quot;,&quot;signature_auteur&quot;:&quot;Emilie Tournie&quot;,&quot;statut_monetisation&quot;:&quot;gratuit&quot;}}"><span class="sr">Partagez par Mail</span></a>
+        </li>
+        <li>
+            <button class="ac-btn-social ac-btn-social--link" data-trk="{&quot;social&quot;:{&quot;network&quot;:&quot;copi\u00e9&quot;},&quot;article&quot;:{&quot;id_contenu&quot;:63138385,&quot;titre_contenu&quot;:&quot;Neuf personnes intoxiqu\u00e9es \u00e0 cause d&#039;un feu de cave dans un immeuble du Loiret&quot;,&quot;marque&quot;:&quot;Actu Orl\u00e9ans&quot;,&quot;nom_commune&quot;:&quot;Ch\u00e2lette-sur-Loing&quot;,&quot;code_insee_commune&quot;:&quot;45068&quot;,&quot;code_region&quot;:&quot;24&quot;,&quot;code_departement&quot;:&quot;45&quot;,&quot;type&quot;:&quot;article&quot;,&quot;arborescence&quot;:&quot;Faits divers&quot;,&quot;tags_article_s&quot;:&quot;Incendie|Police|Pompiers&quot;,&quot;signature_auteur&quot;:&quot;Emilie Tournie&quot;,&quot;statut_monetisation&quot;:&quot;gratuit&quot;}}" data-permalink="https://actu.fr/centre-val-de-loire/chalette-sur-loing_45068/neuf-personnes-intoxiquees-a-cause-d-un-feu-de-cave-dans-un-immeuble-du-loiret_63138385.html">
+                <span class="sr">Copiez/Collez le Lien</span>
+            </button>
+            <span class="ac-article-social__msg is-hidden">Copié !</span>
+        </li>
+    </ul>
+    
+    <iframe id="saooti-player" src="https://playerbeta.octopus.saooti.com/miniplayer/11/1712347?distributorId=6cc88bd2-a01b-4bf0-9bc4-949dec682133&color=30a1ef&theme=ffffff&wave=false" width="100%" height="80px" scrolling="no" frameborder="0" allow="autoplay" class=""></iframe></div><p><strong>Ce soir du mardi 9 septembre 2025, aux environs de 20h</strong>, une intervention a &eacute;t&eacute; d&eacute;clench&eacute;e dans un immeuble de Ch&acirc;lette-sur-Loing, pr&egrave;s de <a href="https://actu.fr/centre-val-de-loire/montargis_45208">Montargis</a> (<a href="https://actu.fr/orleans/">Loiret</a>), en raison d&rsquo;un <strong>feu de cave, avec propagation des fum&eacute;es dans la cage d&rsquo;escalier.</strong></p><div class="ac-banner-ad ac-banner-ad-300-250"><div id="atf_pave-haut" data-dfp="/49926454/actu_site/pureplayer_article_atf_pave-haut" class="" data-actu-ad="Pureplayer_Article_atf_pave-haut"></div></div><figure class="ac-embed ac-embed--google wall-content" data-provider="google" data-cmp-purpose="embedInfographie"><iframe loading="lazy" class="ac-iframe ac-iframe--google" data-maybe-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2669.1128364545425!2d2.727449375557447!3d48.01152985992922!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e57fd3900a4381%3A0x31d02b202151f587!2s27%20Rue%20Marceau%2C%2045120%20Ch%C3%A2lette-sur-Loing!5e0!3m2!1sfr!2sfr!4v1757449622581!5m2!1sfr!2sfr" width="500" height="500" title="Contenu embarqu&eacute; : https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2669.1128364545425!2d2.727449375557447!3d48.01152985992922!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e57fd3900a4381%3A0x31d02b202151f587!2s27%20Rue%20Marceau%2C%2045120%20Ch%C3%A2lette-sur-Loing!5e0!3m2!1sfr!2sfr!4v1757449622581!5m2!1sfr!2sfr ">
+    <a href="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2669.1128364545425!2d2.727449375557447!3d48.01152985992922!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e57fd3900a4381%3A0x31d02b202151f587!2s27%20Rue%20Marceau%2C%2045120%20Ch%C3%A2lette-sur-Loing!5e0!3m2!1sfr!2sfr!4v1757449622581!5m2!1sfr!2sfr" title="Ouvrie le lien">Cliquez ici pour visualiser le contenu</a>
+    </iframe>
+</figure><p class=" wall-content">Sept sauvetages ont &eacute;t&eacute; r&eacute;alis&eacute;s et le bilan fait &eacute;tat de <strong>neuf personnes intoxiqu&eacute;es, dont six en &eacute;tat d&rsquo;urgence relative et trois en urgence absolue </strong>(deux policiers et une petite fille de 2 ans). Ils ont tous &eacute;t&eacute; transport&eacute;es &agrave; l&rsquo;h&ocirc;pital le plus proche (CHAM).</p><div id="Inread_1" data-dfp="/49926454/actu_site/pureplayer_article_Inread_1" class="inread" data-actu-ad="Pureplayer_Article_Inread_1"></div><div class="ac-article-to-read wall-content">
+<p>&Agrave; lire aussi</p>
+<ul><li>
+<div class="item__image"><img decoding="async" loading="lazy" src="https://static.actu.fr/uploads/2025/09/pompiers-incendie-2-2-200x200.jpg" alt="" width="200" height="200"></div>
+<p><a class="item__content" href="https://actu.fr/centre-val-de-loire/sully-sur-loire_45315/incendie-au-sein-de-l-entreprise-swiss-krono-pres-d-orleans-53-pompiers-engages_63134437.html" data-trk='{"cta":{"type":"lien article","name":"Incendie au sein de l\u2019entreprise Swiss Krono pr\u00e8s d\u2019Orl\u00e9ans, 77 pompiers engag\u00e9s","category":"article","action":"https:\/\/actu.fr\/centre-val-de-loire\/sully-sur-loire_45315\/incendie-au-sein-de-l-entreprise-swiss-krono-pres-d-orleans-53-pompiers-engages_63134437.html","from":"\u00c0 lire aussi"}}'>Incendie au sein de l&rsquo;entreprise Swiss Krono pr&egrave;s d&rsquo;Orl&eacute;ans, 77 pompiers engag&eacute;s</a></p></li>
+</ul></div><p class=" wall-content">Le dispositif de secours comprenait un v&eacute;hicule de commandement, trois ambulances, un engin poste m&eacute;dical avanc&eacute;, trois engins incendie, un v&eacute;hicule l&eacute;ger infirmier et une &eacute;chelle a&eacute;rienne.&nbsp;</p><div id="Inread_2" data-dfp="/49926454/actu_site/pureplayer_article_Inread_2" class="inread" data-actu-ad="Pureplayer_Article_Inread_2"></div><p class=" wall-content"><strong>Cinquante sapeurs-</strong><a href="https://actu.fr/tag/pompiers">pompiers</a><strong> ont &eacute;t&eacute; mobilis&eacute;s sur les lieux de l&rsquo;</strong><a href="https://actu.fr/tag/incendie">incendie</a>. La <a href="https://actu.fr/tag/police">police</a>, le SAMU, Enedis et GRDF &eacute;taient &eacute;galement sur place.</p><p class=" wall-content"><i>Personnalisez votre actualit&eacute; en ajoutant vos villes et m&eacute;dias en favori avec <a href="https://moncompte.actu.fr" title="D&eacute;couvez Mon Actu" rel="nofollow" data-trk='{"cta":{"action":"https:\/\/moncompte.actu.fr","category":"mon compte","from":"article footer","name":"Mon actu","type":"cta"}}'>Mon Actu</a>.</i></p><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>window.actu.dataLayer.article.nombre_paragraphes = 6;</script><script>actu.pub.dfpTargeting.semantique = ["infirmier","intoxiqu\u00e9","feu","policier","transport","plus","pompiers","incendie","foot"];actu.pub.dfpTargeting.brandSafety = false;actu.pub.dfpTargeting.statut_monetisation = "gratuit";</script>
+                    </div>
+                    <div id="poool-widget" class="poool-widget"></div>
+                </div>
+            </article>
+        </div>
+        <div class="col-2 is-under-large-hidden">
+            <div class="container container--relative">
+                
+<div class="ac-push-last-news" hx-get="https://api.actu.fr/posts/last?filter[marque]=45660&no-style=1" hx-trigger="intersect" hx-swap="outerHTML"></div>
+
+<div id="native-dernieresactus" data-dfp="/49926454/actu_site/pureplayer_article_native-dernieresactus" class="is-hidden" data-actu-ad="Pureplayer_Article_native-dernieresactus"></div><div class="ac-banner-ad ac-banner-ad-300-600
+    is-under-large-hidden"
+    data-sticky="sticky-1">
+    <div id="btf_pave-bas" data-dfp="/49926454/actu_site/pureplayer_article_btf_pave-bas" class="" data-actu-ad="Pureplayer_Article_btf_pave-bas"></div></div>
+            </div>
+        </div>
+    </div>
+
+    <div class="ac-page__wrap ac-page__wrap--top-0" id="sticky-2">
+        <div class="col-1 col-1--no-border">
+            <div id="taboola-below-article-thumbnails" class="no-print"></div>
+<script>
+window._taboola = window._taboola || [];
+_taboola.push({article: 'auto'});
+if( (urlParams.has('utm_source') && 'newsletter' === urlParams.get('utm_source')) || urlParams.get('mgo_eu')) {
+    _taboola.push({ mode: 'thumbnails-h-new', container: 'taboola-below-article-thumbnails', placement: 'Below Article Rugby Thumbnails - New', target_type: 'mix', cseg: 'subscriber'});
+}
+else {
+    _taboola.push({ mode: 'thumbnails-h-new', container: 'taboola-below-article-thumbnails', placement: 'Below Article Rugby Thumbnails - New', target_type: 'mix' });
+}
+_taboola.push({flush: true});
+</script>        </div>
+        <div class="col-2 is-under-large-hidden">
+            <div class="container container--relative">
+                <div class="ac-push-top-day ">
+    <h2>Les plus lus</h2>
+    <h3>France</h3>
+    <ul>
+                    <li>
+                <a href="https://actu.fr/societe/fin-du-ramadan-2026-et-aid-el-fitr-comment-se-deroule-la-nuit-du-doute-prevue-ce-mercredi_64000469.html" data-trk="{&quot;block&quot;:{&quot;name&quot;:&quot;&quot;,&quot;position&quot;:0,&quot;position_article&quot;:1},&quot;article&quot;:{&quot;id_contenu&quot;:64000469,&quot;titre_contenu&quot;:&quot;Fin du ramadan 2026 et A\u00efd el-Fitr : comment se d\u00e9roule la Nuit du doute, pr\u00e9vue ce mercredi\u00a0?&quot;,&quot;type&quot;:&quot;article&quot;,&quot;statut_monetisation&quot;:&quot;gratuit&quot;}}"><strong>1</strong>&nbsp; Fin du ramadan 2026 et Aïd el-Fitr : comment se déroule la Nuit du doute, prévue ce mercredi ?</a>
+                <div class="ac-push-top-day__img">
+                    <img loading="lazy" src="https://static.actu.fr/uploads/2025/05/adobestock-88581296-80x80.jpeg" alt="La France compte cinq millions de musulmans." width="80" height="80" />
+                </div>
+            </li>
+                    <li>
+                <a href="https://actu.fr/societe/maladie-de-charcot-des-clusters-identifies-en-france-voici-les-departements-ou-il-y-a-le-plus-de-cas_64008644.html" data-trk="{&quot;block&quot;:{&quot;name&quot;:&quot;&quot;,&quot;position&quot;:0,&quot;position_article&quot;:2},&quot;article&quot;:{&quot;id_contenu&quot;:64008644,&quot;titre_contenu&quot;:&quot;Maladie de Charcot : des \&quot;clusters\&quot; identifi\u00e9s en France, voici les d\u00e9partements o\u00f9 il y a le plus de cas&quot;,&quot;type&quot;:&quot;article&quot;,&quot;statut_monetisation&quot;:&quot;gratuit&quot;}}"><strong>2</strong>&nbsp; Maladie de Charcot : des "clusters" identifiés en France, voici les départements où il y a le plus de cas</a>
+                <div class="ac-push-top-day__img">
+                    <img loading="lazy" src="https://static.actu.fr/uploads/2026/03/newsmlafp-com-20220706t000000zpartners-080-hl-tdurand-1786476-80x80.jpg" alt="Photo de 2022 montrant un patient atteint de la maladie de Charcot. " width="80" height="80" />
+                </div>
+            </li>
+                    <li>
+                <a href="https://actu.fr/societe/fin-du-ramadan-2026-l-arabie-saoudite-annonce-la-date-de-l-aid-el-fitr_64010855.html" data-trk="{&quot;block&quot;:{&quot;name&quot;:&quot;&quot;,&quot;position&quot;:0,&quot;position_article&quot;:3},&quot;article&quot;:{&quot;id_contenu&quot;:64010855,&quot;titre_contenu&quot;:&quot;Fin du ramadan 2026 : l&#039;Arabie saoudite annonce la date de l&#039;A\u00efd el-Fitr&quot;,&quot;type&quot;:&quot;article&quot;,&quot;statut_monetisation&quot;:&quot;gratuit&quot;}}"><strong>3</strong>&nbsp; Fin du ramadan 2026 : l'Arabie saoudite annonce la date de l'Aïd el-Fitr</a>
+                <div class="ac-push-top-day__img">
+                    <img loading="lazy" src="https://static.actu.fr/uploads/2026/03/fin-du-ramadan-aid-el-fitr-arabie-saoudite-80x80.jpeg" alt="Des fidèles dans la mosquée de Calais" width="80" height="80" />
+                </div>
+            </li>
+                    <li>
+                <a href="https://actu.fr/auvergne-rhone-alpes/lyon_69123/fin-du-ramadan-2026-la-grande-mosquee-de-lyon-communique-la-date-de-l-aid-el-fitr_64012629.html" data-trk="{&quot;block&quot;:{&quot;name&quot;:&quot;&quot;,&quot;position&quot;:0,&quot;position_article&quot;:4},&quot;article&quot;:{&quot;id_contenu&quot;:64012629,&quot;titre_contenu&quot;:&quot;Fin du ramadan 2026 : la Grande mosqu\u00e9e de Lyon communique la date de l&#039;A\u00efd el-Fitr&quot;,&quot;type&quot;:&quot;article&quot;,&quot;statut_monetisation&quot;:&quot;gratuit&quot;}}"><strong>4</strong>&nbsp; Fin du ramadan 2026 : la Grande mosquée de Lyon communique la date de l'Aïd el-Fitr</a>
+                <div class="ac-push-top-day__img">
+                    <img loading="lazy" src="https://static.actu.fr/uploads/2026/01/adobestock-682714250-80x80.jpg" alt="Les musulmans de France fêteront-ils tous le même jour la fin du ramadan? La Grande moquée de Paris rend mercredi soir son verdict sur la date de l&#039;Aïd el-Fitr, que plusieurs institutions musulmanes ont déjà fixée à vendredi." width="80" height="80" />
+                </div>
+            </li>
+                    <li>
+                <a href="https://actu.fr/occitanie/toulouse_31555/grave-accident-entre-trois-vehicules-sur-le-peripherique-de-toulouse-un-motard-est-mort_64014009.html" data-trk="{&quot;block&quot;:{&quot;name&quot;:&quot;&quot;,&quot;position&quot;:0,&quot;position_article&quot;:5},&quot;article&quot;:{&quot;id_contenu&quot;:64014009,&quot;titre_contenu&quot;:&quot;Grave accident entre trois v\u00e9hicules sur le p\u00e9riph\u00e9rique de Toulouse : un motard est mort&quot;,&quot;type&quot;:&quot;article&quot;,&quot;statut_monetisation&quot;:&quot;gratuit&quot;}}"><strong>5</strong>&nbsp; Grave accident entre trois véhicules sur le périphérique de Toulouse : un motard est mort</a>
+                <div class="ac-push-top-day__img">
+                    <img loading="lazy" src="https://static.actu.fr/uploads/2026/03/accident-nuit-peripherique-toulouse-sdis31-960x640-960x640-1-80x80.jpg" alt="Un grave accident s&#039;est produit, mercredi 18 mars 2026, sur le périphérique de Toulouse : trois véhicules ont été impliqués, un motard est mort." width="80" height="80" />
+                </div>
+            </li>
+            </ul>
+    <a href="/top/" class="ac-btn ac-btn--blue600 ac-btn--large" data-trk="{&quot;menu&quot;:{&quot;name&quot;:&quot;Voir plus&quot;,&quot;from&quot;:&quot;Top articles&quot;}}">Voir plus</a>
+</div><div class="ac-banner-ad ac-banner-ad-300-600
+    is-under-large-hidden"
+    data-sticky="sticky-2">
+    <div id="btf_pave-bas-2" data-dfp="/49926454/actu_site/pureplayer_article_btf_pave-bas-2" class="" data-actu-ad="Pureplayer_Article_btf_pave-bas-2"></div></div>
+            </div>
+        </div>
+    </div>
+</div>        </main>
+
+        
+<div class="ac-nav-actu no-print">
+    <ul>
+        
+        <li><a href="/" class="ac-icon ac-icon--home " data-trk="{&quot;menu&quot;:{&quot;name&quot;:&quot;Home&quot;,&quot;from&quot;:&quot;Nav footer&quot;}}">Actu.fr</a></li>
+
+                    <li>
+                <span onclick="window.location = window.atob('aHR0cHM6Ly9hY3R1LmZyL21vbi1hY3R1')" class="ac-icon ac-icon--star " data-trk="{&quot;menu&quot;:{&quot;name&quot;:&quot;Mon actu&quot;,&quot;from&quot;:&quot;Nav footer&quot;}}" data-tooltip="tooltip-nav-mon-actu">Mon actu</span>
+            </li>
+        
+        <li><button class="ac-btn ac-icon ac-icon--share ac-btn--share" aria-label="Partager" data-trk="{&quot;menu&quot;:{&quot;name&quot;:&quot;Partager&quot;,&quot;from&quot;:&quot;Nav footer&quot;}}">Partager</button></li>
+
+                    <li>
+                <button class="ac-btn ac-icon ac-icon--bookmark ac-btn--bookmark-mobile ac-bookmark-connected" aria-label="Enregistrer l'article" data-trk="{&quot;cta&quot;:{&quot;action&quot;:&quot;&quot;,&quot;category&quot;:&quot;mon compte&quot;,&quot;from&quot;:&quot;article actions&quot;,&quot;name&quot;:&quot;Enregistrer un article&quot;,&quot;type&quot;:&quot;cta&quot;}}">Enregistrer</button>
+                <a href="https://moncompte.actu.fr" rel="nofollow" class="ac-btn ac-icon ac-icon--bookmark ac-btn--bookmark-mobile ac-bookmark-not-connected" hidden="true">Enregistrer</a>
+            </li>
+
+                        </ul>
+</div>
+
+        <div class="ac-banner-ad ac-banner-ad-main">
+<div id="btf_megafooter" data-dfp="/49926454/actu_site/pureplayer_article_btf_megafooter" class="wrap" data-actu-ad="Pureplayer_Article_btf_megafooter"></div></div>
+
+<footer class="ac-footer no-print" role="contentinfo" style="content-visibility: auto;">
+                <div class="ac-footer__content ac-footer__content--border">
+            <div class="wrap">
+                <div class="ac-footer__title">
+                    <a class="ac-logo-media" href="/">
+                        <img loading="lazy" width="110" height="20" src="https://media.actu.fr/marque/logo/orleans.svg" alt="Actu Orléans" />
+                    </a>
+                </div>
+                <nav class="ac-footer__nav" role="navigation">
+                    <div class="col">
+                        <div><strong>Actu Orléans</strong></div>
+                        <ul>
+                                                                                        <li><a href="/orleans/edito/">Qui sommes-nous ?</a></li>
+                                <li><a href="/orleans/edito/#contacter-redaction">Contact</a></li>
+                                                    </ul>
+                    </div>
+                                    </nav>
+            </div>
+        </div>
+        <div class="ac-footer__content">
+        <div class="wrap">
+            <div class="ac-footer__title">
+                <a class="ac-logo" href="/">
+                    <img loading="lazy" src="https://static.actu.fr/themes/actu_v2/dist/img/logo-actu-blue.svg" alt="Actu.fr" width="125" height="35" />
+                    <span>L'actu près de chez vous</span>
+                </a>
+                <ul>
+                    <li><a href="https://fr-fr.facebook.com/actu.fr/" target="_blank" class="ac-btn-social ac-btn-social--facebook" title="Facebook - Nouvelle fenêtre" rel="noopener nofollow"><span class="sr">Facebook</span></a></li>
+                    <li><a href="https://www.instagram.com/actu.fr_officiel/" target="_blank" class="ac-btn-social ac-btn-social--instagram" title="Instagram - Nouvelle fenêtre" rel="noopener nofollow"><span class="sr">Instagram</span></a></li>
+                    <li><a href="https://www.tiktok.com/@actu.fr.officiel" target="_blank" class="ac-btn-social ac-btn-social--tiktok" title="Tiktok - Nouvelle fenêtre" rel="noopener nofollow"><span class="sr">Tiktok</span></a></li>
+                    <li><a href="https://bsky.app/profile/actu.fr" target="_blank" class="ac-btn-social ac-btn-social--bluesky" title="Bluesky - Nouvelle fenêtre" rel="noopener nofollow"><span class="sr">Bluesky</span></a></li>
+                    <li><a href="https://x.com/actufr" target="_blank" class="ac-btn-social ac-btn-social--x" title="X - Nouvelle fenêtre" rel="noopener nofollow"><span class="sr">X</span></a></li>
+                    <li><a href="https://whatsapp.com/channel/0029Va2yUFLB4hdMhW8b3j2H" target="_blank" class="ac-btn-social ac-btn-social--whatsapp" title="Whatsapp - Nouvelle fenêtre" rel="noopener nofollow"><span class="sr">Whatsapp</span></a></li>
+                    <li><a href="/rss.xml" target="_blank" class="ac-btn-social ac-btn-social--rss" title="Flux RSS - Nouvelle fenêtre" rel="noopener nofollow"><span class="sr">Flux RSS</span></a></li>
+                    <li><a href="https://www.dailymotion.com/actufr" target="_blank" class="ac-btn-social ac-btn-social--dailymotion" title="Dailymotion - Nouvelle fenêtre" rel="noopener nofollow"><span class="sr">Dailymotion</span></a></li>
+                </ul>
+            </div>
+            <nav class="ac-footer__nav" role="navigation">
+                <div class="col">
+                    <div><strong>Actu.fr</strong></div>
+                    <ul>
+                        <li><span onclick="window.location = window.atob('L3F1aS1zb21tZXMtbm91cw==')" >Qui sommes-nous ?</span></li>
+                        <li><span onclick="window.location = window.atob('L25vcy1kZXBhcnRlbWVudHM=')" >Nos départements</span></li>
+                        <li><span onclick="window.location = window.atob('L2NvbnRhY3Q=')" >Contact</span></li>
+                        <li><span onclick="window.location = window.atob('L21lbnRpb25zLWxlZ2FsZXM=')" >Mentions légales</span></li>
+                        <li><span onclick="window.location = window.atob('L2NvbmRpdGlvbnMtZ2VuZXJhbGVzLWQtdXRpbGlzYXRpb24=')" >Conditions générales d'utilisation</span></li>
+                        <li><span onclick="window.location = window.atob('L2NoYXJ0ZS11dGlsaXNhdGV1cg==')" >Charte utilisateur</span></li>
+                        <li><span onclick="window.location = window.atob('L2Rvbm5lZXMtcGVyc29ubmVsbGVzLWV0LWNvb2tpZXM=')" >Données personnelles et cookies</span></li>
+                        <li><span onclick="window.location = window.atob('aHR0cHM6Ly9tZWRpYS5hY3R1LmZyL2NvbnRlbnQvcG9saXRpcXVlLWRvbm5lZXMtcGVyc29ubmVsbGVzLWFjdHUucGRm')" >Politique des données personnelles</span></li>
+                        <li><span onclick="window.location = window.atob('amF2YXNjcmlwdDp3aW5kb3cuRGlkb21pLnByZWZlcmVuY2VzLnNob3coKQ==')" title="Ouvrir la fenêtre de selection cookies">Modifier mes choix cookies</span></li>
+                        <li><span onclick="window.location = window.atob('L3V0aXE=')" title="Gérer mon consentement à Utiq">Gérer Utiq</span></li>
+                        <li><span onclick="window.location = window.atob('aHR0cHM6Ly9tZWRpYS5hY3R1LmZyL2NvbnRlbnQvY29uZGl0aW9ucy1nZW5lcmFsZXMtZGUtdmVudGUtcHVibGloZWJkb3MucGRm')" >CGV Publihebdos</span></li>
+                        <li><span onclick="window.location = window.atob('L2RlY2xhcmF0aW9uLWQtYWNjZXNzaWJpbGl0ZQ==')" >Accessibilité : Non conforme</span></li>
+                        <li><a href="https://serviceclient.actu.fr/support/solutions">Foire aux questions</a></li>
+                        <li><a href="https://actu.fr/actu-fr-et-legalstart-partenaires-pour-vous-aider-dans-vos-demarches" title="Actu.fr et Legalstart, partenaires pour vous aider dans vos démarches">Entreprises : formalités et conseils</a></li>
+                        <li><span onclick="window.location = window.atob('L25ld3NsZXR0ZXIv')" title="Inscrivez-vous à nos newsletters">Newsletters</span></li>
+                        <li><span onclick="window.location = window.atob('L2luZm9jb25zbw==')" title="Consultez nos articles infoconso">Infoconso</span></li>
+                        <li><span onclick="window.location = window.atob('L2d1aWRlLWFjaGF0Lw==')" title="Consultez nos articles guide achat">Guide d'achat</span></li>
+                                            </ul>
+                </div>
+                <div class="col">
+                    <div><strong>Sites du groupe Publihebdos</strong></div>
+                    <ul>
+                        <li><a href="https://annonces-legales.actu.fr">Annonces légales</a></li>
+                        <li><a href="https://infolocale.actu.fr/">Infolocale</a></li>
+                        <li><a href="https://examens.actu.fr">Examens</a></li>
+                        <li><a href="https://elections.actu.fr">Élections</a></li>
+                        <li><a href="https://publihebdos.actu.fr" rel="noopener">Publihebdos</a></li>
+                        <li><a href="https://agence-apei.com" rel="noopener">Agence APEI</a></li>
+                        <li><a href="https://www.hebdoscom.com" rel="noopener">Hebdoscom</a></li>
+                    </ul>
+                </div>
+                <div class="col">
+                    <div><strong>Sites du groupe Sipa-OF</strong></div>
+                    <ul>
+                        <li><a href="https://www.ouest-france.fr" rel="nofollow noopener">Ouest-France</a></li>
+                        <li><a href="/medialex-notre-partenaire-pour-la-publication-des-annonces-legales" rel="nofollow">Medialex</a></li>
+                        <li><a href="https://www.ouest-france.fr/autres-sites/" rel="noopener nofollow">Autres</a></li>
+                    </ul>
+                </div>
+            </nav>
+        </div>
+                    <nav class="wrap ac-footer__nav" role="navigation">
+                <div class="col">
+                    <div><strong>En régions</strong></div>
+                    <ul>
+                        <li><a href="https://actu.fr/auvergne-rhone-alpes/" title="Auvergne-Rhône-Alpes : accèdez à tous les départements et communes">Auvergne-Rhône-Alpes</a></li>
+                        <li><a href="https://actu.fr/centre-val-de-loire/" title="Centre-Val de Loire : accèdez à tous les départements et communes">Centre-Val de Loire</a></li>
+                        <li><a href="https://actu.fr/bretagne/" title="Bretagne : accèdez à tous les départements et communes">Bretagne</a></li>
+                        <li><a href="https://actu.fr/bourgogne-franche-comte/" title="Bourgogne-Franche-Comté : accèdez à tous les départements et communes">Bourgogne-Franche-Comté</a></li>
+                    </ul>
+                </div>
+                <div class="col">
+                    <ul>
+                        <li><a href="https://actu.fr/grand-est/" title="Grand-Est : accèdez à tous les départements et communes">Grand-Est</a></li>
+                        <li><a href="https://actu.fr/hauts-de-france/" title="Hauts-de-France : accèdez à tous les départements et communes">Hauts-de-France</a></li>
+                        <li><a href="https://actu.fr/ile-de-france/" title="Île-de-France : accèdez à tous les départements et communes">Île-de-France</a></li>
+                        <li><a href="https://actu.fr/normandie/" title="Normandie : accèdez à tous les départements et communes">Normandie</a></li>
+                        <li><a href="https://actu.fr/nouvelle-aquitaine/" title="Nouvelle-Aquitaine : accèdez à tous les départements et communes">Nouvelle-Aquitaine</a></li>
+                    </ul>
+                </div>
+                <div class="col">
+                    <ul>
+                        <li><a href="https://actu.fr/occitanie/" title="Occitanie : accèdez à tous les départements et communes">Occitanie</a></li>
+                        <li><a href="https://actu.fr/pays-de-la-loire/" title="Pays de la Loire : accèdez à tous les départements et communes">Pays de la Loire</a></li>
+                        <li><a href="https://actu.fr/provence-alpes-cote-d-azur/" title="Provence-Alpes-Côte d'Azur : accèdez à tous les départements et communes">Provence-Alpes-Côte d'Azur</a></li>
+                        <li><a href="https://actu.fr/corse/" title="Corse : accèdez à tous les départements et communes">Corse</a></li>
+                    </ul>
+                </div>
+            </nav>
+            <div class="wrap ac-footer__nav" role="navigation">
+                <div class="col">
+                    <div><strong>Les grandes villes</strong></div>
+                    <ul>
+                        <li><a href="https://actu.fr/hauts-de-france/amiens_80021" title="Accèdez aux actualités de Amiens">Amiens</a></li>
+                        <li><a href="https://actu.fr/nouvelle-aquitaine/bordeaux_33063" title="Accèdez aux actualités de Bordeaux">Bordeaux</a></li>
+                        <li><a href="https://actu.fr/bretagne/brest_29019" title="Accèdez aux actualités de Brest">Brest</a></li>
+                        <li><a href="https://actu.fr/normandie/caen_14118" title="Accèdez aux actualités de Caen">Caen</a></li>
+                        <li><a href="https://actu.fr/normandie/le-havre_76351" title="Accèdez aux actualités de Le Havre">Le Havre</a></li>
+                    </ul>
+                </div>
+                <div class="col">
+                    <ul>
+                        <li><a href="https://actu.fr/hauts-de-france/lille_59350" title="Accèdez aux actualités de Lille">Lille</a></li>
+                        <li><a href="https://actu.fr/bretagne/lorient_56121" title="Accèdez aux actualités de Lorient">Lorient</a></li>
+                        <li><a href="https://actu.fr/auvergne-rhone-alpes/lyon_69123" title="Accèdez aux actualités de Lyon">Lyon</a></li>
+                        <li><a href="https://actu.fr/pays-de-la-loire/le-mans_72181" title="Accèdez aux actualités de Le Mans">Le Mans</a></li>
+                        <li><a href="https://actu.fr/provence-alpes-cote-d-azur/marseille_13055" title="Accèdez aux actualités de Marseille">Marseille</a></li>
+                    </ul>
+                </div>
+                <div class="col">
+                    <ul>
+                        <li><a href="https://actu.fr/grand-est/metz_57463" title="Accèdez aux actualités de Metz">Metz</a></li>
+                        <li><a href="https://actu.fr/occitanie/montpellier_34172" title="Accèdez aux actualités de Montpellier">Montpellier</a></li>
+                        <li><a href="https://actu.fr/grand-est/nancy_54395" title="Accèdez aux actualités de Nancy">Nancy</a></li>
+                        <li><a href="https://actu.fr/pays-de-la-loire/nantes_44109" title="Accèdez aux actualités de Nantes">Nantes</a></li>
+                        <li><a href="https://actu.fr/ile-de-france/paris_75056" title="Accèdez aux actualités de Paris">Paris</a></li>
+                    </ul>
+                </div>
+                <div class="col">
+                    <ul>
+                        <li><a href="https://actu.fr/grand-est/reims_51454" title="Accèdez aux actualités de Reims">Reims</a></li>
+                        <li><a href="https://actu.fr/bretagne/rennes_35238" title="Accèdez aux actualités de Rennes">Rennes</a></li>
+                        <li><a href="https://actu.fr/normandie/rouen_76540" title="Accèdez aux actualités de Rouen">Rouen</a></li>
+                        <li><a href="https://actu.fr/grand-est/strasbourg_67482" title="Accèdez aux actualités de Strasbourg">Strasbourg</a></li>
+                        <li><a href="https://actu.fr/occitanie/toulouse_31555" title="Accèdez aux actualités de Toulouse">Toulouse</a></li>
+                    </ul>
+                </div>
+            </div>
+                        <div class="wrap">
+            <p class="ac-footer__legals">© 2026 actu.fr, détenu et coexploité par Publihebdos et ses filiales.<br />Hébergement dédié : <a href="https://www.group-dis.com" rel="noopener" target="_blank">Groupe DIS</a>, Digital Ad Trust et ACPM. Conception et design : <a href="https://datagif.fr/" rel="noopener" target="_blank">Datagif</a>.
+        </div>
+    </div>
+</footer>
+        <div id="poool-banner-bottom" style="position:fixed;bottom:0;z-index:100;right:0; left:0"></div>
+        <div id="poool-popin"></div>
+    </div>
+    
+<div class="modal-mask is-hidden" id="modal-mask"></div>
+
+<div id="modal-regions" class="ac-modal-regions is-hidden"  role="dialog" aria-labelledby="dialog-modal-regions-title">
+    <div class="ac-modal-regions__header">
+        <div class="wrap">
+            <p id="dialog-modal-regions-title" class="sr">Selectionnez une région ou recherchez une ville</p>
+            <a class="ac-logo" href="/"><img loading="lazy" src="https://static.actu.fr/themes/actu_v2/dist/img/logo-actu-blue.svg" alt="actu.fr" /></a>
+            <!--  TO COMPLETE search-autocomplete.js -->
+<div class="ac-search-autocomplete
+             js-search-autocomplete-city" >
+    <form action="#" method="post">
+        <div class="ac-search-autocomplete__wrap">
+            <div class="ac-search-autocomplete__field  ac-icon--search">
+                <input role="combobox" aria-owns="search-autocomplete-city-region" aria-autocomplete="list" aria-expanded="false" type="search" placeholder="Géolocalisez vous ->" autocomplete="shipping locality" name="city" title="Rechercher une ville" readonly />
+                <button type="button" aria-label="Me géolocaliser" class="ac-icon--localisation js-btn-geoloc"></button>
+                <div class="ac-search-autocomplete__results is-hidden"></div>
+            </div>
+                    </div>
+    </form>
+</div>
+            <button type="button" class="ac-btn ac-btn--close ac-btn--close-bg-gray"><span class="sr">fermer</span></button>
+        </div>
+    </div>
+    <div class="ac-modal-regions__content">
+
+    </div>
+</div>
+<script nomodule src="https://static.actu.fr/themes/actu_v2/dist/libs/picturefill.min.js" async defer></script>
+<script>
+    window.addEventListener('DOMContentLoaded', function(event) {
+        var target = document.querySelector('#taboola-below-article-thumbnails---new');
+        if (null === target) {
+            return;
+        }
+        var observer = new MutationObserver(function(mutations) {
+            mutations.forEach(function(mutation) {
+                if ('attributes' === mutation.type && 'data-feed-container-num' === mutation.attributeName) {
+                    console.log('TRC.readMoreVisible : ', TRC.readMoreVisible || false);
+                    if (TRC.readMoreVisible || false) {
+                        window.dataLayer.push({
+                            'event': 'readMore',
+                            'readMoreOrigin': 'mutation observer'
+                        });
+                    }
+                    observer.disconnect();
+                }
+            });
+        });
+        observer.observe(target, {
+            attributes: true
+        });
+    });
+    window.actu.abonnement = {
+        url: ''
+    };
+
+    window.actu.poool = {
+        appId: '5TjHZ0kODczGJtLVBWv3eqp1xIESQsbEdG090Nyb4hwMYSArWsqAWrYDM34BLBTy'
+    };
+</script>
+<div id="g_id_onload" data-client_id="115819430867-kj0ugmsrbaac9roic8coj8gos4s4navl.apps.googleusercontent.com"
+    data-login_uri="https://auth.actu.fr/auth/realms/actu-fr/got-login"
+    data-context="signin" data-auto_prompt="true" data-auto_select="false" data-use_fedcm_for_prompt="true"
+    data-cancel_on_tap_outside="false" data-app_client_id="actu-fr-editorial"
+    data-app_redirect_uri="https://moncompte.actu.fr/session?return_url=https%3A%2F%2Fmoncompte.actu.fr%2Fsession%2Fcheck%3Freturn_url%3Dhttps%253A%252F%252Factu.fr%252Fcentre-val-de-loire%252Fchalette-sur-loing_45068%252Fneuf-personnes-intoxiquees-a-cause-d-un-feu-de-cave-dans-un-immeuble-du-loiret_63138385.html">
+</div>
+
+<script>window.actu = window.actu || {}; window.actu.marque = {"commune":"Orl\u00e9ans","landingUrl":"","logo":"https:\/\/media.actu.fr\/marque\/logo\/orleans.svg","type":"pureplayer","uuid":"735d6633-d572-4c1b-a5e0-6a31acdaff70"}; window.actu.disMarque = {action: 'marque-contact', ajax: 'https://actu.fr/wp/wp-admin/admin-ajax.php'};</script><template id="consent-embedVideoAudio">
+<div class="embed-consent-overlay">
+<p class="embed-consent-overlay-text">
+<strong>Contenu externe</strong><br>
+Nous avons bloqué l’affichage de ce contenu vidéo/audio pour respecter vos choix en matière de cookies. En cliquant sur « Consulter », vous acceptez le dépôt de cookies par des services de vidéos en ligne tel que YouTube, Dailymotion. Vous pouvez modifier vos choix à tout moment en cliquant sur « Modifier mes choix cookies » dans la rubrique Services en bas de cette page.
+</p>
+<div class="embed-consent-overlay-accept-button">Consulter</div>
+</div>
+</template>
+<template id="consent-embedSocial">
+<div class="embed-consent-overlay">
+<p class="embed-consent-overlay-text">
+<strong>Contenu externe</strong><br>
+Nous avons bloqué l’affichage de ce contenu pour respecter vos choix en matière de cookies. En cliquant sur « Consulter », vous acceptez le dépôt de cookies par des services de vidéos en ligne tel que YouTube, Dailymotion. Vous pouvez modifier vos choix à tout moment en cliquant sur « Modifier mes choix cookies » dans la rubrique Services en bas de cette page.
+</p>
+<div class="embed-consent-overlay-accept-button">Consulter</div>
+</div>
+</template>
+<template id="consent-embedInfographie">
+<div class="embed-consent-overlay">
+<p class="embed-consent-overlay-text">
+<strong>Contenu externe</strong><br>
+Nous avons bloqué l’affichage de cette infographie pour respecter vos choix en matière de cookies. En cliquant sur « Consulter », vous acceptez le dépôt de cookies par des services de vidéos en ligne tel que YouTube, Dailymotion. Vous pouvez modifier vos choix à tout moment en cliquant sur « Modifier mes choix cookies » dans la rubrique Services en bas de cette page.
+</p>
+<div class="embed-consent-overlay-accept-button">Consulter</div>
+</div>
+</template><script type="application/ld+json">[{"@context":"http://schema.org","@type":"NewsArticle","mainEntityOfPage":{"@type":"WebPage","@id":"https://actu.fr/?p=63138385"},"headline":"Neuf personnes intoxiquées à cause d&#039;un feu de cave dans un immeuble du Loiret","description":"Hier soir, les pompiers sont intervenus dans un immeuble de Châlette-sur-Loing, près de Montargis, en raison d&#039;un feu de cave. Neuf personnes ont été intoxiquées.","articleBody":"Ce soir du mardi 9 septembre 2025, aux environs de 20h, une intervention a &eacute;t&eacute; d&eacute;clench&eacute;e dans un immeuble de Ch&acirc;lette-sur-Loing, pr&egrave;s de Montargis (Loiret), en raison d&rsquo;un feu de cave, avec propagation des fum&eacute;es dans la cage d&rsquo;escalier.\n    Cliquez ici pour visualiser le contenu\n    \nSept sauvetages ont &eacute;t&eacute; r&eacute;alis&eacute;s et le bilan fait &eacute;tat de neuf personnes intoxiqu&eacute;es, dont six en &eacute;tat d&rsquo;urgence relative et trois en urgence absolue (deux policiers et une petite fille de 2 ans). Ils ont tous &eacute;t&eacute; transport&eacute;es &agrave; l&rsquo;h&ocirc;pital le plus proche (CHAM).\n&Agrave; lire aussi\n\n\nIncendie au sein de l&rsquo;entreprise Swiss Krono pr&egrave;s d&rsquo;Orl&eacute;ans, 77 pompiers engag&eacute;s\nLe dispositif de secours comprenait un v&eacute;hicule de commandement, trois ambulances, un engin poste m&eacute;dical avanc&eacute;, trois engins incendie, un v&eacute;hicule l&eacute;ger infirmier et une &eacute;chelle a&eacute;rienne.&nbsp;Cinquante sapeurs-pompiers ont &eacute;t&eacute; mobilis&eacute;s sur les lieux de l&rsquo;incendie. La police, le SAMU, Enedis et GRDF &eacute;taient &eacute;galement sur place.Personnalisez votre actualit&eacute; en ajoutant vos villes et m&eacute;dias en favori avec Mon Actu.window.actu.dataLayer.article.nombre_paragraphes = 6;actu.pub.dfpTargeting.semantique = [\"infirmier\",\"intoxiqu\\u00e9\",\"feu\",\"policier\",\"transport\",\"plus\",\"pompiers\",\"incendie\",\"foot\"];actu.pub.dfpTargeting.brandSafety = false;actu.pub.dfpTargeting.statut_monetisation = \"gratuit\";\n","keywords":["Incendie","Police","Pompiers","Faits divers"],"datePublished":"2025-09-10T06:32:02+02:00","dateModified":"2025-09-10T06:32:02+02:00","image":{"@type":"ImageObject","url":"https://static.actu.fr/uploads/2025/09/pompiers-illustration-adobe-stock-archives-actu.jpeg","width":1280,"height":853},"author":{"@type":"Person","name":"Emilie Tournie","url":"https://actu.fr/auteur/emilie-tournie"},"producer":{"@type":"Organization","name":"Actu Orléans"},"publisher":{"@type":"Organization","name":"actu.fr","logo":{"@type":"ImageObject","url":"https://static.actu.fr/marque/logo/actu-fr_w1024.png","width":1024,"height":1024}},"contentLocation":{"@type":"Place","address":{"@type":"PostalAddress","addressCountry":"FRA","addressRegion":"Centre-Val de Loire","addressLocality":"Châlette-sur-Loing"}},"speakable":{"@type":"SpeakableSpecification","cssSelector":[".ac-article-main > h1",".ac-article-main > p"]},"wordCount":265},{"@context":"http://schema.org","@type":"WebSite","name":"actu.fr","alternateName":"Actu","url":"https://actu.fr","potentialAction":[{"@type":"SearchAction","target":"https://actu.fr/?s={search_term_string}","query-input":"required name=search_term_string"}]}]</script><script>var actu = window.actu || {}; actu.context = {marque: 45660, id: 450, uuid: '735d6633-d572-4c1b-a5e0-6a31acdaff70'};</script></body>
+
+</html>
+<!-- Performance optimized by Redis Object Cache. Learn more: https://wprediscache.com -->

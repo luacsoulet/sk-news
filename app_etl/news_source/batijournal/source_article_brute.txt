@@ -1,0 +1,687 @@
+<!DOCTYPE html>
+<html lang="fr-FR">
+<head>
+	<meta charset="UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<link rel="pingback" href="https://batijournal.com/xmlrpc.php" />
+
+	<script type="text/javascript">
+		document.documentElement.className = 'js';
+	</script>
+
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin /><meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v27.2 - https://yoast.com/product/yoast-seo-wordpress/ -->
+	<title>La parole à SwissKrono</title>
+	<link rel="canonical" href="https://batijournal.com/index.php/la-parole-a-swisskrono/111566/" />
+	<meta property="og:locale" content="fr_FR" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="La parole à SwissKrono" />
+	<meta property="og:description" content="L&#039;intérêt d&#039;un panneau OSB, c&#039;est de pouvoir utiliser des bois en matières premières qui ne sont pas en concurrence avec le bois d&#039;œuvre. On arrive à valoriser des bois qui vont être par exemple les cimes des arbres, des bois d&#039;éclaircis" />
+	<meta property="og:url" content="https://batijournal.com/index.php/la-parole-a-swisskrono/111566/" />
+	<meta property="og:site_name" content="Batijournal" />
+	<meta property="article:published_time" content="2025-02-27T06:57:55+00:00" />
+	<meta property="article:modified_time" content="2025-02-27T07:39:01+00:00" />
+	<meta property="og:image" content="https://batijournal.com/wp-content/uploads/2025/02/Sebastien-Marchal-Swiss-Krono.jpg" />
+	<meta property="og:image:width" content="1024" />
+	<meta property="og:image:height" content="576" />
+	<meta property="og:image:type" content="image/jpeg" />
+	<meta name="author" content="Stéphane Miget" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:creator" content="@bati_journal" />
+	<meta name="twitter:site" content="@bati_journal" />
+	<meta name="twitter:label1" content="Écrit par" />
+	<meta name="twitter:data1" content="Stéphane Miget" />
+	<meta name="twitter:label2" content="Durée de lecture estimée" />
+	<meta name="twitter:data2" content="1 minute" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Article","@id":"https://batijournal.com/index.php/la-parole-a-swisskrono/111566/#article","isPartOf":{"@id":"https://batijournal.com/index.php/la-parole-a-swisskrono/111566/"},"author":{"name":"Stéphane Miget","@id":"https://batijournal.com/#/schema/person/1dc96ec6957aa1ccb25ebe78bb19f100"},"headline":"La parole à SwissKrono","datePublished":"2025-02-27T06:57:55+00:00","dateModified":"2025-02-27T07:39:01+00:00","mainEntityOfPage":{"@id":"https://batijournal.com/index.php/la-parole-a-swisskrono/111566/"},"wordCount":161,"image":{"@id":"https://batijournal.com/index.php/la-parole-a-swisskrono/111566/#primaryimage"},"thumbnailUrl":"https://batijournal.com/wp-content/uploads/2025/02/Sebastien-Marchal-Swiss-Krono.jpg","articleSection":["Actualités","batijournal TV","Forum Bois Construction","zz_Actualités - Woodsurfer","zz_Woodsurfer"],"inLanguage":"fr-FR"},{"@type":"WebPage","@id":"https://batijournal.com/index.php/la-parole-a-swisskrono/111566/","url":"https://batijournal.com/index.php/la-parole-a-swisskrono/111566/","name":"La parole à SwissKrono","isPartOf":{"@id":"https://batijournal.com/#website"},"primaryImageOfPage":{"@id":"https://batijournal.com/index.php/la-parole-a-swisskrono/111566/#primaryimage"},"image":{"@id":"https://batijournal.com/index.php/la-parole-a-swisskrono/111566/#primaryimage"},"thumbnailUrl":"https://batijournal.com/wp-content/uploads/2025/02/Sebastien-Marchal-Swiss-Krono.jpg","datePublished":"2025-02-27T06:57:55+00:00","dateModified":"2025-02-27T07:39:01+00:00","author":{"@id":"https://batijournal.com/#/schema/person/1dc96ec6957aa1ccb25ebe78bb19f100"},"breadcrumb":{"@id":"https://batijournal.com/index.php/la-parole-a-swisskrono/111566/#breadcrumb"},"inLanguage":"fr-FR","potentialAction":[{"@type":"ReadAction","target":["https://batijournal.com/index.php/la-parole-a-swisskrono/111566/"]}]},{"@type":"ImageObject","inLanguage":"fr-FR","@id":"https://batijournal.com/index.php/la-parole-a-swisskrono/111566/#primaryimage","url":"https://batijournal.com/wp-content/uploads/2025/02/Sebastien-Marchal-Swiss-Krono.jpg","contentUrl":"https://batijournal.com/wp-content/uploads/2025/02/Sebastien-Marchal-Swiss-Krono.jpg","width":1024,"height":576},{"@type":"BreadcrumbList","@id":"https://batijournal.com/index.php/la-parole-a-swisskrono/111566/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Accueil","item":"https://batijournal.com/"},{"@type":"ListItem","position":2,"name":"batijournal TV","item":"https://batijournal.com/index.php/category/batijournal-tv/"},{"@type":"ListItem","position":3,"name":"La parole à SwissKrono"}]},{"@type":"WebSite","@id":"https://batijournal.com/#website","url":"https://batijournal.com/","name":"Batijournal","description":"L&#039;actualité du bâtiment","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://batijournal.com/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"fr-FR"},{"@type":"Person","@id":"https://batijournal.com/#/schema/person/1dc96ec6957aa1ccb25ebe78bb19f100","name":"Stéphane Miget","image":{"@type":"ImageObject","inLanguage":"fr-FR","@id":"https://secure.gravatar.com/avatar/89915563d925342126b8ef0281b93d9d7fc337043e8df017f780908eb9644451?s=96&d=mm&r=g","url":"https://secure.gravatar.com/avatar/89915563d925342126b8ef0281b93d9d7fc337043e8df017f780908eb9644451?s=96&d=mm&r=g","contentUrl":"https://secure.gravatar.com/avatar/89915563d925342126b8ef0281b93d9d7fc337043e8df017f780908eb9644451?s=96&d=mm&r=g","caption":"Stéphane Miget"},"url":"https://batijournal.com/index.php/author/stephane/"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel="alternate" type="application/rss+xml" title="Batijournal &raquo; Flux" href="https://batijournal.com/index.php/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Batijournal &raquo; Flux des commentaires" href="https://batijournal.com/index.php/comments/feed/" />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://batijournal.com/index.php/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbatijournal.com%2Findex.php%2Fla-parole-a-swisskrono%2F111566%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://batijournal.com/index.php/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbatijournal.com%2Findex.php%2Fla-parole-a-swisskrono%2F111566%2F&#038;format=xml" />
+<meta content="Divi v.4.27.5" name="generator"/><!-- batijournal.com is managing ads with Advanced Ads 2.0.17 – https://wpadvancedads.com/ --><script id="batij-ready">
+			window.advanced_ads_ready=function(e,a){a=a||"complete";var d=function(e){return"interactive"===a?"loading"!==e:"complete"===e};d(document.readyState)?e():document.addEventListener("readystatechange",(function(a){d(a.target.readyState)&&e()}),{once:"interactive"===a})},window.advanced_ads_ready_queue=window.advanced_ads_ready_queue||[];		</script>
+		
+<link rel='stylesheet' id='wp-block-library-css' href='https://batijournal.com/wp-includes/css/dist/block-library/style.min.css?ver=6.9.4' type='text/css' media='all' />
+
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}:root { --wp--style--global--content-size: 823px;--wp--style--global--wide-size: 1080px; }:where(body) { margin: 0; }.wp-site-blocks > .alignleft { float: left; margin-right: 2em; }.wp-site-blocks > .alignright { float: right; margin-left: 2em; }.wp-site-blocks > .aligncenter { justify-content: center; margin-left: auto; margin-right: auto; }:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}.is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}.is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}.is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}.is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}.is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}:root :where(.wp-element-button, .wp-block-button__link){background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;font-style: inherit;font-weight: inherit;letter-spacing: inherit;line-height: inherit;padding-top: calc(0.667em + 2px);padding-right: calc(1.333em + 2px);padding-bottom: calc(0.667em + 2px);padding-left: calc(1.333em + 2px);text-decoration: none;text-transform: inherit;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+
+<link rel='stylesheet' id='contact-form-7-css' href='https://batijournal.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.5' type='text/css' media='all' />
+<link rel='stylesheet' id='cmplz-general-css' href='https://batijournal.com/wp-content/plugins/complianz-gdpr/assets/css/cookieblocker.min.css?ver=1773824610' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-pagenavi-css' href='https://batijournal.com/wp-content/plugins/wp-pagenavi/pagenavi-css.css?ver=2.70' type='text/css' media='all' />
+<link rel='stylesheet' id='divi-style-css' href='https://batijournal.com/wp-content/themes/Divi/style-static.min.css?ver=4.27.5' type='text/css' media='all' />
+<script type="text/javascript" src="https://batijournal.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://batijournal.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript" id="advanced-ads-advanced-js-js-extra">
+/* <![CDATA[ */
+var advads_options = {"blog_id":"1","privacy":{"enabled":false,"state":"not_needed"}};
+//# sourceURL=advanced-ads-advanced-js-js-extra
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://batijournal.com/wp-content/plugins/advanced-ads/public/assets/js/advanced.min.js?ver=2.0.17" id="advanced-ads-advanced-js-js"></script>
+<script type="text/javascript" id="advanced_ads_pro/visitor_conditions-js-extra">
+/* <![CDATA[ */
+var advanced_ads_pro_visitor_conditions = {"referrer_cookie_name":"advanced_ads_pro_visitor_referrer","referrer_exdays":"365","page_impr_cookie_name":"advanced_ads_page_impressions","page_impr_exdays":"3650"};
+//# sourceURL=advanced_ads_pro%2Fvisitor_conditions-js-extra
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://batijournal.com/wp-content/plugins/advanced-ads-pro/modules/advanced-visitor-conditions/inc/conditions.min.js?ver=3.0.9" id="advanced_ads_pro/visitor_conditions-js"></script>
+<script type="text/javascript" id="utils-js-extra">
+/* <![CDATA[ */
+var userSettings = {"url":"/","uid":"0","time":"1773916095","secure":"1"};
+//# sourceURL=utils-js-extra
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://batijournal.com/wp-includes/js/utils.min.js?ver=6.9.4" id="utils-js"></script>
+<link rel="https://api.w.org/" href="https://batijournal.com/index.php/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://batijournal.com/index.php/wp-json/wp/v2/posts/111566" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://batijournal.com/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.9.4" />
+<link rel='shortlink' href='https://batijournal.com/?p=111566' />
+			<style>.cmplz-hidden {
+					display: none !important;
+				}</style><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />		<script type="text/javascript">
+			var advadsCfpQueue = [];
+			var advadsCfpAd = function( adID ) {
+				if ( 'undefined' === typeof advadsProCfp ) {
+					advadsCfpQueue.push( adID )
+				} else {
+					advadsProCfp.addElement( adID )
+				}
+			}
+		</script>
+		<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #d6d6d6; }
+</style>
+	<link rel="icon" href="https://batijournal.com/wp-content/uploads/2026/01/cropped-logo-batijournal-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://batijournal.com/wp-content/uploads/2026/01/cropped-logo-batijournal-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://batijournal.com/wp-content/uploads/2026/01/cropped-logo-batijournal-180x180.png" />
+<meta name="msapplication-TileImage" content="https://batijournal.com/wp-content/uploads/2026/01/cropped-logo-batijournal-270x270.png" />
+<style id="et-divi-customizer-global-cached-inline-styles">body,.et_pb_column_1_2 .et_quote_content blockquote cite,.et_pb_column_1_2 .et_link_content a.et_link_main_url,.et_pb_column_1_3 .et_quote_content blockquote cite,.et_pb_column_3_8 .et_quote_content blockquote cite,.et_pb_column_1_4 .et_quote_content blockquote cite,.et_pb_blog_grid .et_quote_content blockquote cite,.et_pb_column_1_3 .et_link_content a.et_link_main_url,.et_pb_column_3_8 .et_link_content a.et_link_main_url,.et_pb_column_1_4 .et_link_content a.et_link_main_url,.et_pb_blog_grid .et_link_content a.et_link_main_url,body .et_pb_bg_layout_light .et_pb_post p,body .et_pb_bg_layout_dark .et_pb_post p{font-size:14px}.et_pb_slide_content,.et_pb_best_value{font-size:15px}body{color:#383838}h1,h2,h3,h4,h5,h6{color:#383838}#et_search_icon:hover,.mobile_menu_bar:before,.mobile_menu_bar:after,.et_toggle_slide_menu:after,.et-social-icon a:hover,.et_pb_sum,.et_pb_pricing li a,.et_pb_pricing_table_button,.et_overlay:before,.entry-summary p.price ins,.et_pb_member_social_links a:hover,.et_pb_widget li a:hover,.et_pb_filterable_portfolio .et_pb_portfolio_filters li a.active,.et_pb_filterable_portfolio .et_pb_portofolio_pagination ul li a.active,.et_pb_gallery .et_pb_gallery_pagination ul li a.active,.wp-pagenavi span.current,.wp-pagenavi a:hover,.nav-single a,.tagged_as a,.posted_in a{color:#db0404}.et_pb_contact_submit,.et_password_protected_form .et_submit_button,.et_pb_bg_layout_light .et_pb_newsletter_button,.comment-reply-link,.form-submit .et_pb_button,.et_pb_bg_layout_light .et_pb_promo_button,.et_pb_bg_layout_light .et_pb_more_button,.et_pb_contact p input[type="checkbox"]:checked+label i:before,.et_pb_bg_layout_light.et_pb_module.et_pb_button{color:#db0404}.footer-widget h4{color:#db0404}.et-search-form,.nav li ul,.et_mobile_menu,.footer-widget li:before,.et_pb_pricing li:before,blockquote{border-color:#db0404}.et_pb_counter_amount,.et_pb_featured_table .et_pb_pricing_heading,.et_quote_content,.et_link_content,.et_audio_content,.et_pb_post_slider.et_pb_bg_layout_dark,.et_slide_in_menu_container,.et_pb_contact p input[type="radio"]:checked+label i:before{background-color:#db0404}.container,.et_pb_row,.et_pb_slider .et_pb_container,.et_pb_fullwidth_section .et_pb_title_container,.et_pb_fullwidth_section .et_pb_title_featured_container,.et_pb_fullwidth_header:not(.et_pb_fullscreen) .et_pb_fullwidth_header_container{max-width:1218px}.et_boxed_layout #page-container,.et_boxed_layout.et_non_fixed_nav.et_transparent_nav #page-container #top-header,.et_boxed_layout.et_non_fixed_nav.et_transparent_nav #page-container #main-header,.et_fixed_nav.et_boxed_layout #page-container #top-header,.et_fixed_nav.et_boxed_layout #page-container #main-header,.et_boxed_layout #page-container .container,.et_boxed_layout #page-container .et_pb_row{max-width:1378px}a{color:#636363}#main-header,#main-header .nav li ul,.et-search-form,#main-header .et_mobile_menu{background-color:#e8e8e8}.et_secondary_nav_enabled #page-container #top-header{background-color:#db0404!important}#et-secondary-nav li ul{background-color:#db0404}.et_header_style_centered .mobile_nav .select_page,.et_header_style_split .mobile_nav .select_page,.et_nav_text_color_light #top-menu>li>a,.et_nav_text_color_dark #top-menu>li>a,#top-menu a,.et_mobile_menu li a,.et_nav_text_color_light .et_mobile_menu li a,.et_nav_text_color_dark .et_mobile_menu li a,#et_search_icon:before,.et_search_form_container input,span.et_close_search_field:after,#et-top-navigation .et-cart-info{color:#020202}.et_search_form_container input::-moz-placeholder{color:#020202}.et_search_form_container input::-webkit-input-placeholder{color:#020202}.et_search_form_container input:-ms-input-placeholder{color:#020202}#top-menu li a{font-size:15px}body.et_vertical_nav .container.et_search_form_container .et-search-form input{font-size:15px!important}.et_color_scheme_red #top-menu li.current-menu-ancestor>a,.et_color_scheme_red #top-menu li.current-menu-item>a,.et_color_scheme_red #top-menu li.current_page_item>a,.et_color_scheme_pink #top-menu li.current-menu-ancestor>a,.et_color_scheme_pink #top-menu li.current-menu-item>a,.et_color_scheme_pink #top-menu li.current_page_item>a,.et_color_scheme_orange #top-menu li.current-menu-ancestor>a,.et_color_scheme_orange #top-menu li.current-menu-item>a,.et_color_scheme_orange #top-menu li.current_page_item>a,.et_color_scheme_green #top-menu li.current-menu-ancestor>a,.et_color_scheme_green #top-menu li.current-menu-item>a,.et_color_scheme_green #top-menu li.current_page_item>a,#top-menu li.current-menu-ancestor>a,#top-menu li.current-menu-item>a,#top-menu li.current_page_item>a{color:#db0404}#main-footer{background-color:#d6d6d6}#footer-widgets .footer-widget a,#footer-widgets .footer-widget li a,#footer-widgets .footer-widget li a:hover{color:#020202}.footer-widget{color:#020202}#main-footer .footer-widget h4,#main-footer .widget_block h1,#main-footer .widget_block h2,#main-footer .widget_block h3,#main-footer .widget_block h4,#main-footer .widget_block h5,#main-footer .widget_block h6{color:#e02b20}.footer-widget li:before{border-color:#e02b20}.bottom-nav,.bottom-nav a,.bottom-nav li.current-menu-item a{color:#020202}#et-footer-nav .bottom-nav li.current-menu-item a{color:#020202}#footer-info,#footer-info a{color:#ffffff}#footer-bottom .et-social-icon a{color:#ffffff}body .et_pb_bg_layout_light.et_pb_button:hover,body .et_pb_bg_layout_light .et_pb_button:hover,body .et_pb_button:hover{border-radius:25px;letter-spacing:4px}h1,h2,h3,h4,h5,h6,.et_quote_content blockquote p,.et_pb_slide_description .et_pb_slide_title{font-weight:bold;font-style:normal;text-transform:none;text-decoration:none}@media only screen and (min-width:981px){.et_pb_section{padding:0% 0}.et_pb_fullwidth_section{padding:0}.et_pb_row{padding:0% 0}.et_header_style_left #et-top-navigation,.et_header_style_split #et-top-navigation{padding:60px 0 0 0}.et_header_style_left #et-top-navigation nav>ul>li>a,.et_header_style_split #et-top-navigation nav>ul>li>a{padding-bottom:60px}.et_header_style_split .centered-inline-logo-wrap{width:120px;margin:-120px 0}.et_header_style_split .centered-inline-logo-wrap #logo{max-height:120px}.et_pb_svg_logo.et_header_style_split .centered-inline-logo-wrap #logo{height:120px}.et_header_style_centered #top-menu>li>a{padding-bottom:22px}.et_header_style_slide #et-top-navigation,.et_header_style_fullscreen #et-top-navigation{padding:51px 0 51px 0!important}.et_header_style_centered #main-header .logo_container{height:120px}.et_header_style_centered #logo{max-height:100%}.et_pb_svg_logo.et_header_style_centered #logo{height:100%}.et_header_style_left .et-fixed-header #et-top-navigation,.et_header_style_split .et-fixed-header #et-top-navigation{padding:38px 0 0 0}.et_header_style_left .et-fixed-header #et-top-navigation nav>ul>li>a,.et_header_style_split .et-fixed-header #et-top-navigation nav>ul>li>a{padding-bottom:38px}.et_header_style_centered header#main-header.et-fixed-header .logo_container{height:75px}.et_header_style_split #main-header.et-fixed-header .centered-inline-logo-wrap{width:75px;margin:-75px 0}.et_header_style_split .et-fixed-header .centered-inline-logo-wrap #logo{max-height:75px}.et_pb_svg_logo.et_header_style_split .et-fixed-header .centered-inline-logo-wrap #logo{height:75px}.et_header_style_slide .et-fixed-header #et-top-navigation,.et_header_style_fullscreen .et-fixed-header #et-top-navigation{padding:29px 0 29px 0!important}.et_fixed_nav #page-container .et-fixed-header#top-header{background-color:#db0404!important}.et_fixed_nav #page-container .et-fixed-header#top-header #et-secondary-nav li ul{background-color:#db0404}.et-fixed-header #top-menu a,.et-fixed-header #et_search_icon:before,.et-fixed-header #et_top_search .et-search-form input,.et-fixed-header .et_search_form_container input,.et-fixed-header .et_close_search_field:after,.et-fixed-header #et-top-navigation .et-cart-info{color:#020202!important}.et-fixed-header .et_search_form_container input::-moz-placeholder{color:#020202!important}.et-fixed-header .et_search_form_container input::-webkit-input-placeholder{color:#020202!important}.et-fixed-header .et_search_form_container input:-ms-input-placeholder{color:#020202!important}.et-fixed-header #top-menu li.current-menu-ancestor>a,.et-fixed-header #top-menu li.current-menu-item>a,.et-fixed-header #top-menu li.current_page_item>a{color:#db0404!important}}@media only screen and (min-width:1522px){.et_pb_row{padding:0px 0}.et_pb_section{padding:0px 0}.single.et_pb_pagebuilder_layout.et_full_width_page .et_post_meta_wrapper{padding-top:0px}.et_pb_fullwidth_section{padding:0}}h1,h1.et_pb_contact_main_title,.et_pb_title_container h1{font-weight:600}h2,.product .related h2,.et_pb_column_1_2 .et_quote_content blockquote p{font-weight:600}h3{font-weight:600}h4,.et_pb_circle_counter h3,.et_pb_number_counter h3,.et_pb_column_1_3 .et_pb_post h2,.et_pb_column_1_4 .et_pb_post h2,.et_pb_blog_grid h2,.et_pb_column_1_3 .et_quote_content blockquote p,.et_pb_column_3_8 .et_quote_content blockquote p,.et_pb_column_1_4 .et_quote_content blockquote p,.et_pb_blog_grid .et_quote_content blockquote p,.et_pb_column_1_3 .et_link_content h2,.et_pb_column_3_8 .et_link_content h2,.et_pb_column_1_4 .et_link_content h2,.et_pb_blog_grid .et_link_content h2,.et_pb_column_1_3 .et_audio_content h2,.et_pb_column_3_8 .et_audio_content h2,.et_pb_column_1_4 .et_audio_content h2,.et_pb_blog_grid .et_audio_content h2,.et_pb_column_3_8 .et_pb_audio_module_content h2,.et_pb_column_1_3 .et_pb_audio_module_content h2,.et_pb_gallery_grid .et_pb_gallery_item h3,.et_pb_portfolio_grid .et_pb_portfolio_item h2,.et_pb_filterable_portfolio_grid .et_pb_portfolio_item h2{font-weight:600}h5{font-weight:600}h6{font-weight:600}.et_pb_slide_description .et_pb_slide_title{font-weight:600}.et_pb_gallery_grid .et_pb_gallery_item h3,.et_pb_portfolio_grid .et_pb_portfolio_item h2,.et_pb_filterable_portfolio_grid .et_pb_portfolio_item h2,.et_pb_column_1_4 .et_pb_audio_module_content h2{font-weight:600}	h1,h2,h3,h4,h5,h6{font-family:'Arial',Helvetica,Arial,Lucida,sans-serif}body,input,textarea,select{font-family:'Arial',Helvetica,Arial,Lucida,sans-serif}#main-header,#et-top-navigation{font-family:'Arial',Helvetica,Arial,Lucida,sans-serif}#top-header .container{font-family:'Arial',Helvetica,Arial,Lucida,sans-serif}body #page-container #sidebar{width:33%}body #page-container #left-area{width:67%}.et_right_sidebar #main-content .container:before{right:33%!important}.et_left_sidebar #main-content .container:before{left:33%!important}#mailpoet_form-2 label{display:block;padding-left:2em;text-indent:-2em}footer .footer-widget .textwidget{padding-top:1rem}h4.widgettitle{color:#e02b20}.rs-logo{display:grid;grid-gap:1rem;grid-template-columns:repeat(2,1fr)}.rs-logo>a{display:inline-grid;justify-content:center}.rs-logo>a>img{display:block;height:50px}*,p,h1,h2,h3,h4,h5,h6,a,.et_pb_blog_7 .et_pb_post .entry-title a,.et_pb_blog_7 .not-found-title,.et_pb_blog_6 .et_pb_post .entry-title a,.et_pb_blog_6 .not-found-title,.et_pb_blog_9 .et_pb_post .entry-title a,.et_pb_blog_9 .not-found-title,.et_pb_blog_10 .et_pb_post .entry-title a,.et_pb_blog_10 .not-found-title,.et_pb_blog_11 .et_pb_post .entry-title a,.et_pb_blog_11 .not-found-title,.et_pb_blog_12 .et_pb_post .entry-title a,.et_pb_blog_12 .not-found-title,.et_pb_blog_13 .et_pb_post .entry-title a,.et_pb_blog_13 .not-found-title,.et_pb_blog_14 .et_pb_post .entry-title a,.et_pb_blog_14 .not-found-title,.et_pb_blog_15 .et_pb_post .entry-title a,.et_pb_blog_15 .not-found-title,.et_pb_blog_16 .et_pb_post .entry-title a,.et_pb_blog_16 .not-found-title,.et_pb_blog_17 .et_pb_post .entry-title a,.et_pb_blog_17 .not-found-title,.et_pb_blog_18 .et_pb_post .entry-title a,.et_pb_blog_18 .not-found-title,.et_pb_blog_19 .et_pb_post .entry-title a,.et_pb_blog_19 .not-found-title,.et_pb_blog_20 .et_pb_post .entry-title a,.et_pb_blog_20 .not-found-title,.et_pb_blog_21 .et_pb_post .entry-title a,.et_pb_blog_21 .not-found-title,.et_pb_blog_22 .et_pb_post .entry-title a,.et_pb_blog_22 .not-found-title,.et_pb_blog_23 .et_pb_post .entry-title a,.et_pb_blog_23 .not-found-title,.et_pb_blog_24 .et_pb_post .entry-title a,.et_pb_blog_24 .not-found-title,.et_pb_blog_25 .et_pb_post .entry-title a,.et_pb_blog_25 .not-found-title,.et_pb_blog_26 .et_pb_post .entry-title a,.et_pb_blog_26 .not-found-title,.et_pb_blog_27 .et_pb_post .entry-title a,.et_pb_blog_27 .not-found-title,.et_pb_blog_28 .et_pb_post .entry-title a,.et_pb_blog_28 .not-found-title,.et_pb_blog_29 .et_pb_post .entry-title a,.et_pb_blog_29 .not-found-title,.et_pb_blog_30 .et_pb_post .entry-title a,.et_pb_blog_30 .not-found-title,.et_pb_blog_31 .et_pb_post .entry-title a,.et_pb_blog_31 .not-found-title,.et_pb_blog_32 .et_pb_post .entry-title a,.et_pb_blog_32 .not-found-title,.et_pb_blog_33 .et_pb_post .entry-title a,.et_pb_blog_33 .not-found-title{font-family:'Arial',Helvetica,Arial,Lucida,sans-serif!important}</style><link data-service="google-fonts" data-category="marketing" rel='stylesheet' id='mailpoet_custom_fonts_0-css' data-href='https://fonts.googleapis.com/css?family=Abril+FatFace%3A400%2C400i%2C700%2C700i%7CAlegreya%3A400%2C400i%2C700%2C700i%7CAlegreya+Sans%3A400%2C400i%2C700%2C700i%7CAmatic+SC%3A400%2C400i%2C700%2C700i%7CAnonymous+Pro%3A400%2C400i%2C700%2C700i%7CArchitects+Daughter%3A400%2C400i%2C700%2C700i%7CArchivo%3A400%2C400i%2C700%2C700i%7CArchivo+Narrow%3A400%2C400i%2C700%2C700i%7CAsap%3A400%2C400i%2C700%2C700i%7CBarlow%3A400%2C400i%2C700%2C700i%7CBioRhyme%3A400%2C400i%2C700%2C700i%7CBonbon%3A400%2C400i%2C700%2C700i%7CCabin%3A400%2C400i%2C700%2C700i%7CCairo%3A400%2C400i%2C700%2C700i%7CCardo%3A400%2C400i%2C700%2C700i%7CChivo%3A400%2C400i%2C700%2C700i%7CConcert+One%3A400%2C400i%2C700%2C700i%7CCormorant%3A400%2C400i%2C700%2C700i%7CCrimson+Text%3A400%2C400i%2C700%2C700i%7CEczar%3A400%2C400i%2C700%2C700i%7CExo+2%3A400%2C400i%2C700%2C700i%7CFira+Sans%3A400%2C400i%2C700%2C700i%7CFjalla+One%3A400%2C400i%2C700%2C700i%7CFrank+Ruhl+Libre%3A400%2C400i%2C700%2C700i%7CGreat+Vibes%3A400%2C400i%2C700%2C700i&#038;ver=6.9.4' type='text/css' media='all' />
+<link data-service="google-fonts" data-category="marketing" rel='stylesheet' id='mailpoet_custom_fonts_1-css' data-href='https://fonts.googleapis.com/css?family=Heebo%3A400%2C400i%2C700%2C700i%7CIBM+Plex%3A400%2C400i%2C700%2C700i%7CInconsolata%3A400%2C400i%2C700%2C700i%7CIndie+Flower%3A400%2C400i%2C700%2C700i%7CInknut+Antiqua%3A400%2C400i%2C700%2C700i%7CInter%3A400%2C400i%2C700%2C700i%7CKarla%3A400%2C400i%2C700%2C700i%7CLibre+Baskerville%3A400%2C400i%2C700%2C700i%7CLibre+Franklin%3A400%2C400i%2C700%2C700i%7CMontserrat%3A400%2C400i%2C700%2C700i%7CNeuton%3A400%2C400i%2C700%2C700i%7CNotable%3A400%2C400i%2C700%2C700i%7CNothing+You+Could+Do%3A400%2C400i%2C700%2C700i%7CNoto+Sans%3A400%2C400i%2C700%2C700i%7CNunito%3A400%2C400i%2C700%2C700i%7COld+Standard+TT%3A400%2C400i%2C700%2C700i%7COxygen%3A400%2C400i%2C700%2C700i%7CPacifico%3A400%2C400i%2C700%2C700i%7CPoppins%3A400%2C400i%2C700%2C700i%7CProza+Libre%3A400%2C400i%2C700%2C700i%7CPT+Sans%3A400%2C400i%2C700%2C700i%7CPT+Serif%3A400%2C400i%2C700%2C700i%7CRakkas%3A400%2C400i%2C700%2C700i%7CReenie+Beanie%3A400%2C400i%2C700%2C700i%7CRoboto+Slab%3A400%2C400i%2C700%2C700i&#038;ver=6.9.4' type='text/css' media='all' />
+<link data-service="google-fonts" data-category="marketing" rel='stylesheet' id='mailpoet_custom_fonts_2-css' data-href='https://fonts.googleapis.com/css?family=Ropa+Sans%3A400%2C400i%2C700%2C700i%7CRubik%3A400%2C400i%2C700%2C700i%7CShadows+Into+Light%3A400%2C400i%2C700%2C700i%7CSpace+Mono%3A400%2C400i%2C700%2C700i%7CSpectral%3A400%2C400i%2C700%2C700i%7CSue+Ellen+Francisco%3A400%2C400i%2C700%2C700i%7CTitillium+Web%3A400%2C400i%2C700%2C700i%7CUbuntu%3A400%2C400i%2C700%2C700i%7CVarela%3A400%2C400i%2C700%2C700i%7CVollkorn%3A400%2C400i%2C700%2C700i%7CWork+Sans%3A400%2C400i%2C700%2C700i%7CYatra+One%3A400%2C400i%2C700%2C700i&#038;ver=6.9.4' type='text/css' media='all' />
+<link rel='stylesheet' id='mailpoet_public-css' href='https://batijournal.com/wp-content/plugins/mailpoet/assets/dist/css/mailpoet-public.eb66e3ab.css?ver=6.9.4' type='text/css' media='all' />
+
+</head>
+<body data-cmplz=1 class="wp-singular post-template-default single single-post postid-111566 single-format-standard custom-background wp-theme-Divi et_color_scheme_red et_pb_button_helper_class et_fixed_nav et_show_nav et_pb_show_title et_primary_nav_dropdown_animation_fade et_secondary_nav_dropdown_animation_fade et_header_style_centered et_pb_footer_columns4 et_boxed_layout et_cover_background windows et_pb_gutters1 et_smooth_scroll et_right_sidebar et_divi_theme et-db aa-prefix-batij-">
+	<div id="page-container">
+
+	
+	
+			<header id="main-header" data-height-onload="120">
+			<div class="container clearfix et_menu_container">
+							<div class="logo_container">
+					<span class="logo_helper"></span>
+					<a href="https://batijournal.com/">
+						<img src="https://batijournal.com/wp-content/uploads/2026/01/logo-batijournal.png" width="512" height="512" alt="Batijournal" id="logo" data-height-percentage="100" />
+					</a>
+				</div>
+							<div id="et-top-navigation" data-height="120" data-fixed-height="75">
+											<nav id="top-menu-nav">
+						<ul id="top-menu" class="nav"><li id="menu-item-100625" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-100625"><a href="https://batijournal.com/index.php/actualites/">Toutes les actualités</a></li>
+<li id="menu-item-109524" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-109524"><a href="https://batijournal.com/index.php/energie-environnement/">Transition énergétique</a></li>
+<li id="menu-item-109530" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-109530"><a href="https://batijournal.com/index.php/atrium-patrimoine-restauration/">Patrimoine</a></li>
+<li id="menu-item-109528" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-109528"><a href="https://batijournal.com/index.php/5facades-facades-couverture/">Façades</a></li>
+<li id="menu-item-109527" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-109527"><a href="https://batijournal.com/index.php/bois-et-construction/">Construction bois</a></li>
+<li id="menu-item-109529" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-109529"><a href="https://batijournal.com/index.php/produits-solutions-tech/">Produits</a></li>
+<li id="menu-item-106566" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-106566"><a href="https://batijournal.com/index.php/category/batijournal-tv/">batijournal TV</a></li>
+</ul>						</nav>
+					
+					
+					
+											<div id="et_top_search">
+							<span id="et_search_icon"></span>
+						</div>
+					
+					<div id="et_mobile_nav_menu">
+				<div class="mobile_nav closed">
+					<span class="select_page">Sélectionner une page</span>
+					<span class="mobile_menu_bar mobile_menu_bar_toggle"></span>
+				</div>
+			</div>				</div> <!-- #et-top-navigation -->
+			</div> <!-- .container -->
+						<div class="et_search_outer">
+				<div class="container et_search_form_container">
+					<form role="search" method="get" class="et-search-form" action="https://batijournal.com/">
+					<input type="search" class="et-search-field" placeholder="Rechercher &hellip;" value="" name="s" title="Rechercher:" />					</form>
+					<span class="et_close_search_field"></span>
+				</div>
+			</div>
+					</header> <!-- #main-header -->
+			<div id="et-main-area">
+	
+<div id="main-content">
+		<div class="container">
+		<div id="content-area" class="clearfix">
+			<div id="left-area">
+											<article id="post-111566" class="et_pb_post post-111566 post type-post status-publish format-standard has-post-thumbnail hentry category-actualites category-batijournal-tv category-forum-bois-construction category-publications category-woodsurfer">
+											<div class="et_post_meta_wrapper">
+							<h1 class="entry-title">La parole à SwissKrono</h1>
+
+						<p class="post-meta"> par <span class="author vcard"><a href="https://batijournal.com/index.php/author/stephane/" title="Articles de Stéphane Miget" rel="author">Stéphane Miget</a></span> | <span class="published">27 Fév 2025</span></p><img src="https://batijournal.com/wp-content/uploads/2025/02/Sebastien-Marchal-Swiss-Krono.jpg" alt="" class="" width="1080" height="675" srcset="https://batijournal.com/wp-content/uploads/2025/02/Sebastien-Marchal-Swiss-Krono.jpg 1080w, https://batijournal.com/wp-content/uploads/2025/02/Sebastien-Marchal-Swiss-Krono-980x551.jpg 980w, https://batijournal.com/wp-content/uploads/2025/02/Sebastien-Marchal-Swiss-Krono-480x270.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) 1080px, 100vw" />
+												</div>
+				
+					<div class="entry-content">
+					<div class='et_post_video'><iframe data-placeholder-image="https://batijournal.com/wp-content/uploads/complianz/placeholders/youtuberei6G_9WstM-maxresdefault.webp" data-category="marketing" data-service="youtube" class="cmplz-placeholder-element cmplz-iframe cmplz-iframe-styles cmplz-video " data-cmplz-target="src" data-src-cmplz="https://www.youtube.com/embed/rei6G_9WstM?feature=oembed" title="La parole à SwissKrono" width="1080" height="608"  src="about:blank"   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+<p>Sébastien Marchal, responsable Vente et Industrie SwissKrono</p>
+<p>« L&rsquo;intérêt d&rsquo;un panneau OSB, c&rsquo;est de pouvoir utiliser des bois en matières premières qui ne sont pas en concurrence avec le bois d&rsquo;œuvre. On arrive à valoriser des bois qui vont être par exemple les cimes des arbres, des bois d&rsquo;éclaircis : des bois de petites sections qui ne sont pas utilisable en contreplaqué par exemple. »</p>
+<p>À l’occasion du <a href="https://www.forum-boisconstruction.com/" target="_blank" rel="noopener">Forum Bois Construction</a> qui se tient au Grand Palais de Paris du 26 au 28 février 2025, les équipes de <a href="https://batijournal.com/" target="_blank" rel="noopener">Bati-Journal </a>sont présentes avec une nouvelle édition du plateau TV. Cette animation est organisée par <a href="https://www.woodsurfer.com/" target="_blank" rel="noopener">Wood Surfer</a> et le <a href="https://www.forum-boisconstruction.com/" target="_blank" rel="noopener">Forum Bois Construction</a>, avec le soutien du <a href="https://www.codifab.fr" target="_blank" rel="noopener">CODIFAB</a> (Comité Professionnel de Développement des Industries Françaises de l’Ameublement et du Bois), et animée par Stéphane Miget, journaliste spécialiste bâtiment construction.</p>
+  
+  
+  <div class="
+    mailpoet_form_popup_overlay
+      "></div>
+  <div
+    id="mp_form_below_posts7"
+    class="
+      mailpoet_form
+      mailpoet_form_below_posts
+      mailpoet_form_position_
+      mailpoet_form_animation_
+    "
+      >
+
+    <style type="text/css">
+     #mp_form_below_posts7 .mailpoet_form {  }
+#mp_form_below_posts7 form { margin-bottom: 0; }
+#mp_form_below_posts7 p.mailpoet_form_paragraph { margin-bottom: 10px; }
+#mp_form_below_posts7 .mailpoet_column_with_background { padding: 10px; }
+#mp_form_below_posts7 .mailpoet_form_column:not(:first-child) { margin-left: 20px; }
+#mp_form_below_posts7 .mailpoet_paragraph { line-height: 20px; margin-bottom: 20px; }
+#mp_form_below_posts7 .mailpoet_segment_label, #mp_form_below_posts7 .mailpoet_text_label, #mp_form_below_posts7 .mailpoet_textarea_label, #mp_form_below_posts7 .mailpoet_select_label, #mp_form_below_posts7 .mailpoet_radio_label, #mp_form_below_posts7 .mailpoet_checkbox_label, #mp_form_below_posts7 .mailpoet_list_label, #mp_form_below_posts7 .mailpoet_date_label { display: block; font-weight: normal; }
+#mp_form_below_posts7 .mailpoet_text, #mp_form_below_posts7 .mailpoet_textarea, #mp_form_below_posts7 .mailpoet_select, #mp_form_below_posts7 .mailpoet_date_month, #mp_form_below_posts7 .mailpoet_date_day, #mp_form_below_posts7 .mailpoet_date_year, #mp_form_below_posts7 .mailpoet_date { display: block; }
+#mp_form_below_posts7 .mailpoet_text, #mp_form_below_posts7 .mailpoet_textarea { width: 200px; }
+#mp_form_below_posts7 .mailpoet_checkbox {  }
+#mp_form_below_posts7 .mailpoet_submit {  }
+#mp_form_below_posts7 .mailpoet_divider {  }
+#mp_form_below_posts7 .mailpoet_message {  }
+#mp_form_below_posts7 .mailpoet_form_loading { width: 30px; text-align: center; line-height: normal; }
+#mp_form_below_posts7 .mailpoet_form_loading > span { width: 5px; height: 5px; background-color: #5b5b5b; }
+#mp_form_below_posts7 h2.mailpoet-heading { margin: 0 0 20px 0; }
+#mp_form_below_posts7 h1.mailpoet-heading { margin: 0 0 10px; }#mp_form_below_posts7{border-radius: 0px;text-align: left;}#mp_form_below_posts7 form.mailpoet_form {padding: 16px;}#mp_form_below_posts7{width: 100%;}#mp_form_below_posts7 .mailpoet_message {margin: 0; padding: 0 20px;}
+        #mp_form_below_posts7 .mailpoet_validate_success {color: #00d084}
+        #mp_form_below_posts7 input.parsley-success {color: #00d084}
+        #mp_form_below_posts7 select.parsley-success {color: #00d084}
+        #mp_form_below_posts7 textarea.parsley-success {color: #00d084}
+      
+        #mp_form_below_posts7 .mailpoet_validate_error {color: #cf2e2e}
+        #mp_form_below_posts7 input.parsley-error {color: #cf2e2e}
+        #mp_form_below_posts7 select.parsley-error {color: #cf2e2e}
+        #mp_form_below_posts7 textarea.textarea.parsley-error {color: #cf2e2e}
+        #mp_form_below_posts7 .parsley-errors-list {color: #cf2e2e}
+        #mp_form_below_posts7 .parsley-required {color: #cf2e2e}
+        #mp_form_below_posts7 .parsley-custom-error-message {color: #cf2e2e}
+      #mp_form_below_posts7 .mailpoet_paragraph.last {margin-bottom: 0} @media (max-width: 500px) {#mp_form_below_posts7 {background-image: none;}} @media (min-width: 500px) {#mp_form_below_posts7 .last .mailpoet_paragraph:last-child {margin-bottom: 0}}  @media (max-width: 500px) {#mp_form_below_posts7 .mailpoet_form_column:last-child .mailpoet_paragraph:last-child {margin-bottom: 0}} 
+    </style>
+
+    <form
+      target="_self"
+      method="post"
+      action="https://batijournal.com/wp-admin/admin-post.php?action=mailpoet_subscription_form"
+      class="mailpoet_form mailpoet_form_form mailpoet_form_below_posts"
+      novalidate
+      data-delay="0"
+      data-exit-intent-enabled=""
+      data-font-family="Montserrat"
+      data-cookie-expiration-time="7"
+    >
+      <input type="hidden" name="data[form_id]" value="7" />
+      <input type="hidden" name="token" value="1a28ecea31" />
+      <input type="hidden" name="api_version" value="v1" />
+      <input type="hidden" name="endpoint" value="subscribers" />
+      <input type="hidden" name="mailpoet_method" value="subscribe" />
+
+      <label class="mailpoet_hp_email_label" style="display: none !important;">Veuillez laisser ce champ vide<input type="email" name="data[email]"/></label><h2 class="mailpoet-heading  mailpoet-has-font-size" style="text-align: left; color: #cf2e2e; font-size: 30px"><span style="font-family: Montserrat" data-font="Montserrat" class="mailpoet-has-font"><strong>Inscrivez-vous à notre newsletter</strong></span></h2>
+<div class='mailpoet_form_columns_container'><div class="mailpoet_form_columns mailpoet_paragraph mailpoet_stack_on_mobile"><div class="mailpoet_form_column" style="flex-basis:66%;"><p class="mailpoet_form_paragraph  mailpoet-has-font-size" style="text-align: left; color: #000000; font-size: 16px; line-height: 1.7"><strong>...pour recevoir chaque semaine nos actualités.</strong></p>
+<p class="mailpoet_form_paragraph  mailpoet-has-font-size" style="text-align: left; font-size: 14px; line-height: 1.5"><em>Nous ne spammons pas ! Consultez nos <a href="https://batijournal.com/index.php/mentions-legales/" data-type="page" data-id="135">mentions légales</a> pour plus d’informations.</em></p>
+</div>
+<div class="mailpoet_form_column mailpoet_vertically_align_bottom" style="flex-basis:40%;"><div class="mailpoet_paragraph "><input type="email" autocomplete="email" class="mailpoet_text" id="form_email_7" name="data[form_field_NWNiZmEwZTljMTYzX2VtYWls]" title="Adresse e-mail" value="" style="width:100%;box-sizing:border-box;background-color:#f1f1f1;border-style:solid;border-radius:40px !important;border-width:0px;border-color:#313131;padding:15px;margin: 0 auto 0 0;font-family:&#039;Montserrat&#039;;font-size:16px;line-height:1.5;height:auto;" data-automation-id="form_email"  placeholder="Adresse e-mail *" aria-label="Adresse e-mail *" data-parsley-errors-container=".mailpoet_error_183m4" data-parsley-required="true" required aria-required="true" data-parsley-minlength="6" data-parsley-maxlength="150" data-parsley-type-message="Cette valeur doit être un e-mail valide." data-parsley-required-message="Ce champ est nécessaire."/><span class="mailpoet_error_183m4"></span></div>
+<div class="mailpoet_paragraph "><input type="submit" class="mailpoet_submit" value="Je m&#039;inscris à la newsletter" data-automation-id="subscribe-submit-button" data-font-family='Montserrat' style="width:100%;box-sizing:border-box;background-color:#cf2e2e;border-style:solid;border-radius:40px !important;border-width:0px;border-color:#313131;padding:15px;margin: 0 auto 0 0;font-family:&#039;Montserrat&#039;;font-size:16px;line-height:1.5;height:auto;color:#ffffff;font-weight:bold;" /><span class="mailpoet_form_loading"><span class="mailpoet_bounce1"></span><span class="mailpoet_bounce2"></span><span class="mailpoet_bounce3"></span></span></div>
+</div>
+</div></div>
+
+      <div class="mailpoet_message">
+        <p class="mailpoet_validate_success"
+                style="display:none;"
+                >Vérifiez votre boite de réception ou votre répertoire d’indésirables pour confirmer votre abonnement.
+        </p>
+        <p class="mailpoet_validate_error"
+                style="display:none;"
+                >        </p>
+      </div>
+    </form>
+
+      </div>
+
+  					</div>
+					<div class="et_post_meta_wrapper">
+										</div>
+				</article>
+
+						</div>
+
+				<div id="sidebar">
+		      <div id="mailpoet_form-2" class="et_pb_widget widget_mailpoet_form">
+  
+      <h4 class="widgettitle">Abonnez-vous à nos newsletters</h4>
+  
+  <div class="
+    mailpoet_form_popup_overlay
+      "></div>
+  <div
+    id="mailpoet_form_1"
+    class="
+      mailpoet_form
+      mailpoet_form_widget
+      mailpoet_form_position_
+      mailpoet_form_animation_
+    "
+      >
+
+    <style type="text/css">
+     #mailpoet_form_1 .mailpoet_form {  }
+#mailpoet_form_1 .mailpoet_paragraph { line-height: 20px; }
+#mailpoet_form_1 .mailpoet_segment_label, #mailpoet_form_1 .mailpoet_text_label, #mailpoet_form_1 .mailpoet_textarea_label, #mailpoet_form_1 .mailpoet_select_label, #mailpoet_form_1 .mailpoet_radio_label, #mailpoet_form_1 .mailpoet_checkbox_label, #mailpoet_form_1 .mailpoet_list_label, #mailpoet_form_1 .mailpoet_date_label { display: block; font-weight: bold; }
+#mailpoet_form_1 .mailpoet_text, #mailpoet_form_1 .mailpoet_textarea, #mailpoet_form_1 .mailpoet_select, #mailpoet_form_1 .mailpoet_date_month, #mailpoet_form_1 .mailpoet_date_day, #mailpoet_form_1 .mailpoet_date_year, #mailpoet_form_1 .mailpoet_date { display: block; }
+#mailpoet_form_1 .mailpoet_text, #mailpoet_form_1 .mailpoet_textarea { width: 200px; }
+#mailpoet_form_1 .mailpoet_checkbox {  }
+#mailpoet_form_1 .mailpoet_submit input {  }
+#mailpoet_form_1 .mailpoet_divider {  }
+#mailpoet_form_1 .mailpoet_message {  }
+#mailpoet_form_1 .mailpoet_validate_success { font-weight: 600; color: #468847; }
+#mailpoet_form_1 .mailpoet_validate_error { color: #b94a48; }
+#mailpoet_form_1 .mailpoet_form_loading { width: 30px; text-align: center; line-height: normal; }
+#mailpoet_form_1 .mailpoet_form_loading > span { width: 5px; height: 5px; background-color: #9b1715; }#mailpoet_form_1{border-radius: 0px;text-align: left;}#mailpoet_form_1 form.mailpoet_form {padding: 20px;}#mailpoet_form_1{width: 100%;}#mailpoet_form_1 .mailpoet_message {margin: 0; padding: 0 20px;}#mailpoet_form_1 .mailpoet_paragraph.last {margin-bottom: 0} @media (max-width: 500px) {#mailpoet_form_1 {background-image: none;}} @media (min-width: 500px) {#mailpoet_form_1 .last .mailpoet_paragraph:last-child {margin-bottom: 0}}  @media (max-width: 500px) {#mailpoet_form_1 .mailpoet_form_column:last-child .mailpoet_paragraph:last-child {margin-bottom: 0}} 
+    </style>
+
+    <form
+      target="_self"
+      method="post"
+      action="https://batijournal.com/wp-admin/admin-post.php?action=mailpoet_subscription_form"
+      class="mailpoet_form mailpoet_form_form mailpoet_form_widget"
+      novalidate
+      data-delay=""
+      data-exit-intent-enabled=""
+      data-font-family=""
+      data-cookie-expiration-time=""
+    >
+      <input type="hidden" name="data[form_id]" value="1" />
+      <input type="hidden" name="token" value="1a28ecea31" />
+      <input type="hidden" name="api_version" value="v1" />
+      <input type="hidden" name="endpoint" value="subscribers" />
+      <input type="hidden" name="mailpoet_method" value="subscribe" />
+
+      <label class="mailpoet_hp_email_label" style="display: none !important;">Veuillez laisser ce champ vide<input type="email" name="data[email]"/></label><div class="mailpoet_paragraph "><label for="form_email_1" class="mailpoet_text_label"  data-automation-id="form_email_label" >E-mail <span class="mailpoet_required" aria-hidden="true">*</span></label><input type="email" autocomplete="email" class="mailpoet_text" id="form_email_1" name="data[form_field_NWNiZmEwZTljMTYzX2VtYWls]" title="E-mail" value="" style="padding:5px;margin: 0 auto 0 0;" data-automation-id="form_email" data-parsley-errors-container=".mailpoet_error_dc2cx" data-parsley-required="true" required aria-required="true" data-parsley-minlength="6" data-parsley-maxlength="150" data-parsley-type-message="Cette valeur doit être un e-mail valide." data-parsley-required-message="Ce champ est nécessaire."/><span class="mailpoet_error_dc2cx"></span></div>
+<div class="mailpoet_paragraph "><fieldset><label class="mailpoet_checkbox_label" for="mailpoet_segment_1" ><input type="checkbox" class="mailpoet_checkbox" id="mailpoet_segment_1" name="data[form_field_OWJlNDkzZGU2NmVjX3NlZ21lbnRz][]" value="3"  data-parsley-errors-container=".mailpoet_error_1co81" data-parsley-required="true" required aria-required="true" data-parsley-group="segments" data-parsley-required-message="Veuillez sélectionner une liste." /> Hebdomadaire avec batijournal</label><label class="mailpoet_checkbox_label" for="mailpoet_segment_2" ><input type="checkbox" class="mailpoet_checkbox" id="mailpoet_segment_2" name="data[form_field_OWJlNDkzZGU2NmVjX3NlZ21lbnRz][]" value="5"  data-parsley-errors-container=".mailpoet_error_1co81" data-parsley-required="true" required aria-required="true" data-parsley-group="segments" data-parsley-required-message="Veuillez sélectionner une liste." /> Énergie &amp; Environnement avec Planète Bâtiment</label><label class="mailpoet_checkbox_label" for="mailpoet_segment_3" ><input type="checkbox" class="mailpoet_checkbox" id="mailpoet_segment_3" name="data[form_field_OWJlNDkzZGU2NmVjX3NlZ21lbnRz][]" value="6"  data-parsley-errors-container=".mailpoet_error_1co81" data-parsley-required="true" required aria-required="true" data-parsley-group="segments" data-parsley-required-message="Veuillez sélectionner une liste." /> Patrimoine avec Atrium</label><label class="mailpoet_checkbox_label" for="mailpoet_segment_4" ><input type="checkbox" class="mailpoet_checkbox" id="mailpoet_segment_4" name="data[form_field_OWJlNDkzZGU2NmVjX3NlZ21lbnRz][]" value="7"  data-parsley-errors-container=".mailpoet_error_1co81" data-parsley-required="true" required aria-required="true" data-parsley-group="segments" data-parsley-required-message="Veuillez sélectionner une liste." /> Enveloppe avec 5Façades</label><label class="mailpoet_checkbox_label" for="mailpoet_segment_5" ><input type="checkbox" class="mailpoet_checkbox" id="mailpoet_segment_5" name="data[form_field_OWJlNDkzZGU2NmVjX3NlZ21lbnRz][]" value="4"  data-parsley-errors-container=".mailpoet_error_1co81" data-parsley-required="true" required aria-required="true" data-parsley-group="segments" data-parsley-required-message="Veuillez sélectionner une liste." /> Construction bois avec Woodsurfer</label><span class="mailpoet_error_1co81"></span></fieldset></div>
+<div class="mailpoet_paragraph "><input type="submit" class="mailpoet_submit" value="Je m&#039;abonne !" data-automation-id="subscribe-submit-button" style="padding:5px;margin: 0 auto 0 0;border-color:transparent;" /><span class="mailpoet_form_loading"><span class="mailpoet_bounce1"></span><span class="mailpoet_bounce2"></span><span class="mailpoet_bounce3"></span></span></div>
+
+      <div class="mailpoet_message">
+        <p class="mailpoet_validate_success"
+                style="display:none;"
+                >Nous vous remercions de votre abonnement à nos lettres.
+        </p>
+        <p class="mailpoet_validate_error"
+                style="display:none;"
+                >        </p>
+      </div>
+    </form>
+
+      </div>
+
+      </div>
+  <div class="et_pb_widget batij-widget"><h4 class="widgettitle">Publicité</h4><div id="batij-285082208" data-batij-trackid="113177" data-batij-trackbid="1" class="batij-target batij-target"><a data-no-instant="1" href="https://youtu.be/z93zXCJ9CVc" rel="noopener sponsored" class="a2t-link" target="_blank" aria-label="FFTB_RETOUR"><img src="https://batijournal.com/wp-content/uploads/2026/03/FFTB_RETOUR-1.png" alt=""  class="no-lazyload" width="250" height="250"   /></a></div></div><div id="wpes_search_widget-2" class="et_pb_widget wp_es_search_form_widget"><h4 class="widgettitle">Rechercher</h4><form  role="search" method="get" class="search-form " action="https://batijournal.com/">
+		<label>
+		    <span class="screen-reader-text">Rechercher :</span>
+		    <input type="search" class="search-field " placeholder="" value="" name="s" />
+		</label>
+		<input type="submit" class="search-submit " value="Chercher" /></form></div><div id="block-3" class="et_pb_widget widget_block"><br>
+<h4 class="widgettitle">Nos réseaux sociaux</h4>
+<div class="rs-logo">
+<a href="https://www.facebook.com/batijournal/"  target="_blank" title="flux RSS"><img decoding="async" src="/wp-content/uploads/2017/05/picto_facebook.png" alt="facebook"></a>
+<a href="http://www.twitter.com/bati_journal" target="_blank" title="X (twitter)" alt="X (twitter)"><img decoding="async" src="/wp-content/uploads/2025/11/logo-X.png"></a>
+<a href="https://www.linkedin.com/showcase/bati-journal" target="_blank"><img decoding="async"  src="/wp-content/uploads/2025/12/linkedin-logo-free-download-free-png-scaled.png" alt="likedin"></a>
+<a href="https://www.youtube.com/channel/UC0Eg2jnaCiBYjsrns0RZSiw" target="_blank"><img decoding="async" src="https://batijournal.com/wp-content/uploads/2015/02/picto-youtube.png" alt="You tube"></a>
+</div></div>	</div>
+		</div>
+	</div>
+	</div>
+
+
+	<span class="et_pb_scroll_top et-pb-icon"></span>
+
+
+			<footer id="main-footer">
+				
+<div class="container">
+	<div id="footer-widgets" class="clearfix">
+		<div class="footer-widget"><div id="text-39" class="fwidget et_pb_widget widget_text"><h4 class="title">Univers batijournal</h4>			<div class="textwidget"><table style="border:none">
+
+<th style="display:none;">Univers BJ</th>
+<tr>
+Qui sommes-nous ?
+</tr>
+<br />
+<tr><p>batijournal, site web d’information dédié aux professionnels et acteurs du bâtiment. Il réunit les expertises sectorielles de médias reconnus dans la filière bâtiment sur ses plateaux TV à l’occasion des grands événements de la filière avec son nouveau média batijournal TV</p></tr>
+</table></div>
+		</div></div><div class="footer-widget"><div id="text-22" class="fwidget et_pb_widget widget_text"><h4 class="title">Nos réseaux sociaux</h4>			<div class="textwidget"><div class="rs-logo">
+<a href="https://www.facebook.com/batijournal/"  target="_blank" title="flux RSS"><img src="/wp-content/uploads/2017/05/picto_facebook.png" alt="facebook"/></a>
+<a href="http://www.twitter.com/bati_journal" target="_blank" title="X (twitter)" alt="X (twitter)"><img src="/wp-content/uploads/2025/11/logo-X.png"/></a>
+<a href="https://www.linkedin.com/showcase/bati-journal" target="_blank"><img src="/wp-content/uploads/2025/12/linkedin-logo-free-download-free-png-scaled.png" alt="likedin"/></a>
+<a href="https://www.youtube.com/channel/UC0Eg2jnaCiBYjsrns0RZSiw" target="_blank"><img src="https://batijournal.com/wp-content/uploads/2015/02/picto-youtube.png" alt="You tube"/></a>
+</div>
+</div>
+		</div></div><div class="footer-widget"><div id="text-23" class="fwidget et_pb_widget widget_text"><h4 class="title">A propos</h4>			<div class="textwidget"><p>
+<a href="/index.php/contact/">Contact</a><br />
+<a href="/index.php/partenaires/">Partenaires</a><br />
+<a href="http://www.rive-media.com/portfolio/bati-journal/" target="_blank">Publicité</a><br />
+<a href="https://batijournal.com/index.php/mentions-legales/">Mentions légales</a></p>
+<a href="https://batijournal.com/index.php/politique-de-cookies-ue/">Politique de confidentialité</a>
+</div>
+		</div></div><div class="footer-widget"><div id="text-21" class="fwidget et_pb_widget widget_text"><h4 class="title">Sites partenaires</h4>			<div class="textwidget"><p>
+<a href="https://www.5facades.com" target="_blank">5Façades</a><br />
+<a href="https://www.atrium-patrimoine.com" target="_blank">Atrium Patrimoine</a><br />
+<a href="http://www.kiosque21.com" target="_blank">Kiosque 21</a> <br />
+<a href="https://www.l-atelier-bois.com" target="_blank">L'Atelier Bois</a><br />
+<a href="https://www.planete-batiment.com" target="_blank">Planète Bâtiment</a><br />
+<a href="https://www.woodsurfer.com/" target="_blank">Woodsurfer</a><br />
+<a href="https://www.batijournal.tv" target="_blank">batijournal TV</a>
+</p>
+
+</div>
+		</div></div>	</div>
+</div>
+
+
+		
+				<div id="footer-bottom">
+					<div class="container clearfix">
+				<div id="footer-info">© Batijournal 2024</div>					</div>
+				</div>
+			</footer>
+		</div>
+
+
+	</div>
+
+	<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/Divi/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+
+<!-- Consent Management powered by Complianz | GDPR/CCPA Cookie Consent https://wordpress.org/plugins/complianz-gdpr -->
+<div id="cmplz-cookiebanner-container"><div class="cmplz-cookiebanner cmplz-hidden banner-1 banniere-a optin cmplz-bottom-right cmplz-categories-type-view-preferences" aria-modal="true" data-nosnippet="true" role="dialog" aria-live="polite" aria-labelledby="cmplz-header-1-optin" aria-describedby="cmplz-message-1-optin">
+	<div class="cmplz-header">
+		<div class="cmplz-logo"></div>
+		<div class="cmplz-title" id="cmplz-header-1-optin">Gérer le consentement</div>
+		<div class="cmplz-close" tabindex="0" role="button" aria-label="Fermer la boîte de dialogue">
+			<svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="times" class="svg-inline--fa fa-times fa-w-11" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 352 512"><path fill="currentColor" d="M242.72 256l100.07-100.07c12.28-12.28 12.28-32.19 0-44.48l-22.24-22.24c-12.28-12.28-32.19-12.28-44.48 0L176 189.28 75.93 89.21c-12.28-12.28-32.19-12.28-44.48 0L9.21 111.45c-12.28 12.28-12.28 32.19 0 44.48L109.28 256 9.21 356.07c-12.28 12.28-12.28 32.19 0 44.48l22.24 22.24c12.28 12.28 32.2 12.28 44.48 0L176 322.72l100.07 100.07c12.28 12.28 32.2 12.28 44.48 0l22.24-22.24c12.28-12.28 12.28-32.19 0-44.48L242.72 256z"></path></svg>
+		</div>
+	</div>
+
+	<div class="cmplz-divider cmplz-divider-header"></div>
+	<div class="cmplz-body">
+		<div class="cmplz-message" id="cmplz-message-1-optin">Pour offrir les meilleures expériences, nous utilisons des technologies telles que les cookies pour stocker et/ou accéder aux informations des appareils. Le fait de consentir à ces technologies nous permettra de traiter des données telles que le comportement de navigation ou les ID uniques sur ce site. Le fait de ne pas consentir ou de retirer son consentement peut avoir un effet négatif sur certaines caractéristiques et fonctions.</div>
+		<!-- categories start -->
+		<div class="cmplz-categories">
+			<details class="cmplz-category cmplz-functional" >
+				<summary>
+						<span class="cmplz-category-header">
+							<span class="cmplz-category-title">Fonctionnel</span>
+							<span class='cmplz-always-active'>
+								<span class="cmplz-banner-checkbox">
+									<input type="checkbox"
+										   id="cmplz-functional-optin"
+										   data-category="cmplz_functional"
+										   class="cmplz-consent-checkbox cmplz-functional"
+										   size="40"
+										   value="1"/>
+									<label class="cmplz-label" for="cmplz-functional-optin"><span class="screen-reader-text">Fonctionnel</span></label>
+								</span>
+								Toujours activé							</span>
+							<span class="cmplz-icon cmplz-open">
+								<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"  height="18" ><path d="M224 416c-8.188 0-16.38-3.125-22.62-9.375l-192-192c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0L224 338.8l169.4-169.4c12.5-12.5 32.75-12.5 45.25 0s12.5 32.75 0 45.25l-192 192C240.4 412.9 232.2 416 224 416z"/></svg>
+							</span>
+						</span>
+				</summary>
+				<div class="cmplz-description">
+					<span class="cmplz-description-functional">L’accès ou le stockage technique est strictement nécessaire dans la finalité d’intérêt légitime de permettre l’utilisation d’un service spécifique explicitement demandé par l’abonné ou l’utilisateur, ou dans le seul but d’effectuer la transmission d’une communication sur un réseau de communications électroniques.</span>
+				</div>
+			</details>
+
+			<details class="cmplz-category cmplz-preferences" >
+				<summary>
+						<span class="cmplz-category-header">
+							<span class="cmplz-category-title">Préférences</span>
+							<span class="cmplz-banner-checkbox">
+								<input type="checkbox"
+									   id="cmplz-preferences-optin"
+									   data-category="cmplz_preferences"
+									   class="cmplz-consent-checkbox cmplz-preferences"
+									   size="40"
+									   value="1"/>
+								<label class="cmplz-label" for="cmplz-preferences-optin"><span class="screen-reader-text">Préférences</span></label>
+							</span>
+							<span class="cmplz-icon cmplz-open">
+								<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"  height="18" ><path d="M224 416c-8.188 0-16.38-3.125-22.62-9.375l-192-192c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0L224 338.8l169.4-169.4c12.5-12.5 32.75-12.5 45.25 0s12.5 32.75 0 45.25l-192 192C240.4 412.9 232.2 416 224 416z"/></svg>
+							</span>
+						</span>
+				</summary>
+				<div class="cmplz-description">
+					<span class="cmplz-description-preferences">L’accès ou le stockage technique est nécessaire dans la finalité d’intérêt légitime de stocker des préférences qui ne sont pas demandées par l’abonné ou l’internaute.</span>
+				</div>
+			</details>
+
+			<details class="cmplz-category cmplz-statistics" >
+				<summary>
+						<span class="cmplz-category-header">
+							<span class="cmplz-category-title">Statistiques</span>
+							<span class="cmplz-banner-checkbox">
+								<input type="checkbox"
+									   id="cmplz-statistics-optin"
+									   data-category="cmplz_statistics"
+									   class="cmplz-consent-checkbox cmplz-statistics"
+									   size="40"
+									   value="1"/>
+								<label class="cmplz-label" for="cmplz-statistics-optin"><span class="screen-reader-text">Statistiques</span></label>
+							</span>
+							<span class="cmplz-icon cmplz-open">
+								<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"  height="18" ><path d="M224 416c-8.188 0-16.38-3.125-22.62-9.375l-192-192c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0L224 338.8l169.4-169.4c12.5-12.5 32.75-12.5 45.25 0s12.5 32.75 0 45.25l-192 192C240.4 412.9 232.2 416 224 416z"/></svg>
+							</span>
+						</span>
+				</summary>
+				<div class="cmplz-description">
+					<span class="cmplz-description-statistics">Le stockage ou l’accès technique qui est utilisé exclusivement à des fins statistiques.</span>
+					<span class="cmplz-description-statistics-anonymous">Le stockage ou l’accès technique qui est utilisé exclusivement dans des finalités statistiques anonymes. En l’absence d’une assignation à comparaître, d’une conformité volontaire de la part de votre fournisseur d’accès à internet ou d’enregistrements supplémentaires provenant d’une tierce partie, les informations stockées ou extraites à cette seule fin ne peuvent généralement pas être utilisées pour vous identifier.</span>
+				</div>
+			</details>
+			<details class="cmplz-category cmplz-marketing" >
+				<summary>
+						<span class="cmplz-category-header">
+							<span class="cmplz-category-title">Marketing</span>
+							<span class="cmplz-banner-checkbox">
+								<input type="checkbox"
+									   id="cmplz-marketing-optin"
+									   data-category="cmplz_marketing"
+									   class="cmplz-consent-checkbox cmplz-marketing"
+									   size="40"
+									   value="1"/>
+								<label class="cmplz-label" for="cmplz-marketing-optin"><span class="screen-reader-text">Marketing</span></label>
+							</span>
+							<span class="cmplz-icon cmplz-open">
+								<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"  height="18" ><path d="M224 416c-8.188 0-16.38-3.125-22.62-9.375l-192-192c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0L224 338.8l169.4-169.4c12.5-12.5 32.75-12.5 45.25 0s12.5 32.75 0 45.25l-192 192C240.4 412.9 232.2 416 224 416z"/></svg>
+							</span>
+						</span>
+				</summary>
+				<div class="cmplz-description">
+					<span class="cmplz-description-marketing">L’accès ou le stockage technique est nécessaire pour créer des profils d’internautes afin d’envoyer des publicités, ou pour suivre l’utilisateur sur un site web ou sur plusieurs sites web ayant des finalités marketing similaires.</span>
+				</div>
+			</details>
+		</div><!-- categories end -->
+			</div>
+
+	<div class="cmplz-links cmplz-information">
+		<ul>
+			<li><a class="cmplz-link cmplz-manage-options cookie-statement" href="#" data-relative_url="#cmplz-manage-consent-container">Gérer les options</a></li>
+			<li><a class="cmplz-link cmplz-manage-third-parties cookie-statement" href="#" data-relative_url="#cmplz-cookies-overview">Gérer les services</a></li>
+			<li><a class="cmplz-link cmplz-manage-vendors tcf cookie-statement" href="#" data-relative_url="#cmplz-tcf-wrapper">Gérer {vendor_count} fournisseurs</a></li>
+			<li><a class="cmplz-link cmplz-external cmplz-read-more-purposes tcf" target="_blank" rel="noopener noreferrer nofollow" href="https://cookiedatabase.org/tcf/purposes/" aria-label="En savoir plus sur les finalités de TCF de la base de données de cookies">En savoir plus sur ces finalités</a></li>
+		</ul>
+			</div>
+
+	<div class="cmplz-divider cmplz-footer"></div>
+
+	<div class="cmplz-buttons">
+		<button class="cmplz-btn cmplz-accept">Accepter</button>
+		<button class="cmplz-btn cmplz-deny">Refuser</button>
+		<button class="cmplz-btn cmplz-view-preferences">Voir les préférences</button>
+		<button class="cmplz-btn cmplz-save-preferences">Enregistrer les préférences</button>
+		<a class="cmplz-btn cmplz-manage-options tcf cookie-statement" href="#" data-relative_url="#cmplz-manage-consent-container">Voir les préférences</a>
+			</div>
+
+	
+	<div class="cmplz-documents cmplz-links">
+		<ul>
+			<li><a class="cmplz-link cookie-statement" href="#" data-relative_url="">{title}</a></li>
+			<li><a class="cmplz-link privacy-statement" href="#" data-relative_url="">{title}</a></li>
+			<li><a class="cmplz-link impressum" href="#" data-relative_url="">{title}</a></li>
+		</ul>
+			</div>
+</div>
+</div>
+					<div id="cmplz-manage-consent" data-nosnippet="true"><button class="cmplz-btn cmplz-hidden cmplz-manage-consent manage-consent-1">Gérer le consentement</button>
+
+</div><script type="text/javascript" src="https://batijournal.com/wp-includes/js/dist/hooks.min.js?ver=dd5603f07f9220ed27f1" id="wp-hooks-js"></script>
+<script type="text/javascript" src="https://batijournal.com/wp-includes/js/dist/i18n.min.js?ver=c26c3dc7bed366793375" id="wp-i18n-js"></script>
+<script type="text/javascript" id="wp-i18n-js-after">
+/* <![CDATA[ */
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+//# sourceURL=wp-i18n-js-after
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://batijournal.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=6.1.5" id="swv-js"></script>
+<script type="text/javascript" id="contact-form-7-js-translations">
+/* <![CDATA[ */
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "contact-form-7", {"translation-revision-date":"2025-02-06 12:02:14+0000","generator":"GlotPress\/4.0.1","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=2; plural=n > 1;","lang":"fr"},"This contact form is placed in the wrong place.":["Ce formulaire de contact est plac\u00e9 dans un mauvais endroit."],"Error:":["Erreur\u00a0:"]}},"comment":{"reference":"includes\/js\/index.js"}} );
+//# sourceURL=contact-form-7-js-translations
+/* ]]> */
+</script>
+<script type="text/javascript" id="contact-form-7-js-before">
+/* <![CDATA[ */
+var wpcf7 = {
+    "api": {
+        "root": "https:\/\/batijournal.com\/index.php\/wp-json\/",
+        "namespace": "contact-form-7\/v1"
+    },
+    "cached": 1
+};
+//# sourceURL=contact-form-7-js-before
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://batijournal.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.1.5" id="contact-form-7-js"></script>
+<script type="text/javascript" id="divi-custom-script-js-extra">
+/* <![CDATA[ */
+var DIVI = {"item_count":"%d Item","items_count":"%d Items"};
+var et_builder_utils_params = {"condition":{"diviTheme":true,"extraTheme":false},"scrollLocations":["app","top"],"builderScrollLocations":{"desktop":"app","tablet":"app","phone":"app"},"onloadScrollLocation":"app","builderType":"fe"};
+var et_frontend_scripts = {"builderCssContainerPrefix":"#et-boc","builderCssLayoutPrefix":"#et-boc .et-l"};
+var et_pb_custom = {"ajaxurl":"https://batijournal.com/wp-admin/admin-ajax.php","images_uri":"https://batijournal.com/wp-content/themes/Divi/images","builder_images_uri":"https://batijournal.com/wp-content/themes/Divi/includes/builder/images","et_frontend_nonce":"a31bc84116","subscription_failed":"Veuillez v\u00e9rifier les champs ci-dessous pour vous assurer que vous avez entr\u00e9 les informations correctes.","et_ab_log_nonce":"3caffdf6f8","fill_message":"S'il vous pla\u00eet, remplissez les champs suivants:","contact_error_message":"Veuillez corriger les erreurs suivantes :","invalid":"E-mail non valide","captcha":"Captcha","prev":"Pr\u00e9c\u00e9dent","previous":"Pr\u00e9c\u00e9dente","next":"Prochaine","wrong_captcha":"Vous avez entr\u00e9 le mauvais num\u00e9ro dans le captcha.","wrong_checkbox":"Case \u00e0 cocher","ignore_waypoints":"no","is_divi_theme_used":"1","widget_search_selector":".widget_search","ab_tests":[],"is_ab_testing_active":"","page_id":"111566","unique_test_id":"","ab_bounce_rate":"5","is_cache_plugin_active":"no","is_shortcode_tracking":"","tinymce_uri":"https://batijournal.com/wp-content/themes/Divi/includes/builder/frontend-builder/assets/vendors","accent_color":"#db0404","waypoints_options":[]};
+var et_pb_box_shadow_elements = [];
+//# sourceURL=divi-custom-script-js-extra
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://batijournal.com/wp-content/themes/Divi/js/scripts.min.js?ver=4.27.5" id="divi-custom-script-js"></script>
+<script type="text/javascript" src="https://batijournal.com/wp-content/themes/Divi/js/smoothscroll.js?ver=4.27.5" id="smoothscroll-js"></script>
+<script type="text/javascript" src="https://batijournal.com/wp-content/themes/Divi/includes/builder/feature/dynamic-assets/assets/js/jquery.fitvids.js?ver=4.27.5" id="fitvids-js"></script>
+<script type="text/javascript" id="newsletter-js-extra">
+/* <![CDATA[ */
+var newsletter_data = {"action_url":"https://batijournal.com/wp-admin/admin-ajax.php"};
+//# sourceURL=newsletter-js-extra
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://batijournal.com/wp-content/plugins/newsletter/main.js?ver=9.1.7" id="newsletter-js"></script>
+<script type="text/javascript" src="https://batijournal.com/wp-content/plugins/advanced-ads/admin/assets/js/advertisement.js?ver=2.0.17" id="advanced-ads-find-adblocker-js"></script>
+<script type="text/javascript" id="advanced-ads-pro-main-js-extra">
+/* <![CDATA[ */
+var advanced_ads_cookies = {"cookie_path":"/","cookie_domain":""};
+var advadsCfpInfo = {"cfpExpHours":"3","cfpClickLimit":"3","cfpBan":"7","cfpPath":"","cfpDomain":"","cfpEnabled":""};
+//# sourceURL=advanced-ads-pro-main-js-extra
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://batijournal.com/wp-content/plugins/advanced-ads-pro/assets/dist/advanced-ads-pro.js?ver=3.0.9" id="advanced-ads-pro-main-js"></script>
+<script type="text/javascript" id="advadsTrackingScript-js-extra">
+/* <![CDATA[ */
+var advadsTracking = {"impressionActionName":"aatrack-records","clickActionName":"aatrack-click","targetClass":"batij-target","blogId":"1","frontendPrefix":"batij-"};
+//# sourceURL=advadsTrackingScript-js-extra
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://batijournal.com/wp-content/plugins/advanced-ads-tracking/assets/dist/tracking.js?ver=3.0.10" id="advadsTrackingScript-js"></script>
+<script type="text/javascript" src="https://batijournal.com/wp-content/themes/Divi/core/admin/js/common.js?ver=4.27.5" id="et-core-common-js"></script>
+<script type="text/javascript" id="cmplz-cookiebanner-js-extra">
+/* <![CDATA[ */
+var complianz = {"prefix":"cmplz_","user_banner_id":"1","set_cookies":[],"block_ajax_content":"","banner_version":"23","version":"7.4.5","store_consent":"","do_not_track_enabled":"1","consenttype":"optin","region":"eu","geoip":"","dismiss_timeout":"","disable_cookiebanner":"","soft_cookiewall":"","dismiss_on_scroll":"","cookie_expiry":"365","url":"https://batijournal.com/index.php/wp-json/complianz/v1/","locale":"lang=fr&locale=fr_FR","set_cookies_on_root":"","cookie_domain":"","current_policy_id":"35","cookie_path":"/","categories":{"statistics":"statistiques","marketing":"marketing"},"tcf_active":"","placeholdertext":"Cliquez pour accepter les cookies {category} et activer ce contenu","css_file":"https://batijournal.com/wp-content/uploads/complianz/css/banner-{banner_id}-{type}.css?v=23","page_links":{"eu":{"cookie-statement":{"title":"Politique de cookies ","url":"https://batijournal.com/index.php/politique-de-cookies-ue/"},"privacy-statement":{"title":"Mentions l\u00e9gales","url":"https://batijournal.com/index.php/mentions-legales/"}}},"tm_categories":"","forceEnableStats":"","preview":"","clean_cookies":"","aria_label":"Cliquez pour accepter les cookies {category} et activer ce contenu"};
+//# sourceURL=cmplz-cookiebanner-js-extra
+/* ]]> */
+</script>
+<script defer type="text/javascript" src="https://batijournal.com/wp-content/plugins/complianz-gdpr/cookiebanner/js/complianz.min.js?ver=1773824610" id="cmplz-cookiebanner-js"></script>
+<script data-waitfor="maps.googleapis.com" data-service="google-maps" data-category="marketing" type="text/plain" id="cmplz-cookiebanner-js-after">
+/* <![CDATA[ */
+		
+			let cmplz_activated_divi_maps = false;
+			document.addEventListener("cmplz_enable_category", function (e) {
+				if (!cmplz_activated_divi_maps && (e.detail.category==='marketing' || e.detail.service === 'google-maps') ){
+					cmplz_divi_init_map();
+				}
+			});
+
+			function cmplz_divi_init_map() {
+				if ('undefined' === typeof window.jQuery || 'undefined' === typeof window.et_pb_map_init ) {
+					setTimeout(cmplz_divi_init_map, 1000);
+				} else {
+					let map_container = jQuery(".et_pb_map_container");
+					map_container.each(function () {
+						window.et_pb_map_init(jQuery(this));
+						cmplz_activated_divi_maps = true;
+					})
+				}
+			}
+			setTimeout(cmplz_divi_init_map, 300);
+		
+
+		
+//# sourceURL=cmplz-cookiebanner-js-after
+/* ]]> */
+</script>
+<script type="text/javascript" id="advanced-ads-pro/background-ads-js-after">
+/* <![CDATA[ */
+let abort_controller = new AbortController();
+//# sourceURL=advanced-ads-pro%2Fbackground-ads-js-after
+/* ]]> */
+</script>
+<script type="text/javascript" id="mailpoet_public-js-extra">
+/* <![CDATA[ */
+var MailPoetForm = {"ajax_url":"https://batijournal.com/wp-admin/admin-ajax.php","is_rtl":"","ajax_common_error_message":"Une erreur est survenue lors du traitement de la demande, veuillez r\u00e9essayer plus tard.","captcha_input_label":"Saisissez les caract\u00e8res que vous voyez dans la photo ci-dessus\u00a0:","captcha_reload_title":"Recharger le CAPTCHA","captcha_audio_title":"Jouer le CAPTCHA","assets_url":"https://batijournal.com/wp-content/plugins/mailpoet/assets"};
+var MailPoetForm = {"ajax_url":"https://batijournal.com/wp-admin/admin-ajax.php","is_rtl":"","ajax_common_error_message":"Une erreur est survenue lors du traitement de la demande, veuillez r\u00e9essayer plus tard.","captcha_input_label":"Saisissez les caract\u00e8res que vous voyez dans la photo ci-dessus\u00a0:","captcha_reload_title":"Recharger le CAPTCHA","captcha_audio_title":"Jouer le CAPTCHA","assets_url":"https://batijournal.com/wp-content/plugins/mailpoet/assets"};
+//# sourceURL=mailpoet_public-js-extra
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://batijournal.com/wp-content/plugins/mailpoet/assets/dist/js/public.js?ver=5.22.2" id="mailpoet_public-js" defer="defer" data-wp-strategy="defer"></script>
+<!-- Statistics script Complianz GDPR/CCPA -->
+						<script type="text/plain"							data-category="statistics">window['gtag_enable_tcf_support'] = false;
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', '', {
+	cookie_flags:'secure;samesite=none',
+	'anonymize_ip': true
+});
+</script><script>window.advads_admin_bar_items = [{"title":"Retour tuiles &amp; briques","type":"ad","count":1}];</script><script>!function(){window.advanced_ads_ready_queue=window.advanced_ads_ready_queue||[],advanced_ads_ready_queue.push=window.advanced_ads_ready;for(var d=0,a=advanced_ads_ready_queue.length;d<a;d++)advanced_ads_ready(advanced_ads_ready_queue[d])}();</script><script id="batij-tracking">var advads_tracking_ads = {"1":[113177]};var advads_tracking_urls = {"1":"https:\/\/batijournal.com\/wp-admin\/admin-ajax.php"};var advads_tracking_methods = {"1":"frontend"};var advads_tracking_parallel = {"1":false};var advads_tracking_linkbases = {"1":"https:\/\/batijournal.com\/linkout\/"};</script></body>
+</html>
+
+
+<!-- Page supported by LiteSpeed Cache 7.8.0.1 on 2026-03-19 11:28:16 -->

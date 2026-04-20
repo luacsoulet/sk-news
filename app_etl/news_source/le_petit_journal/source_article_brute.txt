@@ -1,0 +1,1648 @@
+<!DOCTYPE html><html lang="fr-FR" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><head><meta http-equiv="origin-trial" content="A7vZI3v+Gz7JfuRolKNM4Aff6zaGuT7X0mf3wtoZTnKv6497cVMnhy03KDqX7kBz/q/iidW7srW31oQbBt4VhgoAAACUeyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGUuY29tOjQ0MyIsImZlYXR1cmUiOiJEaXNhYmxlVGhpcmRQYXJ0eVN0b3JhZ2VQYXJ0aXRpb25pbmczIiwiZXhwaXJ5IjoxNzU3OTgwODAwLCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ==">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-title" content="Le Petit Journal - Journal d'informations locales">
+
+    <link rel="profile" href="http://gmpg.org/xfn/11">
+    <link rel="pingback" href="https://www.lepetitjournal.net/xmlrpc.php">
+    <!-- Manifest added by SuperPWA - Progressive Web Apps Plugin For WordPress -->
+<link rel="manifest" href="/superpwa-manifest.json">
+<meta name="theme-color" content="#ee1d24">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-touch-fullscreen" content="yes">
+<meta name="apple-mobile-web-app-title" content="Le Petit Journal">
+<meta name="application-name" content="Le Petit Journal">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<link rel="apple-touch-icon" href="https://cdn.lepetitjournal.net/uploads/2022/01/LPJ_favicon.png">
+<link rel="apple-touch-icon" sizes="192x192" href="https://cdn.lepetitjournal.net/uploads/2022/01/LPJ_favicon.png">
+<!-- / SuperPWA.com -->
+    <!-- BEGIN IAB STUB FOR CMP -->
+    <script async="" src="//cse.google.com/adsense/search/async-ads.js"></script><script src="https://pagead2.googlesyndication.com/pagead/managed/js/adsense/m202603190101/show_ads_impl_fy2021.js"></script><script type="text/javascript" async="" charset="utf-8" src="https://www.gstatic.com/recaptcha/releases/qm3PSRIx10pekcnS9DjGnjPW/recaptcha__fr.js" crossorigin="anonymous" integrity="sha384-Zsl5UrgEqlqkNpSo++uuo9jNLBg+tYZkWLRZwDT0NsfjoutT1xrbKyWdXk/3LQgo"></script><script type="text/javascript">
+        "use strict";!function(){var e=function(){var e,t="__tcfapiLocator",a=[],n=window;for(;n;){try{if(n.frames[t]){e=n;break}}catch(e){}if(n===window.top)break;n=n.parent}e||(!function e(){var a=n.document,r=!!n.frames[t];if(!r)if(a.body){var s=a.createElement("iframe");s.style.cssText="display:none",s.name=t,a.body.appendChild(s)}else setTimeout(e,5);return!r}(),n.__tcfapi=function(){for(var e,t=arguments.length,n=new Array(t),r=0;r<t;r++)n[r]=arguments[r];if(!n.length)return a;if("setGdprApplies"===n[0])n.length>3&&2===parseInt(n[1],10)&&"boolean"==typeof n[3]&&(e=n[3],"function"==typeof n[2]&&n[2]("set",!0));else if("ping"===n[0]){var s={gdprApplies:e,cmpLoaded:!1,cmpStatus:"stub"};"function"==typeof n[2]&&n[2](s)}else a.push(n)},n.addEventListener("message",(function(e){var t="string"==typeof e.data,a={};try{a=t?JSON.parse(e.data):e.data}catch(e){}var n=a.__tcfapiCall;n&&window.__tcfapi(n.command,n.version,(function(a,r){var s={__tcfapiReturn:{returnValue:a,success:r,callId:n.callId}};t&&(s=JSON.stringify(s)),e&&e.source&&e.source.postMessage&&e.source.postMessage(s,"*")}),n.parameter)}),!1))};"undefined"!=typeof module?module.exports=e:e()}();
+    </script>
+    <!-- END IAB STUB -->
+
+    <script type="text/javascript">
+        const configSFBXAppConsent = {
+            appKey: 'deddf2e4-2a8d-4278-bac7-bfa92c27782c',
+            forceGDPRApplies: false,
+        }
+    </script>
+    <script type="text/javascript" src="https://cdn.appconsent.io/loader-clear.js" defer="" async=""></script>
+<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+
+	<!-- This site is optimized with the Yoast SEO plugin v25.6 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Swiss Krono présente son projet "Orpinia" - Lot et Garonne - Fargues-sur-Ourbise - Le Petit Journal</title>
+	<link rel="canonical" href="https://www.lepetitjournal.net/47-lot-et-garonne/2024/09/23/swiss-krono-presente-son-projet-orpinia/">
+	<meta property="og:locale" content="fr_FR">
+	<meta property="og:type" content="article">
+	<meta property="og:title" content="Swiss Krono présente son projet &quot;Orpinia&quot; - Lot et Garonne - Fargues-sur-Ourbise - Le Petit Journal">
+	<meta property="og:description" content="Depuis quelques mois, il est fortement question de l’implantation d’une unité de fabrication de panneaux de bois de type OSB... Lire la suite">
+	<meta property="og:url" content="https://www.lepetitjournal.net/47-lot-et-garonne/2024/09/23/swiss-krono-presente-son-projet-orpinia/">
+	<meta property="og:site_name" content="Le Petit Journal">
+	<meta property="article:publisher" content="https://www.facebook.com/GroupeLPJ">
+	<meta property="article:published_time" content="2024-09-23T07:16:55+00:00">
+	<meta property="og:image" content="https://cdn.lepetitjournal.net/uploads/2024/09/IMG_20240911_190008-scaled.jpg">
+	<meta property="og:image:width" content="2560">
+	<meta property="og:image:height" content="1920">
+	<meta property="og:image:type" content="image/jpeg">
+	<meta name="author" content="Jean-Louis Mandicourt">
+	<meta name="twitter:card" content="summary_large_image">
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"NewsArticle","@id":"https://www.lepetitjournal.net/47-lot-et-garonne/2024/09/23/swiss-krono-presente-son-projet-orpinia/#article","isPartOf":{"@id":"https://www.lepetitjournal.net/47-lot-et-garonne/2024/09/23/swiss-krono-presente-son-projet-orpinia/"},"author":{"name":"Jean-Louis Mandicourt","@id":"https://www.lepetitjournal.net/#/schema/person/711410638742d111b41677ba613a6524"},"headline":"Swiss Krono présente son projet « Orpinia »","datePublished":"2024-09-23T07:16:55+00:00","mainEntityOfPage":{"@id":"https://www.lepetitjournal.net/47-lot-et-garonne/2024/09/23/swiss-krono-presente-son-projet-orpinia/"},"wordCount":556,"publisher":{"@id":"https://www.lepetitjournal.net/#organization"},"image":{"@id":"https://www.lepetitjournal.net/47-lot-et-garonne/2024/09/23/swiss-krono-presente-son-projet-orpinia/#primaryimage"},"thumbnailUrl":"https://cdn.lepetitjournal.net/uploads/2024/09/IMG_20240911_190008-scaled.jpg","articleSection":["Lot et Garonne","Landes Gascogne","Coteaux et Landes de Gascogne","Fargues-sur-Ourbise"],"inLanguage":"fr-FR"},{"@type":"WebPage","@id":"https://www.lepetitjournal.net/47-lot-et-garonne/2024/09/23/swiss-krono-presente-son-projet-orpinia/","url":"https://www.lepetitjournal.net/47-lot-et-garonne/2024/09/23/swiss-krono-presente-son-projet-orpinia/","name":"Swiss Krono présente son projet \"Orpinia\" - Lot et Garonne - Fargues-sur-Ourbise - Le Petit Journal","isPartOf":{"@id":"https://www.lepetitjournal.net/#website"},"primaryImageOfPage":{"@id":"https://www.lepetitjournal.net/47-lot-et-garonne/2024/09/23/swiss-krono-presente-son-projet-orpinia/#primaryimage"},"image":{"@id":"https://www.lepetitjournal.net/47-lot-et-garonne/2024/09/23/swiss-krono-presente-son-projet-orpinia/#primaryimage"},"thumbnailUrl":"https://cdn.lepetitjournal.net/uploads/2024/09/IMG_20240911_190008-scaled.jpg","datePublished":"2024-09-23T07:16:55+00:00","breadcrumb":{"@id":"https://www.lepetitjournal.net/47-lot-et-garonne/2024/09/23/swiss-krono-presente-son-projet-orpinia/#breadcrumb"},"inLanguage":"fr-FR","potentialAction":[{"@type":"ReadAction","target":["https://www.lepetitjournal.net/47-lot-et-garonne/2024/09/23/swiss-krono-presente-son-projet-orpinia/"]}]},{"@type":"ImageObject","inLanguage":"fr-FR","@id":"https://www.lepetitjournal.net/47-lot-et-garonne/2024/09/23/swiss-krono-presente-son-projet-orpinia/#primaryimage","url":"https://cdn.lepetitjournal.net/uploads/2024/09/IMG_20240911_190008-scaled.jpg","contentUrl":"https://cdn.lepetitjournal.net/uploads/2024/09/IMG_20240911_190008-scaled.jpg","width":2560,"height":1920,"caption":"Les responsables de Swiss Krono France et de RTE"},{"@type":"BreadcrumbList","@id":"https://www.lepetitjournal.net/47-lot-et-garonne/2024/09/23/swiss-krono-presente-son-projet-orpinia/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Accueil","item":"https://www.lepetitjournal.net/"},{"@type":"ListItem","position":2,"name":"Swiss Krono présente son projet « Orpinia »"}]},{"@type":"WebSite","@id":"https://www.lepetitjournal.net/#website","url":"https://www.lepetitjournal.net/","name":"Le Petit Journal","description":"Journal d&#039;informations locales","publisher":{"@id":"https://www.lepetitjournal.net/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.lepetitjournal.net/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"fr-FR"},{"@type":"Organization","@id":"https://www.lepetitjournal.net/#organization","name":"Le Petit Journal","url":"https://www.lepetitjournal.net/","logo":{"@type":"ImageObject","inLanguage":"fr-FR","@id":"https://www.lepetitjournal.net/#/schema/logo/image/","url":"https://cdn.lepetitjournal.net/uploads/2022/01/LPJ_favicon.png","contentUrl":"https://cdn.lepetitjournal.net/uploads/2022/01/LPJ_favicon.png","width":512,"height":512,"caption":"Le Petit Journal"},"image":{"@id":"https://www.lepetitjournal.net/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/GroupeLPJ","https://fr.wikipedia.org/wiki/Le_Petit-Journal"]},{"@type":"Person","@id":"https://www.lepetitjournal.net/#/schema/person/711410638742d111b41677ba613a6524","name":"Jean-Louis Mandicourt"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel="dns-prefetch" href="//cdn.lepetitjournal.net">
+<link rel="dns-prefetch" href="//widgetlogic.org">
+<link rel="dns-prefetch" href="//ads.sportslocalmedia.com">
+<link rel="dns-prefetch" href="//www.googletagmanager.com">
+<link rel="dns-prefetch" href="//ajax.googleapis.com">
+<link rel="alternate" type="application/rss+xml" title="Le Petit Journal » Flux" href="https://www.lepetitjournal.net/feed/">
+<link rel="alternate" type="application/rss+xml" title="Le Petit Journal » Flux des commentaires" href="https://www.lepetitjournal.net/comments/feed/">
+
+        <meta property="og:title" content="Swiss Krono présente son projet «&nbsp;Orpinia&nbsp;»">
+        <meta property="og:description" content="Journal d'informations locales">
+        <meta property="og:type" content="article">
+        <meta property="og:url" content="https://www.lepetitjournal.net/47-lot-et-garonne/2024/09/23/swiss-krono-presente-son-projet-orpinia/">
+        <meta property="og:site_name" content="Le Petit Journal">
+        <meta property="og:image" content="https://cdn.lepetitjournal.net/uploads/2024/09/IMG_20240911_190008-640x360.jpg">
+
+        <script>
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.lepetitjournal.net\/wp-includes\/js\/wp-emoji-release.min.js?ver=627d66cb58618f00a7d227c5f60d71c1"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83d\udc26\u200d\u2b1b","\ud83d\udc26\u200b\u2b1b")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+</script>
+<link rel="stylesheet" id="wc-blocks-integration-css" href="https://cdn.lepetitjournal.net/plugins/woocommerce-subscriptions/vendor/woocommerce/subscriptions-core/build/index.css?ver=7.6.0" media="all">
+<style id="wp-emoji-styles-inline-css">
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel="stylesheet" id="wp-block-library-css" href="https://www.lepetitjournal.net/wp-includes/css/dist/block-library/style.min.css?ver=627d66cb58618f00a7d227c5f60d71c1" media="all">
+<link rel="stylesheet" id="wc-memberships-blocks-css" href="https://cdn.lepetitjournal.net/plugins/woocommerce-memberships/assets/css/blocks/wc-memberships-blocks.min.css?ver=1.26.9" media="all">
+<link rel="stylesheet" id="block-widget-css" href="https://cdn.lepetitjournal.net/plugins/widget-logic/block_widget/css/widget.css?ver=1727361902" media="all">
+<style id="classic-theme-styles-inline-css">
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id="global-styles-inline-css">
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--font-family--inter: "Inter", sans-serif;--wp--preset--font-family--cardo: Cardo;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel="stylesheet" id="contact-form-7-css" href="https://cdn.lepetitjournal.net/plugins/contact-form-7/includes/css/styles.css?ver=6.0.6" media="all">
+<link rel="stylesheet" id="woocommerce-layout-css" href="https://cdn.lepetitjournal.net/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=9.3.6" media="all">
+<style id="woocommerce-layout-inline-css">
+
+	.infinite-scroll .woocommerce-pagination {
+		display: none;
+	}
+</style>
+<link rel="stylesheet" id="woocommerce-smallscreen-css" href="https://cdn.lepetitjournal.net/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=9.3.6" media="only screen and (max-width: 768px)">
+<link rel="stylesheet" id="woocommerce-general-css" href="https://cdn.lepetitjournal.net/plugins/woocommerce/assets/css/woocommerce.css?ver=9.3.6" media="all">
+<style id="woocommerce-inline-inline-css">
+.woocommerce form .form-row .required { visibility: visible; }
+</style>
+<link rel="stylesheet" id="wc-memberships-frontend-css" href="https://cdn.lepetitjournal.net/plugins/woocommerce-memberships/assets/css/frontend/wc-memberships-frontend.min.css?ver=1.26.9" media="all">
+<link rel="stylesheet" id="periwinkle-styles-css" href="https://cdn.lepetitjournal.net/themes/periwinkle-v2/css/child-theme.min.css?ver=2.6.8" media="all">
+<style id="periwinkle-styles-inline-css">
+
+                    .tag-color- { color: #f47b7f;}
+                    .tag-background-color-{ background-color: #f47b7f;}
+                    .tag-border-color-{ border-color: #f47b7f; border-style: solid;}
+                    .tag-background-color--before:before { border-color: #f47b7f; border-style: solid; }
+                    .tag-real-background-color--before:before { border-color: #f47b7f; border-style: solid; background-color: #f47b7f;}
+                    .tag-color-10692 { color: #434343;}.tag-background-color-10692, .tag-background-color-hover-10692:hover, .tag-background-color-hover-10692.active{ background-color: #434343;} .tag-color-26385 { color: #434343;}.tag-background-color-26385, .tag-background-color-hover-26385:hover, .tag-background-color-hover-26385.active{ background-color: #434343;} .tag-color-26405 { color: #649ed1;}.tag-background-color-26405, .tag-background-color-hover-26405:hover, .tag-background-color-hover-26405.active{ background-color: #649ed1;} .tag-color-26406 { color: #1fa3c4;}.tag-background-color-26406, .tag-background-color-hover-26406:hover, .tag-background-color-hover-26406.active{ background-color: #1fa3c4;} .tag-color-26407 { color: #c65d17;}.tag-background-color-26407, .tag-background-color-hover-26407:hover, .tag-background-color-hover-26407.active{ background-color: #c65d17;} .tag-color-10667 { color: #434343;}.tag-background-color-10667, .tag-background-color-hover-10667:hover, .tag-background-color-hover-10667.active{ background-color: #434343;} .tag-color-26386 { color: #434343;}.tag-background-color-26386, .tag-background-color-hover-26386:hover, .tag-background-color-hover-26386.active{ background-color: #434343;} .tag-color-26408 { color: #81d742;}.tag-background-color-26408, .tag-background-color-hover-26408:hover, .tag-background-color-hover-26408.active{ background-color: #81d742;} .tag-color-26438 { color: #eeee22;}.tag-background-color-26438, .tag-background-color-hover-26438:hover, .tag-background-color-hover-26438.active{ background-color: #eeee22;} .tag-color-10682 { color: #434343;}.tag-background-color-10682, .tag-background-color-hover-10682:hover, .tag-background-color-hover-10682.active{ background-color: #434343;} .tag-color-26293 { color: #ffe696;}.tag-background-color-26293, .tag-background-color-hover-26293:hover, .tag-background-color-hover-26293.active{ background-color: #ffe696;} .tag-color-26387 { color: #434343;}.tag-background-color-26387, .tag-background-color-hover-26387:hover, .tag-background-color-hover-26387.active{ background-color: #434343;} .tag-color-26409 { color: #81d742;}.tag-background-color-26409, .tag-background-color-hover-26409:hover, .tag-background-color-hover-26409.active{ background-color: #81d742;} .tag-color-10683 { color: #434343;}.tag-background-color-10683, .tag-background-color-hover-10683:hover, .tag-background-color-hover-10683.active{ background-color: #434343;} .tag-color-11530 { color: #79b8d8;}.tag-background-color-11530, .tag-background-color-hover-11530:hover, .tag-background-color-hover-11530.active{ background-color: #79b8d8;} .tag-color-26410 { color: #770b00;}.tag-background-color-26410, .tag-background-color-hover-26410:hover, .tag-background-color-hover-26410.active{ background-color: #770b00;} .tag-color-10684 { color: #434343;}.tag-background-color-10684, .tag-background-color-hover-10684:hover, .tag-background-color-hover-10684.active{ background-color: #434343;} .tag-color-10736 { color: #e592ad;}.tag-background-color-10736, .tag-background-color-hover-10736:hover, .tag-background-color-hover-10736.active{ background-color: #e592ad;} .tag-color-26411 { color: #81d742;}.tag-background-color-26411, .tag-background-color-hover-26411:hover, .tag-background-color-hover-26411.active{ background-color: #81d742;} .tag-color-10617 { color: #66a06e;}.tag-background-color-10617, .tag-background-color-hover-10617:hover, .tag-background-color-hover-10617.active{ background-color: #66a06e;} .tag-color-10685 { color: #434343;}.tag-background-color-10685, .tag-background-color-hover-10685:hover, .tag-background-color-hover-10685.active{ background-color: #434343;} .tag-color-26413 { color: #434343;}.tag-background-color-26413, .tag-background-color-hover-26413:hover, .tag-background-color-hover-26413.active{ background-color: #434343;} .tag-color-10630 { color: #d8bc31;}.tag-background-color-10630, .tag-background-color-hover-10630:hover, .tag-background-color-hover-10630.active{ background-color: #d8bc31;} .tag-color-10686 { color: #434343;}.tag-background-color-10686, .tag-background-color-hover-10686:hover, .tag-background-color-hover-10686.active{ background-color: #434343;} .tag-color-10631 { color: #af7084;}.tag-background-color-10631, .tag-background-color-hover-10631:hover, .tag-background-color-hover-10631.active{ background-color: #af7084;} .tag-color-10687 { color: #434343;}.tag-background-color-10687, .tag-background-color-hover-10687:hover, .tag-background-color-hover-10687.active{ background-color: #434343;} .tag-color-10634 { color: #6995bf;}.tag-background-color-10634, .tag-background-color-hover-10634:hover, .tag-background-color-hover-10634.active{ background-color: #6995bf;} .tag-color-10688 { color: #434343;}.tag-background-color-10688, .tag-background-color-hover-10688:hover, .tag-background-color-hover-10688.active{ background-color: #434343;} .tag-color-10633 { color: #b76fb2;}.tag-background-color-10633, .tag-background-color-hover-10633:hover, .tag-background-color-hover-10633.active{ background-color: #b76fb2;} .tag-color-10689 { color: #434343;}.tag-background-color-10689, .tag-background-color-hover-10689:hover, .tag-background-color-hover-10689.active{ background-color: #434343;} .tag-color-10632 { color: #964b83;}.tag-background-color-10632, .tag-background-color-hover-10632:hover, .tag-background-color-hover-10632.active{ background-color: #964b83;} .tag-color-10690 { color: #434343;}.tag-background-color-10690, .tag-background-color-hover-10690:hover, .tag-background-color-hover-10690.active{ background-color: #434343;} .tag-color-10666 { color: #95d666;}.tag-background-color-10666, .tag-background-color-hover-10666:hover, .tag-background-color-hover-10666.active{ background-color: #95d666;} .tag-color-10691 { color: #434343;}.tag-background-color-10691, .tag-background-color-hover-10691:hover, .tag-background-color-hover-10691.active{ background-color: #434343;} .tag-color-10708 { color: #434343;}.tag-background-color-10708, .tag-background-color-hover-10708:hover, .tag-background-color-hover-10708.active{ background-color: #434343;} .tag-color-26499 { color: #707070;}.tag-background-color-26499, .tag-background-color-hover-26499:hover, .tag-background-color-hover-26499.active{ background-color: #707070;} .tag-color-10709 { color: #434343;}.tag-background-color-10709, .tag-background-color-hover-10709:hover, .tag-background-color-hover-10709.active{ background-color: #434343;} .tag-color-10710 { color: #434343;}.tag-background-color-10710, .tag-background-color-hover-10710:hover, .tag-background-color-hover-10710.active{ background-color: #434343;} .tag-color-10711 { color: #434343;}.tag-background-color-10711, .tag-background-color-hover-10711:hover, .tag-background-color-hover-10711.active{ background-color: #434343;} .tag-color-10712 { color: #434343;}.tag-background-color-10712, .tag-background-color-hover-10712:hover, .tag-background-color-hover-10712.active{ background-color: #434343;} .tag-color-10713 { color: #434343;}.tag-background-color-10713, .tag-background-color-hover-10713:hover, .tag-background-color-hover-10713.active{ background-color: #434343;} .tag-color-10714 { color: #434343;}.tag-background-color-10714, .tag-background-color-hover-10714:hover, .tag-background-color-hover-10714.active{ background-color: #434343;} .tag-color-10715 { color: #434343;}.tag-background-color-10715, .tag-background-color-hover-10715:hover, .tag-background-color-hover-10715.active{ background-color: #434343;} .tag-color-10716 { color: #434343;}.tag-background-color-10716, .tag-background-color-hover-10716:hover, .tag-background-color-hover-10716.active{ background-color: #434343;} .tag-color-10717 { color: #434343;}.tag-background-color-10717, .tag-background-color-hover-10717:hover, .tag-background-color-hover-10717.active{ background-color: #434343;} .tag-color-10718 { color: #434343;}.tag-background-color-10718, .tag-background-color-hover-10718:hover, .tag-background-color-hover-10718.active{ background-color: #434343;} .tag-color-10719 { color: #434343;}.tag-background-color-10719, .tag-background-color-hover-10719:hover, .tag-background-color-hover-10719.active{ background-color: #434343;} .tag-color-10720 { color: #434343;}.tag-background-color-10720, .tag-background-color-hover-10720:hover, .tag-background-color-hover-10720.active{ background-color: #434343;} .tag-color-10721 { color: #434343;}.tag-background-color-10721, .tag-background-color-hover-10721:hover, .tag-background-color-hover-10721.active{ background-color: #434343;} .tag-color-10722 { color: #434343;}.tag-background-color-10722, .tag-background-color-hover-10722:hover, .tag-background-color-hover-10722.active{ background-color: #434343;} .tag-color-10723 { color: #434343;}.tag-background-color-10723, .tag-background-color-hover-10723:hover, .tag-background-color-hover-10723.active{ background-color: #434343;} .tag-color-10724 { color: #434343;}.tag-background-color-10724, .tag-background-color-hover-10724:hover, .tag-background-color-hover-10724.active{ background-color: #434343;} .tag-color-10725 { color: #434343;}.tag-background-color-10725, .tag-background-color-hover-10725:hover, .tag-background-color-hover-10725.active{ background-color: #434343;} .tag-color-10726 { color: #434343;}.tag-background-color-10726, .tag-background-color-hover-10726:hover, .tag-background-color-hover-10726.active{ background-color: #434343;} .tag-color-10727 { color: #434343;}.tag-background-color-10727, .tag-background-color-hover-10727:hover, .tag-background-color-hover-10727.active{ background-color: #434343;} .tag-color-10728 { color: #434343;}.tag-background-color-10728, .tag-background-color-hover-10728:hover, .tag-background-color-hover-10728.active{ background-color: #434343;} .tag-color-10729 { color: #434343;}.tag-background-color-10729, .tag-background-color-hover-10729:hover, .tag-background-color-hover-10729.active{ background-color: #434343;} .tag-color-10730 { color: #434343;}.tag-background-color-10730, .tag-background-color-hover-10730:hover, .tag-background-color-hover-10730.active{ background-color: #434343;} .tag-color-10731 { color: #434343;}.tag-background-color-10731, .tag-background-color-hover-10731:hover, .tag-background-color-hover-10731.active{ background-color: #434343;} .tag-color-10732 { color: #434343;}.tag-background-color-10732, .tag-background-color-hover-10732:hover, .tag-background-color-hover-10732.active{ background-color: #434343;} .tag-color-10733 { color: #434343;}.tag-background-color-10733, .tag-background-color-hover-10733:hover, .tag-background-color-hover-10733.active{ background-color: #434343;} .tag-color-10734 { color: #434343;}.tag-background-color-10734, .tag-background-color-hover-10734:hover, .tag-background-color-hover-10734.active{ background-color: #434343;} .tag-color-10735 { color: #434343;}.tag-background-color-10735, .tag-background-color-hover-10735:hover, .tag-background-color-hover-10735.active{ background-color: #434343;} .tag-color-26332 { color: #434343;}.tag-background-color-26332, .tag-background-color-hover-26332:hover, .tag-background-color-hover-26332.active{ background-color: #434343;} 
+</style>
+<link rel="stylesheet" id="jquery-ui-css-css" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.13.3/themes/smoothness/jquery-ui.css" media="">
+<script src="https://www.lepetitjournal.net/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script><script src="https://cdn.appconsent.io/tcf2-clear/current/core.bundle.js"></script>
+<script src="https://www.lepetitjournal.net/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script src="https://cdn.lepetitjournal.net/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.9.3.6" id="jquery-blockui-js" defer="" data-wp-strategy="defer"></script>
+<script src="https://cdn.lepetitjournal.net/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.9.3.6" id="js-cookie-js" defer="" data-wp-strategy="defer"></script>
+<script id="woocommerce-js-extra">
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%"};
+</script>
+<script src="https://cdn.lepetitjournal.net/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=9.3.6" id="woocommerce-js" defer="" data-wp-strategy="defer"></script>
+<script async="async" src="//ads.sportslocalmedia.com/slm.prebid.lepetitjournalnet.js?ver=627d66cb58618f00a7d227c5f60d71c1" id="akcelo-js"></script>
+<script id="akcelo-js-after">
+1
+</script>
+<script src="https://cdn.lepetitjournal.net/themes/periwinkle-v2/js/spfct_v3_petitjournal.js?ver=627d66cb58618f00a7d227c5f60d71c1" id="sptrack-js"></script>
+
+<!-- Extrait de code de la balise Google (gtag.js) ajouté par Site Kit -->
+<!-- Extrait Google Analytics ajouté par Site Kit -->
+<script src="https://www.googletagmanager.com/gtag/js?id=GT-MKBFXD9" id="google_gtagjs-js" async=""></script>
+<script id="google_gtagjs-js-after">
+window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}
+gtag("set","linker",{"domains":["www.lepetitjournal.net"]});
+gtag("js", new Date());
+gtag("set", "developer_id.dZTNiMT", true);
+gtag("config", "GT-MKBFXD9");
+</script>
+<link rel="https://api.w.org/" href="https://www.lepetitjournal.net/wp-json/"><link rel="alternate" title="JSON" type="application/json" href="https://www.lepetitjournal.net/wp-json/wp/v2/posts/12514659"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.lepetitjournal.net/xmlrpc.php?rsd">
+
+<link rel="shortlink" href="https://www.lepetitjournal.net/?p=12514659">
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://www.lepetitjournal.net/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.lepetitjournal.net%2F47-lot-et-garonne%2F2024%2F09%2F23%2Fswiss-krono-presente-son-projet-orpinia%2F">
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://www.lepetitjournal.net/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.lepetitjournal.net%2F47-lot-et-garonne%2F2024%2F09%2F23%2Fswiss-krono-presente-son-projet-orpinia%2F&amp;format=xml">
+<meta name="generator" content="Site Kit by Google 1.175.0"><meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Le Petit Journal - Journal d'informations locales">
+	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	<meta name="google-site-verification" content="SC1Jqt2shS0-zBe2oVb4pPAkU0u2O1v0e5Typ5eXGA8"><style id="custom-background-css">
+body.custom-background { background-color: #eeeeee; }
+</style>
+	<link rel="amphtml" href="https://www.lepetitjournal.net/47-lot-et-garonne/2024/09/23/swiss-krono-presente-son-projet-orpinia/amp/"><style id="wp-fonts-local">
+@font-face{font-family:Inter;font-style:normal;font-weight:300 900;font-display:fallback;src:url('https://cdn.lepetitjournal.net/plugins/woocommerce/assets/fonts/Inter-VariableFont_slnt,wght.woff2') format('woff2');font-stretch:normal;}
+@font-face{font-family:Cardo;font-style:normal;font-weight:400;font-display:fallback;src:url('https://cdn.lepetitjournal.net/plugins/woocommerce/assets/fonts/cardo_normal_400.woff2') format('woff2');}
+</style>
+<link rel="icon" href="https://cdn.lepetitjournal.net/uploads/2022/01/cropped-LPJ_favicon-100x100.png" sizes="32x32">
+<link rel="icon" href="https://cdn.lepetitjournal.net/uploads/2022/01/cropped-LPJ_favicon-300x300.png" sizes="192x192">
+<meta name="msapplication-TileImage" content="https://cdn.lepetitjournal.net/uploads/2022/01/cropped-LPJ_favicon-300x300.png">
+		<style id="wp-custom-css">
+			.header-title-single > h2{
+	font-size:1.9em;
+}
+body .grecaptcha-badge{
+	display:none !important;
+}		</style>
+		
+        
+        <script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <script>
+            (adsbygoogle = window.adsbygoogle || []).push({
+                google_ad_client: "ca-pub-6497009750647568",
+                enable_page_level_ads: true
+            });
+        </script>
+        
+    <script async="" src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+    <script>
+        window.googletag = window.googletag || {cmd: []};
+        googletag.cmd.push(function() {
+            googletag.defineSlot('/21688010876/direct_LPJ_bandeau_haut', [[761, 280], [970, 250]], 'div-gpt-ad-1608628685837-0').addService(googletag.pubads());
+            googletag.pubads().enableSingleRequest();
+            googletag.pubads().collapseEmptyDivs();
+            googletag.enableServices();
+        });
+        googletag.cmd.push(function() {
+            googletag.defineSlot('/21688010876/direct_LPJ_bandeau_haut_46', [[970, 250], [761, 280]], 'div-gpt-ad-1608628797513-0').addService(googletag.pubads());
+            googletag.pubads().enableSingleRequest();
+            googletag.pubads().collapseEmptyDivs();
+            googletag.enableServices();
+        });
+
+        /*googletag.cmd.push(function() {
+            googletag.defineSlot('/21688010876/direct_LPJ_bandeau_haut_31', [761, 280], 'div-gpt-ad-1673455793454-0').addService(googletag.pubads());
+            googletag.pubads().enableSingleRequest();
+            googletag.enableServices();
+        });*/
+		  googletag.cmd.push(function() {
+			googletag.defineSlot('/21688010876/direct_LPJ_bandeau_haut_31', [[811, 266], [761, 280]], 'div-gpt-ad-1702393897742-0').addService(googletag.pubads());
+			googletag.pubads().enableSingleRequest();
+			googletag.enableServices();
+		  });
+		  
+		  googletag.cmd.push(function() {
+			googletag.defineSlot('/21688010876/sidebar_right_all_zones', [255, 510], 'div-gpt-ad-1741366146175-0').addService(googletag.pubads());
+			googletag.pubads().enableSingleRequest();
+			googletag.enableServices();
+		  });
+    </script>
+<style>.wg-loader-p[data-v-55c33628]{background:var(--31d93014);border-bottom:1px solid var(--07d13f9a)}</style><style>#wgWidgetScreen .wg-widget-title[data-v-3b301c6f]{color:var(--1084ee47);font-size:var(--3b273f3c);font-weight:var(--73ce6c4f)}</style><style>#wgWidgetScreen .wg-widget-command[data-v-62e86c4d]{display:flex;justify-content:center;flex-direction:column;align-items:center;margin:auto}#wgWidgetScreen .wg-widget-command__icon[data-v-62e86c4d]{width:60px;height:60px}#wgWidgetScreen .wg-widget-command__name[data-v-62e86c4d]{margin-top:4px;color:var(--ca11612e);font-size:var(--91c9f8f8);font-weight:var(--309eeaf1);line-height:16px}</style><style>#wgWidgetScreen .wg-widget-score[data-v-78c5cd43]{margin:0 16px;display:flex;justify-content:center;align-items:center;flex-direction:column}#wgWidgetScreen .wg-widget-score .wg-score[data-v-78c5cd43]{color:var(--0b9df8dc);font-size:var(--8b070edc);font-weight:var(--7de92cec)}#wgWidgetScreen .wg-widget-score .wg-score .wg-green[data-v-78c5cd43]{color:var(--0d99d923)}#wgWidgetScreen .wg-widget-score .wg-score .wg-up-score[data-v-78c5cd43]{color:var(--60b6cab1)}#wgWidgetScreen .wg-widget-score .wg-score .wg-down-score[data-v-78c5cd43]{color:var(--67d7e1a2)}#wgWidgetScreen .wg-widget-score .wg-score .wg-score__divider[data-v-78c5cd43]{margin:0 8px}#wgWidgetScreen .wg-widget-score .wg-status[data-v-78c5cd43]{background:var(--0c1fbafe);color:var(--67d7e1a2);padding:0 8px;border-radius:8px;width:fit-content;margin:auto;font-size:var(--f86c4286);font-weight:var(--03be8d58)}#wgWidgetScreen .wg-widget-score .wg-live[data-v-78c5cd43]{color:var(--60b6cab1)}#wgWidgetScreen .wg-widget-score .wg-pen-score[data-v-78c5cd43]{color:var(--8b9016ac);font-size:var(--f86c4286);font-weight:var(--03be8d58)}</style><style>#wgWidgetScreen .wg-widget-placeholder[data-v-d6249f0a]{display:flex;flex-direction:row;align-items:center;border-radius:2px;padding:4px 8px;background-color:var(--4ad1747f);font-size:var(--2a2c557e);font-weight:var(--240d1ab3);color:var(--27988709);margin:8px 0}#wgWidgetScreen .wg-widget-placeholder__icon[data-v-d6249f0a]{margin-right:4px}</style><style>#wgWidgetScreen .wg-widget-container[data-v-d05217d0]{padding:8px;display:flex;flex-direction:column}#wgWidgetScreen .wg-widget-container .wgwidget-game__info[data-v-d05217d0]{display:flex;flex-direction:row}</style><style>#wgWidgetScreen{height:100%}.wg-wrapper[data-v-21cbf1ea]{font-family:var(--07379a9f);height:100%}</style><script src="https://www.lepetitjournal.net/wp-includes/js/wp-emoji-release.min.js?ver=627d66cb58618f00a7d227c5f60d71c1" defer=""></script><meta http-equiv="origin-trial" content="AlK2UR5SkAlj8jjdEc9p3F3xuFYlF6LYjAML3EOqw1g26eCwWPjdmecULvBH5MVPoqKYrOfPhYVL71xAXI1IBQoAAAB8eyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiV2ViVmlld1hSZXF1ZXN0ZWRXaXRoRGVwcmVjYXRpb24iLCJleHBpcnkiOjE3NTgwNjcxOTksImlzU3ViZG9tYWluIjp0cnVlfQ=="><meta http-equiv="origin-trial" content="Amm8/NmvvQfhwCib6I7ZsmUxiSCfOxWxHayJwyU1r3gRIItzr7bNQid6O8ZYaE1GSQTa69WwhPC9flq/oYkRBwsAAACCeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiV2ViVmlld1hSZXF1ZXN0ZWRXaXRoRGVwcmVjYXRpb24iLCJleHBpcnkiOjE3NTgwNjcxOTksImlzU3ViZG9tYWluIjp0cnVlfQ=="><meta http-equiv="origin-trial" content="A9nrunKdU5m96PSN1XsSGr3qOP0lvPFUB2AiAylCDlN5DTl17uDFkpQuHj1AFtgWLxpLaiBZuhrtb2WOu7ofHwEAAACKeyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiQUlQcm9tcHRBUElNdWx0aW1vZGFsSW5wdXQiLCJleHBpcnkiOjE3NzQzMTA0MDAsImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><meta http-equiv="origin-trial" content="A93bovR+QVXNx2/38qDbmeYYf1wdte9EO37K9eMq3r+541qo0byhYU899BhPB7Cv9QqD7wIbR1B6OAc9kEfYCA4AAACQeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiQUlQcm9tcHRBUElNdWx0aW1vZGFsSW5wdXQiLCJleHBpcnkiOjE3NzQzMTA0MDAsImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><meta http-equiv="origin-trial" content="A1S5fojrAunSDrFbD8OfGmFHdRFZymSM/1ss3G+NEttCLfHkXvlcF6LGLH8Mo5PakLO1sCASXU1/gQf6XGuTBgwAAACQeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXRhZ3NlcnZpY2VzLmNvbTo0NDMiLCJmZWF0dXJlIjoiQUlQcm9tcHRBUElNdWx0aW1vZGFsSW5wdXQiLCJleHBpcnkiOjE3NzQzMTA0MDAsImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><meta http-equiv="origin-trial" content="AlK2UR5SkAlj8jjdEc9p3F3xuFYlF6LYjAML3EOqw1g26eCwWPjdmecULvBH5MVPoqKYrOfPhYVL71xAXI1IBQoAAAB8eyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiV2ViVmlld1hSZXF1ZXN0ZWRXaXRoRGVwcmVjYXRpb24iLCJleHBpcnkiOjE3NTgwNjcxOTksImlzU3ViZG9tYWluIjp0cnVlfQ=="><meta http-equiv="origin-trial" content="Amm8/NmvvQfhwCib6I7ZsmUxiSCfOxWxHayJwyU1r3gRIItzr7bNQid6O8ZYaE1GSQTa69WwhPC9flq/oYkRBwsAAACCeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiV2ViVmlld1hSZXF1ZXN0ZWRXaXRoRGVwcmVjYXRpb24iLCJleHBpcnkiOjE3NTgwNjcxOTksImlzU3ViZG9tYWluIjp0cnVlfQ=="><meta http-equiv="origin-trial" content="A9nrunKdU5m96PSN1XsSGr3qOP0lvPFUB2AiAylCDlN5DTl17uDFkpQuHj1AFtgWLxpLaiBZuhrtb2WOu7ofHwEAAACKeyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiQUlQcm9tcHRBUElNdWx0aW1vZGFsSW5wdXQiLCJleHBpcnkiOjE3NzQzMTA0MDAsImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><meta http-equiv="origin-trial" content="A93bovR+QVXNx2/38qDbmeYYf1wdte9EO37K9eMq3r+541qo0byhYU899BhPB7Cv9QqD7wIbR1B6OAc9kEfYCA4AAACQeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiQUlQcm9tcHRBUElNdWx0aW1vZGFsSW5wdXQiLCJleHBpcnkiOjE3NzQzMTA0MDAsImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><meta http-equiv="origin-trial" content="A1S5fojrAunSDrFbD8OfGmFHdRFZymSM/1ss3G+NEttCLfHkXvlcF6LGLH8Mo5PakLO1sCASXU1/gQf6XGuTBgwAAACQeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXRhZ3NlcnZpY2VzLmNvbTo0NDMiLCJmZWF0dXJlIjoiQUlQcm9tcHRBUElNdWx0aW1vZGFsSW5wdXQiLCJleHBpcnkiOjE3NzQzMTA0MDAsImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><script src="https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202603190101/pubads_impl.js" async=""></script><link href="https://securepubads.g.doubleclick.net/pagead/managed/dict/m202603240101/gpt" rel="compression-dictionary"><script src="https://www.google.com/cse/static/element/b33cba5881f68fbf/cse_element__fr.js?usqp=CAM%3D" type="text/javascript"></script><link type="text/css" href="https://www.google.com/cse/static/element/b33cba5881f68fbf/default_v6+fr.css" rel="stylesheet"><link type="text/css" href="https://www.google.com/cse/static/style/look/v6/default.css" rel="stylesheet"><style type="text/css">.gsc-control-cse{font-family:arial, sans-serif}.gsc-control-cse .gsc-table-result{font-family:arial, sans-serif}.gsc-refinementsGradient{background:linear-gradient(to left,rgba(255,255,255,1),rgba(255,255,255,0))}.gsc-control-cse{border-color:#FFFFFF;background-color:#FFFFFF}.gsc-results-wrapper-overlay{background-color:#FFFFFF}input.gsc-input,.gsc-input-box,.gsc-input-box-hover,.gsc-input-box-focus{border-color:#D2D2D2}.gsc-search-button-v2,.gsc-search-button-v2:hover,.gsc-search-button-v2:focus{border-color:#FFFFFF;background-color:#ED1C24;background-image:none;filter:none}.gsc-search-button-v2 svg{fill:#FFFFFF}.gsc-tabHeader.gsc-tabhActive,.gsc-refinementHeader.gsc-refinementhActive{color:#ED1C24;border-color:#ED1C24;background-color:#FFFFFF}.gsc-tabHeader.gsc-tabhInactive,.gsc-refinementHeader.gsc-refinementhInactive{color:#4D5156;border-color:#4D5156;background-color:#FFFFFF}.gsc-webResult.gsc-result,.gsc-results .gsc-imageResult{border-color:#FFFFFF;background-color:#FFFFFF}.gsc-webResult.gsc-result:hover{border-color:#FFFFFF;background-color:#FFFFFF}.gs-webResult.gs-result a.gs-title:link,.gs-webResult.gs-result a.gs-title:link b,.gs-imageResult a.gs-title:link,.gs-imageResult a.gs-title:link b{color:#ED1C24}.gs-webResult.gs-result a.gs-title:visited,.gs-webResult.gs-result a.gs-title:visited b,.gs-imageResult a.gs-title:visited,.gs-imageResult a.gs-title:visited b{color:#ED1C24}.gs-webResult.gs-result a.gs-title:hover,.gs-webResult.gs-result a.gs-title:hover b,.gs-imageResult a.gs-title:hover,.gs-imageResult a.gs-title:hover b{color:#ED1C24}.gs-webResult.gs-result a.gs-title:active,.gs-webResult.gs-result a.gs-title:active b,.gs-imageResult a.gs-title:active,.gs-imageResult a.gs-title:active b{color:#ED1C24}.gsc-cursor-page{color:#ED1C24}a.gsc-trailing-more-results:link{color:#ED1C24}.gs-webResult:not(.gs-no-results-result):not(.gs-error-result) .gs-snippet,.gs-fileFormatType{color:#4D5156}.gs-webResult div.gs-visibleUrl{color:#666666}.gs-webResult div.gs-visibleUrl-short{color:#666666}.gs-webResult div.gs-visibleUrl-short{display:none}.gs-webResult div.gs-visibleUrl-long{display:block}.gs-webResult div.gs-visibleUrl-breadcrumb{display:none}.gs-promotion div.gs-visibleUrl-short{display:none}.gs-promotion div.gs-visibleUrl-long{display:block}.gs-promotion div.gs-visibleUrl-breadcrumb{display:none}.gsc-cursor-box{border-color:#FFFFFF}.gsc-results .gsc-cursor-box .gsc-cursor-page{border-color:#4D5156;background-color:#FFFFFF;color:#4D5156}.gsc-results .gsc-cursor-box .gsc-cursor-current-page{border-color:#ED1C24;background-color:#FFFFFF;color:#ED1C24}.gsc-webResult.gsc-result.gsc-promotion{border-color:#FFFFFF;background-color:#F6F6F6}.gsc-completion-container{border-color:#D2D2D2}.gsc-completion-title{color:#ED1C24}.gsc-completion-snippet{color:#4D5156}.gs-promotion a.gs-title:link,.gs-promotion a.gs-title:link *,.gs-promotion .gs-snippet a:link{color:#ED1C24}.gs-promotion a.gs-title:visited,.gs-promotion a.gs-title:visited *,.gs-promotion .gs-snippet a:visited{color:#ED1C24}.gs-promotion a.gs-title:hover,.gs-promotion a.gs-title:hover *,.gs-promotion .gs-snippet a:hover{color:#ED1C24}.gs-promotion a.gs-title:active,.gs-promotion a.gs-title:active *,.gs-promotion .gs-snippet a:active{color:#ED1C24}.gs-promotion .gs-snippet,.gs-promotion .gs-title .gs-promotion-title-right,.gs-promotion .gs-title .gs-promotion-title-right *{color:#4D5156}.gs-promotion .gs-visibleUrl,.gs-promotion .gs-visibleUrl-short{color:#202124}.gcsc-find-more-on-google{color:#ED1C24}.gcsc-find-more-on-google-magnifier{fill:#ED1C24}</style><style type="text/css">.gscb_a{display:inline-block;font:27px/13px arial,sans-serif}.gsst_a .gscb_a{color:#a1b9ed;cursor:pointer}.gsst_a:hover .gscb_a,.gsst_a:focus .gscb_a{color:#36c}.gsst_a{display:inline-block}.gsst_a{cursor:pointer;padding:0 4px}.gsst_a:hover{text-decoration:none!important}.gsst_b{font-size:16px;padding:0 2px;position:relative;user-select:none;-webkit-user-select:none;white-space:nowrap}.gsst_e{vertical-align:middle;opacity:0.55;}.gsst_a:hover .gsst_e,.gsst_a:focus .gsst_e{opacity:0.72;}.gsst_a:active .gsst_e{opacity:1;}.gsst_f{background:white;text-align:left}.gsst_g{background-color:white;border:1px solid #ccc;border-top-color:#d9d9d9;box-shadow:0 2px 4px rgba(0,0,0,0.2);-webkit-box-shadow:0 2px 4px rgba(0,0,0,0.2);margin:-1px -3px;padding:0 6px}.gsst_h{background-color:white;height:1px;margin-bottom:-1px;position:relative;top:-1px}.gsib_a{width:100%;padding:4px 6px 0}.gsib_a,.gsib_b{vertical-align:top}.gssb_c{border:0;position:absolute;z-index:989}.gssb_e{border:1px solid #ccc;border-top-color:#d9d9d9;box-shadow:0 2px 4px rgba(0,0,0,0.2);-webkit-box-shadow:0 2px 4px rgba(0,0,0,0.2);cursor:default}.gssb_f{visibility:hidden;white-space:nowrap}.gssb_k{border:0;display:block;position:absolute;top:0;z-index:988}.gsdd_a{border:none!important}.gsq_a{padding:0}.gssb_a{padding:0 7px}.gssb_a,.gssb_a td{white-space:nowrap;overflow:hidden;line-height:22px}#gssb_b{font-size:11px;color:#36c;text-decoration:none}#gssb_b:hover{font-size:11px;color:#36c;text-decoration:underline}.gssb_g{text-align:center;padding:8px 0 7px;position:relative}.gssb_h{font-size:15px;height:28px;margin:0.2em;-webkit-appearance:button}.gssb_i{background:#eee}.gss_ifl{visibility:hidden;padding-left:5px}.gssb_i .gss_ifl{visibility:visible}a.gssb_j{font-size:13px;color:#36c;text-decoration:none;line-height:100%}a.gssb_j:hover{text-decoration:underline}.gssb_l{height:1px;background-color:#e5e5e5}.gssb_m{color:#000;background:#fff}.gssb_a{padding:8px 16px}.gsib_a{padding:4px 10px 4px 56px}.gscb_a{line-height:27px}.gssb_e{border:0}.gssb_l{margin:5px 0}input.gsc-input::-webkit-input-placeholder{font-size:14px}input.gsc-input:-moz-placeholder{font-size:14px}input.gsc-input::-moz-placeholder{font-size:14px}input.gsc-input:-ms-input-placeholder{font-size:14px}input.gsc-input:focus::-webkit-input-placeholder{color:transparent}input.gsc-input:focus:-moz-placeholder{color:transparent}input.gsc-input:focus::-moz-placeholder{color:transparent}input.gsc-input:focus:-ms-input-placeholder{color:transparent}.gssb_c .gsc-completion-container{position:static}.gssb_c{z-index:5000}.gsc-completion-container table{background:transparent;font-size:inherit;font-family:inherit}.gssb_c > tbody > tr,.gssb_c > tbody > tr > td,.gssb_d,.gssb_d > tbody > tr,.gssb_d > tbody > tr > td,.gssb_e,.gssb_e > tbody > tr,.gssb_e > tbody > tr > td{padding:0;margin:0;border:0}.gssb_a table,.gssb_a table tr,.gssb_a table tr td{padding:0;margin:0;border:0}.gssb_a,.gssb_a td{line-height:24px}</style><style>.appconsent_noscroll { overflow: hidden !important; }</style><meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1"></head>
+
+<body class="post-template-default single single-post postid-12514659 single-format-standard custom-background wp-embed-responsive theme-understrap woocommerce-js group-blog appconsent_noscroll">
+
+    <iframe name="__tcfapiLocator" style="display: none;"></iframe><div class="d-none">
+	<p style="text-align:center; font-size:2em; color:red;">
+	Si vous voyez ceci, il y a un souci, maintenez la touche [Crtl] puis la touche [ Maj / Shift ] appuyez sur la touche [R] puis relachez ou videz le cache du navigateur.
+	</p>
+</div>
+<header id="header">
+
+        <!-- ******************* The Navbar Area One ******************* -->
+    
+<div id="header-before" class="bg-light d-none d-lg-block">
+    <div class="container">
+        <div class="row">
+
+            <div class="col-lg-8 col-12">
+                <div id="_desktop_header_before_left">
+                    <!-- menu principal -->
+                    <div id="sliding-menu">
+                        <div class="menu-sidebar"><ul id="secondary-menu" class="menu"><li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-37205" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-37205 nav-item"><a title=" Proposer un article" href="https://www.lepetitjournal.net/proposer-un-article/" class="nav-link"><i class="fa fa-plus-square" aria-hidden="true"></i> Proposer un article</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-37204" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-37204 nav-item"><a title="Contact" href="https://www.lepetitjournal.net/contactez-nous/" class="nav-link">Contact</a></li>
+</ul></div>                    </div><!-- menu principal end -->
+
+                    <!-- search -->
+                    <div id="_desktop_search_google" class="search-width">
+                        <!--	<form method="get" id="searchform" action="--><!--" role="search">-->
+<!--		<label for="s" class="assistive-text sr-only">--><!--</label>-->
+<!--		<div class="input-group">-->
+<!--			<input type="text" class="field form-control" name="s" id="s" placeholder="--><!--" />-->
+<!--			<span class="input-group-btn">-->
+<!--				<button type="submit" class="submit btn " name="submit" id="searchsubmit" value="--><!--"><span class="fa fa-search"></span></button>-->
+<!---->
+<!--			</span>-->
+<!--		</div>-->
+<!--	</form>-->
+
+
+<script async="" src="https://cse.google.com/cse.js?cx=016566120025848379451:urntjhgxyxj"></script>
+<div id="___gcse_0" dir="ltr"><form class="gsc-search-box gsc-search-box-tools" accept-charset="utf-8"><table cellspacing="0" cellpadding="0" role="presentation" class="gsc-search-box"><tbody><tr><td class="gsc-input"><div class="gsc-input-box" id="gsc-iw-id1"><table cellspacing="0" cellpadding="0" role="presentation" id="gs_id50" class="gstl_50 gsc-input" style="width: 100%; padding: 0px;"><tbody><tr><td id="gs_tti50" class="gsib_a"><input autocomplete="off" type="text" size="10" class="gsc-input" name="search" title="rechercher" aria-label="rechercher" id="gsc-i-id1" style="width: 100%; padding: 0px; border: none; margin: 0px; height: auto; background: url(&quot;https://www.google.com/cse/static/images/1x/fr/branding.png&quot;) left center no-repeat rgb(255, 255, 255); outline: none;" dir="ltr" spellcheck="false"></td><td class="gsib_b"><div class="gsst_b" id="gs_st50" dir="ltr"><a class="gsst_a" href="javascript:void(0)" style="display: none;" title="Effacer le contenu du champ de recherche" role="button"><span class="gscb_a" id="gs_cb50" aria-hidden="true">×</span></a></div></td></tr></tbody></table></div></td><td class="gsc-search-button"><button class="gsc-search-button gsc-search-button-v2"><svg width="13" height="13" viewBox="0 0 13 13"><title>rechercher</title><path d="m4.8495 7.8226c0.82666 0 1.5262-0.29146 2.0985-0.87438 0.57232-0.58292 0.86378-1.2877 0.87438-2.1144 0.010599-0.82666-0.28086-1.5262-0.87438-2.0985-0.59352-0.57232-1.293-0.86378-2.0985-0.87438-0.8055-0.010599-1.5103 0.28086-2.1144 0.87438-0.60414 0.59352-0.8956 1.293-0.87438 2.0985 0.021197 0.8055 0.31266 1.5103 0.87438 2.1144 0.56172 0.60414 1.2665 0.8956 2.1144 0.87438zm4.4695 0.2115 3.681 3.6819-1.259 1.284-3.6817-3.7 0.0019784-0.69479-0.090043-0.098846c-0.87973 0.76087-1.92 1.1413-3.1207 1.1413-1.3553 0-2.5025-0.46363-3.4417-1.3909s-1.4088-2.0686-1.4088-3.4239c0-1.3553 0.4696-2.4966 1.4088-3.4239 0.9392-0.92727 2.0864-1.3969 3.4417-1.4088 1.3553-0.011889 2.4906 0.45771 3.406 1.4088 0.9154 0.95107 1.379 2.0924 1.3909 3.4239 0 1.2126-0.38043 2.2588-1.1413 3.1385l0.098834 0.090049z"></path></svg></button></td><td class="gsc-clear-button"><div class="gsc-clear-button" title="effacer les résultats">&nbsp;</div></td></tr></tbody></table></form></div>
+                    </div><!-- search end -->
+
+                    
+                </div>
+            </div>
+
+            <div id="_desktop_header_before_right" class="col-lg-4 col-12">
+                <!-- subscriber -->
+                <div id="subscriber">
+                    <a href="https://www.lepetitjournal.net/boutique/" class="btn" target="_blank">
+                        <i class="fa fa-envelope-o" aria-hidden="true"></i>
+                        Abonnez-vous !                    </a>
+                </div><!-- subscriber end -->
+                <!-- connexion btn -->
+                <div id="login">
+
+                                            <a href="https://www.lepetitjournal.net/mon-compte/" title="Mon Compte">
+                            <i class="fa fa-user" aria-hidden="true"></i>
+                            Connexion                        </a>
+                                    </div><!-- connexion btn end -->
+            </div>
+        </div>
+    </div>
+</div><!-- The Navbar One End -->
+
+    <!-- ******************* The Navbar Area Two ******************* -->
+    
+<div class="bg-white d-none d-lg-block">
+    <div class="container">
+        <section class="row">
+            <!-- choose the edition -->
+            <div class="col-lg-4 col-12">
+                <!-- edition -->
+                <div id="_desktop_accordionTwo">
+                    <!-- btn edition -->
+                    <div id="headingTwo">
+                        <button class="btn btn-link btn-primary " data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                <span class="text-white">
+                                                            Lot et Garonne                                                            </span>
+                            <i class="fa fa-angle-down text-white" aria-hidden="true"></i>
+                        </button>
+                                                    <div class="code_department">
+                                47                            </div>
+                                            </div><!-- btn edition -->
+
+                    <!-- edition content -->
+                    <div id="collapseTwo" class="collapse card" aria-labelledby="headingTwo" data-parent="#_desktop_accordionTwo">
+                        <nav class="card-body">
+                            <div class="menu-menu-principal-container"><ul id="main-menu" class=""><li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-43358" class="root-cat menu-item menu-item-type-custom menu-item-object-custom menu-item-43358 nav-item"><a title="Ariège" href="https://www.lepetitjournal.net/09-ariege/accueil/" class="nav-link">Ariège</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-43359" class="root-cat menu-item menu-item-type-custom menu-item-object-custom menu-item-43359 nav-item"><a title="Aude" href="https://www.lepetitjournal.net/11-aude/accueil/" class="nav-link">Aude</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-43361" class="root-cat menu-item menu-item-type-custom menu-item-object-custom menu-item-43361 nav-item"><a title="Aveyron" href="https://www.lepetitjournal.net/12-aveyron/accueil/" class="nav-link">Aveyron</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-43364" class="root-cat menu-item menu-item-type-custom menu-item-object-custom menu-item-43364 nav-item"><a title="Gers" href="https://www.lepetitjournal.net/32-gers/accueil/" class="nav-link">Gers</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-43363" class="root-cat menu-item menu-item-type-custom menu-item-object-custom menu-item-43363 nav-item"><a title="Haute-Garonne" href="https://www.lepetitjournal.net/31-haute-garonne/accueil/" class="nav-link">Haute-Garonne</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-43368" class="root-cat menu-item menu-item-type-custom menu-item-object-custom menu-item-43368 nav-item"><a title="Hautes-Pyrénées" href="https://www.lepetitjournal.net/65-hautes-pyrenees/accueil/" class="nav-link">Hautes-Pyrénées</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-43365" class="root-cat menu-item menu-item-type-custom menu-item-object-custom menu-item-43365 nav-item"><a title="Hérault" href="https://www.lepetitjournal.net/34-herault/accueil/" class="nav-link">Hérault</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-9744739" class="root-cat menu-item menu-item-type-custom menu-item-object-custom menu-item-9744739 nav-item"><a title="Landes" href="https://www.lepetitjournal.net/40-landes/accueil/" class="nav-link">Landes</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-43366" class="root-cat menu-item menu-item-type-custom menu-item-object-custom menu-item-43366 nav-item"><a title="Lot" href="https://www.lepetitjournal.net/46-lot/accueil/" class="nav-link">Lot</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-43367" class="root-cat menu-item menu-item-type-custom menu-item-object-custom menu-item-43367 nav-item"><a title="Lot et Garonne" href="https://www.lepetitjournal.net/47-lot-et-garonne/accueil/" class="nav-link">Lot et Garonne</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-43369" class="root-cat menu-item menu-item-type-custom menu-item-object-custom menu-item-43369 nav-item"><a title="Pyrénées-Orientales" href="https://www.lepetitjournal.net/66-pyrenees-orientales/accueil/" class="nav-link">Pyrénées-Orientales</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-43370" class="root-cat menu-item menu-item-type-custom menu-item-object-custom menu-item-43370 nav-item"><a title="Tarn et Garonne" href="https://www.lepetitjournal.net/82-tarn-et-garonne/accueil/" class="nav-link">Tarn et Garonne</a></li>
+</ul></div>                        </nav>
+                    </div><!-- edition content end -->
+                </div><!-- edition end -->
+
+                <!-- search bar result white -->
+                <div id="_desktop_search_result_google">
+                    <div id="___gcse_1"><div class="gsc-control-cse gsc-control-cse-fr"><div class="gsc-control-wrapper-cse" dir="ltr"><div class="gsc-results-wrapper-overlay"><div class="gsc-results-close-btn" tabindex="0"></div><div class="gsc-positioningWrapper"><div class="gsc-tabsAreaInvisible"><div aria-label="refinement" role="tab" class="gsc-tabHeader gsc-inline-block gsc-tabhActive">Recherche personnalisée</div><span class="gs-spacer"> </span></div></div><div class="gsc-positioningWrapper"><div class="gsc-refinementsAreaInvisible"></div></div><div class="gsc-above-wrapper-area-invisible"><div class="gsc-above-wrapper-area-backfill-container"></div><table cellspacing="0" cellpadding="0" role="presentation" class="gsc-above-wrapper-area-container"><tbody><tr><td class="gsc-result-info-container"><div class="gsc-result-info-invisible"></div></td><td class="gsc-orderby-container"><div class="gsc-orderby-invisible"><div class="gsc-option-menu-container gsc-inline-block"><div class="gsc-orderby-label gsc-inline-block">Trier par</div><div class="gsc-selected-option-container gsc-inline-block"><div class="gsc-option-selector"></div></div><div class="gsc-option-menu-invisible"><div class="gsc-option-menu-item"><div class="gsc-option-checkbox gsc-inline-block gsc-option-checkbox-checked"></div><div class="gsc-option gsc-inline-block">Relevance</div></div><div class="gsc-option-menu-item"><div class="gsc-option-checkbox gsc-inline-block"></div><div class="gsc-option gsc-inline-block">Date</div></div></div></div></div></td></tr></tbody></table></div><div class="gsc-adBlockInvisible"></div><div class="gsc-wrapper"><div class="gsc-adBlockInvisible"></div><div class="gsc-resultsbox-invisible"><div class="gsc-resultsRoot gsc-tabData gsc-tabdActive"><div><div class="gsc-expansionArea"></div></div></div></div></div></div><div class="gsc-modal-background-image" tabindex="0"></div></div></div></div>
+                </div><!-- search bar result white end -->
+
+            </div><!-- choose the edition end -->
+
+            <!-- logo -->
+            <div id="_desktop_logo" class="col-lg-4 col-8">
+                <a class="navbar-brand" href="https://www.lepetitjournal.net/" title="Le Petit Journal" rel="home">
+                    <img src="https://cdn.lepetitjournal.net/themes/periwinkle-v2/images/Le_Petit_Journal_Logo.svg" alt="Le Petit Journal" title="Journal d'informations locales" class="img-fluid logo">
+                </a>
+            </div><!-- logo end -->
+
+            <!-- button "annonces légales"-->
+            <!--<div id="_desktop_header_right" class="col-lg-4 col-12">
+                <a class="btn btn-primary" href="">
+                                    </a>
+            </div>--><!-- button "annonces légales" end -->
+            <div class="d-flex flex-column col-lg-4 col-12" style="gap: .3rem;">
+                <div id="_desktop_accordionThree" class="col-12">
+                    <div id="headingThree">
+                        <button class="btn btn-link btn-light" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                <span class="text-white">
+                                <svg fill="#FFFFFF" class="mr-1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="19px" viewBox="0 0 880.899 880.899" xml:space="preserve"><g><path d="M530.25,537.2c9.9-48.7,25.2-124.301,25.3-124.4c28.9-33.9,46.7-173.9,46.7-225.3C602.25,83.9,529.85,0,440.45,0s-161.8,84-161.8,187.5c0,51.4,17.8,191.399,46.7,225.3c0,0,15.399,75.7,25.3,124.4H530.25z"></path><path d="M73.95,793.1c-0.7,0-1.4,0-2.1-0.1v37.899c0,27.601,22.4,50,50,50h637.2c27.601,0,50-22.399,50-50V793c-0.699,0-1.399,0.1-2.1,0.1H73.95z"></path><path d="M824.25,755.8c5.601-2.1,10.7-5.1,15.2-8.9c10.7-9.199,17.5-22.8,17.5-38V621.5c0-27.601-22.4-50-50-50h-283.6H357.549H73.95c-27.6,0-50,22.399-50,50v87.399c0,15.2,6.8,28.801,17.5,38c4.5,3.801,9.6,6.801,15.2,8.9c4.8,1.8,9.9,2.8,15.2,3	c0.7,0,1.4,0.1,2.1,0.1h732.9c0.699,0,1.399,0,2.1-0.1C814.35,758.6,819.45,757.5,824.25,755.8z"></path></g></svg>
+                                    Publier votre annonce légale                                </span>
+                            <i class="fa fa-angle-down text-white" aria-hidden="true"></i>
+                        </button>
+                    </div>
+
+                    <div id="collapseThree" class="collapse card" aria-labelledby="headingThree" data-parent="#_desktop_accordionThree">
+                        <nav class="card-body">
+                            <div class="menu-publier-annonce-legale-container"><ul id="menu-publier-annonce-legale" class=""><li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-10303469" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10303469 nav-item"><a title="Particuliers, chefs d'entreprise" href="http://legales.lepetitjournal.net" class="nav-link">Particuliers, chefs d’entreprise</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-10303470" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10303470 nav-item"><a title="Professionnels du droit/du chiffre" href="http://legalespro.lepetitjournal.net" class="nav-link">Professionnels du droit/du chiffre</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-10303471" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10303471 nav-item"><a title="Collectivités et marchés publics" href="http://legalespro.lepetitjournal.net" class="nav-link">Collectivités et marchés publics</a></li>
+</ul></div>                        </nav>
+                    </div>
+                </div>
+
+                <div id="_desktop_accordionFour" class="col-12">
+                    <div id="headingFour">
+                        <button class="btn btn-link btn-secondary btn-block d-flex justify-content-between" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+                                <span class="text-white">
+                                <i class="fa fa-list fa-lg mr-1"></i> Consulter votre annonce légale                                </span>
+                            <i class="fa fa-angle-down text-white" aria-hidden="true"></i>
+                        </button>
+                    </div>
+
+                    <div id="collapseFour" class="collapse card" aria-labelledby="headingFour" data-parent="#_desktop_accordionFour">
+                        <nav class="card-body">
+                            <div class="menu-consulter-annonce-legale-container"><ul id="menu-consulter-annonce-legale" class=""><li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-10316485" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10316485 nav-item"><a title="Publication &quot;journal papier&quot;" href="http://legalesconsultation.lepetitjournal.net" class="nav-link">Publication «&nbsp;journal papier&nbsp;»</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-11454914" class="pe-none menu-item menu-item-type-custom menu-item-object-custom menu-item-11454914 nav-item"><a title="Publication &quot;site internet&quot;" href="#" class="nav-link">Publication «&nbsp;site internet&nbsp;»</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-10303479" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10303479 nav-item"><a title="09 - Ariège" href="https://www.lepetitjournal.net/09-ariege/annonces-legales/" class="nav-link">09 – Ariège</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-10303476" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10303476 nav-item"><a title="11 - Aude" href="https://www.lepetitjournal.net/11-aude/annonces-legales/" class="nav-link">11 – Aude</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-10303482" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10303482 nav-item"><a title="12 - Aveyron" href="https://www.lepetitjournal.net/12-aveyron/annonces-legales/" class="nav-link">12 – Aveyron</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-10303475" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10303475 nav-item"><a title="31 - Haute Garonne" href="https://www.lepetitjournal.net/31-haute-garonne/annonces-legales/" class="nav-link">31 – Haute Garonne</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-10303483" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10303483 nav-item"><a title="32 - Gers" href="https://www.lepetitjournal.net/32-gers/annonces-legales/" class="nav-link">32 – Gers</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-10303484" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10303484 nav-item"><a title="34 - Hérault" href="https://www.lepetitjournal.net/34-herault/annonces-legales/" class="nav-link">34 – Hérault</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-11454912" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11454912 nav-item"><a title="40 - Landes" href="https://www.lepetitjournal.net/40-landes/annonces-legales/" class="nav-link">40 – Landes</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-10303486" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10303486 nav-item"><a title="46 - Lot" href="https://www.lepetitjournal.net/46-lot/annonces-legales/" class="nav-link">46 – Lot</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-10310685" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10310685 nav-item"><a title="47 - Lot et Garonne" href="https://www.lepetitjournal.net/47-lot-et-garonne/annonces-legales/" class="nav-link">47 – Lot et Garonne</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-10303472" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10303472 nav-item"><a title="65 - Hautes-Pyrénées" href="https://www.lepetitjournal.net/65-hautes-pyrenees/annonces-legales/" class="nav-link">65 – Hautes-Pyrénées</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-10303473" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10303473 nav-item"><a title="66 - Pyrénées-Orientales" href="https://www.lepetitjournal.net/66-pyrenees-orientales/annonces-legales/" class="nav-link">66 – Pyrénées-Orientales</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-10303474" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10303474 nav-item"><a title="82 - Tarn et Garonne" href="https://www.lepetitjournal.net/82-tarn-et-garonne/annonces-legales/" class="nav-link">82 – Tarn et Garonne</a></li>
+</ul></div>                        </nav>
+                    </div>
+                </div>
+            </div>
+
+
+        </section>
+
+        <div class="row">
+            <!-- main menu - thematique -->
+            <div id="_desktop_nav_one" class="navbar navbar-expand-lg col-12 ">
+                <div id="navbarSupportedContent" class="navbar-collapse overlay-content">
+
+                    <!-- Mobile search google -->
+                    <div id="_mobile_search_google" class="bg-secondary search-width d-lg-none"></div>
+                    <!-- Mobile search google end -->
+
+                    <!-- Mobile edition btn + content -->
+                    <div id="_mobile_accordionTwo" class="d-lg-none"></div>
+                    <!-- Mobile edition btn + content end -->
+
+                    <!-- Mobile choose rubrique -->
+                    <div id="accordion" class="d-lg-none">
+                        <div id="headingOne" class="card-header bg-light">
+                            <button class="col-12 btn btn-link" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                                    <span class="text-secondary">
+                                        Toutes les rubriques                                    </span>
+                                <i class="fa fa-plus" aria-hidden="true"></i>
+                            </button>
+                        </div>
+
+                        <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
+                            <div class="card-body">
+                                <nav id="_mobile_accordion"></nav>
+                            </div>
+                        </div>
+                    </div><!-- Mobile choose rubrique end -->
+
+                <div class="header-sticky">
+
+                    <!-- Mobile rubrique content -->
+                    <nav id="_desktop_accordion">
+                                                    <ul>
+                                <li>
+                                    <a href="https://www.lepetitjournal.net" class="link-home ">
+                                        <span class="fa fa-home"></span>
+                                        <i class="fa fa-angle-right d-lg-none" aria-hidden="true"></i>
+                                    </a>
+                                </li>
+                                                                        <li>
+                                            <a class="tag-background-color-hover-11530 " <a="" href="https://www.lepetitjournal.net/./47-lot-et-garonne/?thematique=departement">
+                                                Département                                                <i class="fa fa-angle-right d-lg-none" aria-hidden="true"></i>
+                                            </a>
+                                        </li>
+                                                                            <li>
+                                            <a class="tag-background-color-hover-10736 " <a="" href="https://www.lepetitjournal.net/./47-lot-et-garonne/?thematique=locale">
+                                                Villes / Villages                                                <i class="fa fa-angle-right d-lg-none" aria-hidden="true"></i>
+                                            </a>
+                                        </li>
+                                                                            <li>
+                                            <a class="tag-background-color-hover-10617 " <a="" href="https://www.lepetitjournal.net/./47-lot-et-garonne/?thematique=page_agriculture">
+                                                Agri                                                <i class="fa fa-angle-right d-lg-none" aria-hidden="true"></i>
+                                            </a>
+                                        </li>
+                                                                            <li>
+                                            <a class="tag-background-color-hover-10630 " <a="" href="https://www.lepetitjournal.net/./47-lot-et-garonne/?thematique=culture">
+                                                Culture                                                <i class="fa fa-angle-right d-lg-none" aria-hidden="true"></i>
+                                            </a>
+                                        </li>
+                                                                            <li>
+                                            <a class="tag-background-color-hover-10631 " <a="" href="https://www.lepetitjournal.net/./47-lot-et-garonne/?thematique=economie">
+                                                Economie                                                <i class="fa fa-angle-right d-lg-none" aria-hidden="true"></i>
+                                            </a>
+                                        </li>
+                                                                            <li>
+                                            <a class="tag-background-color-hover-10634 " <a="" href="https://www.lepetitjournal.net/./47-lot-et-garonne/?thematique=politique">
+                                                Politique                                                <i class="fa fa-angle-right d-lg-none" aria-hidden="true"></i>
+                                            </a>
+                                        </li>
+                                                                            <li>
+                                            <a class="tag-background-color-hover-10633 " <a="" href="https://www.lepetitjournal.net/./47-lot-et-garonne/?thematique=justice">
+                                                Justice                                                <i class="fa fa-angle-right d-lg-none" aria-hidden="true"></i>
+                                            </a>
+                                        </li>
+                                                                            <li>
+                                            <a class="tag-background-color-hover-10632 " <a="" href="https://www.lepetitjournal.net/./47-lot-et-garonne/?thematique=faits-divers">
+                                                Faits-divers                                                <i class="fa fa-angle-right d-lg-none" aria-hidden="true"></i>
+                                            </a>
+                                        </li>
+                                                                            <li>
+                                            <a class="tag-background-color-hover-10666 " <a="" href="https://www.lepetitjournal.net/./47-lot-et-garonne/?thematique=sports">
+                                                Sports                                                <i class="fa fa-angle-right d-lg-none" aria-hidden="true"></i>
+                                            </a>
+                                        </li>
+                                                                </ul>
+                                                </nav><!-- Mobile rubrique content end -->
+                </div>
+                    <!-- Mobile menu "proposer un article" && "contact" -->
+                    <div id="_mobile_header_before_left" class="d-lg-none"></div>
+                    <!-- Mobile menu "proposer un article" && "contact" end -->
+
+                    <!-- Mobile "annonces légales" -->
+                    <div id="_mobile_header_right" class="d-lg-none">
+                        <div id="headingThree">
+                            <button class="btn btn-link btn-light" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                <span class="text-white">
+                                    <svg fill="#FFFFFF" class="mr-1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="19px" viewBox="0 0 880.899 880.899" xml:space="preserve"><g><path d="M530.25,537.2c9.9-48.7,25.2-124.301,25.3-124.4c28.9-33.9,46.7-173.9,46.7-225.3C602.25,83.9,529.85,0,440.45,0s-161.8,84-161.8,187.5c0,51.4,17.8,191.399,46.7,225.3c0,0,15.399,75.7,25.3,124.4H530.25z"></path><path d="M73.95,793.1c-0.7,0-1.4,0-2.1-0.1v37.899c0,27.601,22.4,50,50,50h637.2c27.601,0,50-22.399,50-50V793c-0.699,0-1.399,0.1-2.1,0.1H73.95z"></path><path d="M824.25,755.8c5.601-2.1,10.7-5.1,15.2-8.9c10.7-9.199,17.5-22.8,17.5-38V621.5c0-27.601-22.4-50-50-50h-283.6H357.549H73.95c-27.6,0-50,22.399-50,50v87.399c0,15.2,6.8,28.801,17.5,38c4.5,3.801,9.6,6.801,15.2,8.9c4.8,1.8,9.9,2.8,15.2,3	c0.7,0,1.4,0.1,2.1,0.1h732.9c0.699,0,1.399,0,2.1-0.1C814.35,758.6,819.45,757.5,824.25,755.8z"></path></g></svg>
+                                Publier votre annonce légale                                </span>
+                                <i class="fa fa-angle-down text-white" aria-hidden="true"></i>
+                            </button>
+                        </div>
+
+                        <div id="collapseThree" class="collapse card" aria-labelledby="headingThree" data-parent="#_desktop_accordionThree">
+                            <nav class="card-body">
+                                <div class="menu-menu-principal-container"><ul id="menu-menu-principal" class=""><li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" class="root-cat menu-item menu-item-type-custom menu-item-object-custom menu-item-43358 nav-item"><a title="Ariège" href="https://www.lepetitjournal.net/09-ariege/accueil/" class="nav-link">Ariège</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" class="root-cat menu-item menu-item-type-custom menu-item-object-custom menu-item-43359 nav-item"><a title="Aude" href="https://www.lepetitjournal.net/11-aude/accueil/" class="nav-link">Aude</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" class="root-cat menu-item menu-item-type-custom menu-item-object-custom menu-item-43361 nav-item"><a title="Aveyron" href="https://www.lepetitjournal.net/12-aveyron/accueil/" class="nav-link">Aveyron</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" class="root-cat menu-item menu-item-type-custom menu-item-object-custom menu-item-43364 nav-item"><a title="Gers" href="https://www.lepetitjournal.net/32-gers/accueil/" class="nav-link">Gers</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" class="root-cat menu-item menu-item-type-custom menu-item-object-custom menu-item-43363 nav-item"><a title="Haute-Garonne" href="https://www.lepetitjournal.net/31-haute-garonne/accueil/" class="nav-link">Haute-Garonne</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" class="root-cat menu-item menu-item-type-custom menu-item-object-custom menu-item-43368 nav-item"><a title="Hautes-Pyrénées" href="https://www.lepetitjournal.net/65-hautes-pyrenees/accueil/" class="nav-link">Hautes-Pyrénées</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" class="root-cat menu-item menu-item-type-custom menu-item-object-custom menu-item-43365 nav-item"><a title="Hérault" href="https://www.lepetitjournal.net/34-herault/accueil/" class="nav-link">Hérault</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" class="root-cat menu-item menu-item-type-custom menu-item-object-custom menu-item-9744739 nav-item"><a title="Landes" href="https://www.lepetitjournal.net/40-landes/accueil/" class="nav-link">Landes</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" class="root-cat menu-item menu-item-type-custom menu-item-object-custom menu-item-43366 nav-item"><a title="Lot" href="https://www.lepetitjournal.net/46-lot/accueil/" class="nav-link">Lot</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" class="root-cat menu-item menu-item-type-custom menu-item-object-custom menu-item-43367 nav-item"><a title="Lot et Garonne" href="https://www.lepetitjournal.net/47-lot-et-garonne/accueil/" class="nav-link">Lot et Garonne</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" class="root-cat menu-item menu-item-type-custom menu-item-object-custom menu-item-43369 nav-item"><a title="Pyrénées-Orientales" href="https://www.lepetitjournal.net/66-pyrenees-orientales/accueil/" class="nav-link">Pyrénées-Orientales</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" class="root-cat menu-item menu-item-type-custom menu-item-object-custom menu-item-43370 nav-item"><a title="Tarn et Garonne" href="https://www.lepetitjournal.net/82-tarn-et-garonne/accueil/" class="nav-link">Tarn et Garonne</a></li>
+</ul></div>                            </nav>
+                        </div>
+                        <div id="headingFour">
+                            <button class="btn btn-link btn-secondary" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+                                <span class="text-white">
+                                    <i class="fa fa-list fa-lg mr-1 p-0"></i>
+                                    Consulter votre annonce légale                                </span>
+                                <i class="fa fa-angle-down text-white" aria-hidden="true"></i>
+                            </button>
+                        </div>
+
+                        <div id="collapseFour" class="collapse card" aria-labelledby="headingFour" data-parent="#_desktop_accordionFour">
+                            <nav class="card-body">
+                                <div class="menu-menu-principal-container"><ul id="menu-menu-principal-1" class=""><li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" class="root-cat menu-item menu-item-type-custom menu-item-object-custom menu-item-43358 nav-item"><a title="Ariège" href="https://www.lepetitjournal.net/09-ariege/accueil/" class="nav-link">Ariège</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" class="root-cat menu-item menu-item-type-custom menu-item-object-custom menu-item-43359 nav-item"><a title="Aude" href="https://www.lepetitjournal.net/11-aude/accueil/" class="nav-link">Aude</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" class="root-cat menu-item menu-item-type-custom menu-item-object-custom menu-item-43361 nav-item"><a title="Aveyron" href="https://www.lepetitjournal.net/12-aveyron/accueil/" class="nav-link">Aveyron</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" class="root-cat menu-item menu-item-type-custom menu-item-object-custom menu-item-43364 nav-item"><a title="Gers" href="https://www.lepetitjournal.net/32-gers/accueil/" class="nav-link">Gers</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" class="root-cat menu-item menu-item-type-custom menu-item-object-custom menu-item-43363 nav-item"><a title="Haute-Garonne" href="https://www.lepetitjournal.net/31-haute-garonne/accueil/" class="nav-link">Haute-Garonne</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" class="root-cat menu-item menu-item-type-custom menu-item-object-custom menu-item-43368 nav-item"><a title="Hautes-Pyrénées" href="https://www.lepetitjournal.net/65-hautes-pyrenees/accueil/" class="nav-link">Hautes-Pyrénées</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" class="root-cat menu-item menu-item-type-custom menu-item-object-custom menu-item-43365 nav-item"><a title="Hérault" href="https://www.lepetitjournal.net/34-herault/accueil/" class="nav-link">Hérault</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" class="root-cat menu-item menu-item-type-custom menu-item-object-custom menu-item-9744739 nav-item"><a title="Landes" href="https://www.lepetitjournal.net/40-landes/accueil/" class="nav-link">Landes</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" class="root-cat menu-item menu-item-type-custom menu-item-object-custom menu-item-43366 nav-item"><a title="Lot" href="https://www.lepetitjournal.net/46-lot/accueil/" class="nav-link">Lot</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" class="root-cat menu-item menu-item-type-custom menu-item-object-custom menu-item-43367 nav-item"><a title="Lot et Garonne" href="https://www.lepetitjournal.net/47-lot-et-garonne/accueil/" class="nav-link">Lot et Garonne</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" class="root-cat menu-item menu-item-type-custom menu-item-object-custom menu-item-43369 nav-item"><a title="Pyrénées-Orientales" href="https://www.lepetitjournal.net/66-pyrenees-orientales/accueil/" class="nav-link">Pyrénées-Orientales</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" class="root-cat menu-item menu-item-type-custom menu-item-object-custom menu-item-43370 nav-item"><a title="Tarn et Garonne" href="https://www.lepetitjournal.net/82-tarn-et-garonne/accueil/" class="nav-link">Tarn et Garonne</a></li>
+</ul></div>                            </nav>
+                        </div>
+                    </div>
+                    <!-- Mobile "annonces légales" end -->
+
+                    <!-- Mobile search result -->
+                    <div id="_mobile_search_result_google" class="d-lg-none"></div>
+                    <!-- Mobile search result end -->
+
+                </div>
+
+            </div><!-- main menu - thematique end-->
+        </div>
+    </div>
+</div>
+
+    <!-- ******************* The Navbar Area Mobile ******************* -->
+    <div id="nav-swap" class="bg-white d-lg-none">
+    <div class="container">
+        <div id="swap" class="col-12">
+
+            <!-- nav mobile first -->
+            <div id="myIconNav" class="menu col-3">
+                <span>☰</span>
+            </div>
+            <!-- nav mobile first end -->
+
+            <div id="_mobile_logo" class="menu col-6"></div>
+
+            <!-- nav mobile second -->
+            <div id="myIconNavTwo" class="menu col-3">
+                <i class="fa fa-user" aria-hidden="true"></i>
+            </div>
+            <!-- nav mobile second end -->
+        </div>
+    </div>
+
+    <!-- Menu mobile navigation first content -->
+    <div id="myNav" class="overlay">
+        <div class="overlay-content">
+            <button class="btn-close">×</button>
+            <div id="_mobile_nav_one"></div>
+        </div>
+    </div>
+    <!-- Menu mobile navigation first content end -->
+
+    <!-- Menu mobile navigation second content -->
+    <div id="myNav-right" class="overlay-right">
+        <div class="overlay-content">
+            <button class="btn-close">×</button>
+            <div id="_mobile_header_before_right"></div>
+        </div>
+    </div>
+    <!-- Menu mobile navigation second content end -->
+</div>
+
+    </header>
+
+<div id="content" class="container">
+
+    <div class="row">
+            <!-- Breadcrumb -->
+    <nav class="col-12 d-none d-md-block" aria-label="breadcrumb">
+
+        <p id="breadcrumbs"><span><span><a href="https://www.lepetitjournal.net/">Accueil</a></span> <i class="fa fa-angle-right" aria-hidden="true"></i> <span class="breadcrumb_last" aria-current="page">Swiss Krono présente son projet «&nbsp;Orpinia&nbsp;»</span></span></p>    </nav><!-- Breadcrumb end -->
+    </div>
+
+    <div class="row">
+
+        <!-- Single Post -->
+        <div id="primary" class="col-12">
+
+            
+
+
+                        <div class="d-flex justify-content-center mb-3 mt-3">
+            <!-- /21688010876/direct_LPJ_bandeau_haut_31 -->
+            <div id="div-gpt-ad-1673455793454-0" style="min-width: 761px; min-height: 280px;">
+                <script>
+                    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1673455793454-0'); });
+                </script>
+            </div>
+        </div>
+        <!-- Top title -->
+        <div id="main" class="row-custom text-white">
+
+                    <h1 class="col-lg-6 col-12 bg-primary">
+                <a href="https://www.lepetitjournal.net/./47-lot-et-garonne/e47-landes-gascogne/e47-landes-gascogne-coteaux-et-landes-de-gascogne/e47-landes-gascogne-coteaux-et-landes-de-gascogne-fargues-sur-ourbise/" class="text-white">
+                    Fargues-sur-Ourbise                </a>
+            </h1>
+                    <!-- Subject -->
+
+                                            <h2 class="col-lg-6 col-12 tag-background-color-10736">
+                            <span>
+
+                                <!--<a href="" class="block text-white">
+                                                                    </a>-->
+
+                                <a href="https://www.lepetitjournal.net/./47-lot-et-garonne/accueil/" class="text-white">
+                                    Actualités / Lot et Garonne                                </a>
+
+                            </span>
+                        </h2>
+                                <!-- Subject end -->
+
+    </div><!-- Top title end -->
+
+    
+        </div>
+        <div id="secondary" class="col-lg-9 col-12">
+
+            <div id="single" class="bg-white">
+
+                
+                    
+<article id="post-12514659" class="post-12514659 post type-post status-publish format-standard has-post-thumbnail hentry category-47-lot-et-garonne category-e47-landes-gascogne category-e47-landes-gascogne-coteaux-et-landes-de-gascogne category-e47-landes-gascogne-coteaux-et-landes-de-gascogne-fargues-sur-ourbise thematique-locale" itemscope="" itemtype="http://schema.org/NewsArticle">
+
+	<header class="entry-header">
+        <div class="header-title-single">
+            <h2 class="entry-title">Swiss Krono présente son projet «&nbsp;Orpinia&nbsp;»</h2>        </div>
+        <div class="header-single">
+
+                        <div class="entry-meta">
+
+                <span class="posted-on">Publié le <span class="tag-color-10736" rel="bookmark" itemprop="dateCreated" datetime="2024-09-23T09:16:55+02:00"><time class="entry-date published updated" datetime="2024-09-23T09:16:55+02:00">23 septembre 2024</time></span></span>
+    <meta itemprop="datePublished" content="2024-09-23T09:16:55+02:00">
+    <meta itemprop="dateModified" content="2024-09-23T09:16:55+02:00">
+
+
+    
+            </div>
+        </div>
+
+	</header><!-- .entry-header -->
+
+                 <div class="post-image-single-image post-image-landscape" itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject">
+                <div>
+                    <img width="2560" height="1920" src="https://cdn.lepetitjournal.net/uploads/2024/09/IMG_20240911_190008-scaled.jpg" class="img-fluid landscape wp-post-image" alt="Les responsables de Swiss Krono France et de RTE" itemprop="image" decoding="async" fetchpriority="high" srcset="https://cdn.lepetitjournal.net/uploads/2024/09/IMG_20240911_190008-scaled.jpg 2560w, https://cdn.lepetitjournal.net/uploads/2024/09/IMG_20240911_190008-768x576.jpg 768w, https://cdn.lepetitjournal.net/uploads/2024/09/IMG_20240911_190008-1536x1152.jpg 1536w, https://cdn.lepetitjournal.net/uploads/2024/09/IMG_20240911_190008-2048x1536.jpg 2048w, https://cdn.lepetitjournal.net/uploads/2024/09/IMG_20240911_190008-600x450.jpg 600w, https://cdn.lepetitjournal.net/uploads/2024/09/IMG_20240911_190008-1024x768.jpg 1024w" sizes="(max-width: 2560px) 100vw, 2560px">                    <meta itemprop="height" content="480">
+                    <meta itemprop="width" content="640">
+                    <meta itemprop="url" content="https://cdn.lepetitjournal.net/uploads/2024/09/IMG_20240911_190008-scaled.jpg">
+
+                    <p itemprop="name">
+                                                Les responsables de Swiss Krono France et de RTE
+                        <small> Crédits :
+                            JLM                            </small>
+                                                </p>
+                </div>
+
+            </div>
+            
+	<div class="entry-content" itemprop="articleBody">
+
+
+                    <style>
+                .akcelo-adunit-15351 {
+                    width:100%;
+                    height:360px;
+                }
+                @media (pointer:coarse) {
+                    .akcelo-adunit-15351 {
+                        width:100%;
+                        height:180px;
+                    }
+                }
+            </style>
+            <div class="akcelo-wrapper akcelo-video akcelo-adunit-15351">
+                <div id="Lepetitjournalnet_PlayRVideo"></div>
+            </div>
+            <script type="application/javascript">
+                window.slmadshb = window.slmadshb || {};
+                window.slmadshb.que = window.slmadshb.que || [];
+                window.slmadshb.que.push(function() {
+                    window.slmadshb.display("Lepetitjournalnet_PlayRVideo");
+                });
+            </script>
+            
+		<p>Depuis quelques mois, il est fortement question de l’implantation d’une unité de fabrication de panneaux de bois de type OSB à cheval sur les communes de Fargues-sur-Ourbise et Houeillès, où étaient entreposés les bois de la tempête de 2009. Dans le cadre des démarches légales, une Concertation publique sur le projet Orpinia (usine de fabrication de panneaux de bois de type OSB) a été initiée afin d’informer la population et de leur permettre de s’exprimer et de participer au projet. Une concertation préalable au titre du Code de l’environnement est organisée du 2 septembre au 18 octobre 2024 sur ce projet Orpinia et son raccordement électrique. Swiss Krono , qui présente son projet, prévoit la création d’une usine avec une capacité de production de 420 000 m3 par an en phase 1 et jusqu’à 600 000 m3 en phase 2, pour soutenir les ambitions nationales de construction à base de bois. Il s’agit d’accompagner la transition énergétique de la filière du bâtiment et de participer à la dynamique de réindustrialisation de la filière bois en Région Nouvelle-Aquitaine. L’investissement total du projet est estimé à 340 millions d’euros en phase 1 et 52 millions d’euros supplémentaires en phase 2. La réunion publique d’ouverture de la concertation a eu lieu le mercredi 11 septembre à 18 h à la Salle socio-culturelle de Fargues-sur-Ourbise. D’autres temps d’échange seront organisés tout au long de la concertation, au cours desquels le public est invité à venir découvrir le projet, contribuer et échanger autour du projet. La réunion a eu lieu en présence du sous-préfet de Marmande – Nérac, des conseillers départementaux des forêts de Gascogne, de Mme la députée de l’arrondissement de Marmande, du président de la 3 CLG et de nombreux responsables d’entreprises. Diverses questions auxquelles ont répondu Swiss Krono ont été posées en présence des garants qui contrôlent la légalité des débats. * Réunion thématique : « Quelle contribution du projet ORPINIA à l’économie locale du territoire ? », le 25 septembre à 18h, Radio CFM 92 (92,1 MHz). * Atelier thématique n°1 : Intégration du projet dans son environnement proche, le 1er octobre à 18h, Salle des Fêtes de Houeillès. * Atelier thématique n°2 : Enjeux environnementaux et sécurité industrielle, le 9 octobre à 18h, Salle socio-culturelle de Fargues-sur-Ourbise. * Débats mobiles, le 8 septembre à la fête d’Houeillès, le 12 septembre le matin à la mairie de Fargues-sur-Ourbise et le 1er octobre au marché de Casteljaloux. * Réunion publique de synthèse, le 16 octobre à 18h, Salle des Fêtes de Houeillès. Comment s’informer sur le projet : Le public est invité à se rendre en mairie, où sont mis à disposition les documents d’information, ou directement sur le site internet de la concertation : www.concertation-projet-orpinia.fr [http://www.concertation-projet-orpinia.fr. Une rubrique participative en ligne permet de contribuer depuis le site internet et de s’inscrire aux temps d’échange. Les garants de la concertation nommés par la Commission Nationale du Débat Public (CNDP) sont également disponibles pour répondre aux questions sur la concertation : M. Jean Marc Divina et M. Denis Salles (jean-marc.divina@garant-cndp.fr [jean-marc.divina@garant-cndp.fr] et denis.salles@garant-cndp.fr [denis.salles@garant-cndp.fr).</p>
+
+                    <p class="signature" itemscope="" itemprop="Author" itemtype="http://schema.org/Person">
+                <span itemprop="name">JLM</span>
+            </p>
+            
+	</div><!-- .entry-content -->
+
+
+
+	<footer class="entry-footer">
+
+        <div class="footer-thematique">
+		    <span class="cat-links">Publié dans <a href="https://www.lepetitjournal.net/./47-lot-et-garonne/accueil/" rel="category tag">Lot et Garonne</a>, <a href="https://www.lepetitjournal.net/./47-lot-et-garonne/e47-landes-gascogne/" rel="category tag">Landes Gascogne</a>, <a href="https://www.lepetitjournal.net/./47-lot-et-garonne/e47-landes-gascogne/e47-landes-gascogne-coteaux-et-landes-de-gascogne/" rel="category tag">Coteaux et Landes de Gascogne</a>, <a href="https://www.lepetitjournal.net/./47-lot-et-garonne/e47-landes-gascogne/e47-landes-gascogne-coteaux-et-landes-de-gascogne/e47-landes-gascogne-coteaux-et-landes-de-gascogne-fargues-sur-ourbise/" rel="category tag">Fargues-sur-Ourbise</a></span><p><span class="cat-links">Thématiques : <a href="https://www.lepetitjournal.net/thematique/locale/" rel="tag">Villes / Villages</a></span></p>        </div>
+	</footer><!-- .entry-footer -->
+
+
+    <div class="text-left">
+        
+
+
+    </div>
+
+    <meta itemprop="mainEntityOfPage" content="https://www.lepetitjournal.net/">
+    <span itemscope="" itemprop="publisher" itemtype="http://schema.org/Organization">
+        <meta itemprop="name" content="Le Petit Journal">
+        <meta itemprop="logo" content="https://cdn.lepetitjournal.net/themes/periwinkle-v2/images/logo_petit_journal.png">
+    </span>
+
+</article><!-- #post-## -->
+
+                    <div id="pagination">
+                                            </div>
+
+                    <div class="space-article"></div>
+    <div class="festivity">
+        <h2 class="space-before">
+            D'autres articles dans la catégorie :                     <span class="tag-color-10736 ">
+                        <a href="https://www.lepetitjournal.net/./47-lot-et-garonne/e47-landes-gascogne/" style="color: inherit;">
+                            Landes Gascogne                        </a>
+                    </span>
+                            </h2>
+        <aside id="footer-most-read">
+
+            <div id="liste_actus_footer">
+                <div class="liste_actus row">
+                    
+                        <div class="bottom-img-card d-flex flex-column  col-lg-3 col-md-4 col-sm-6 col-12">
+                            <a href="https://www.lepetitjournal.net/47-lot-et-garonne/2026/03/23/les-gites-de-france-de-lot-et-garonne-a-lot/" class="tag-background-color-10736-before item " rel="bookmark">
+                                <div class="">
+                                    <div class="has-thumbnail">
+                                        <div class="infos">
+                                                                                                    <div class="tag-background-color-10736 text-white p-1">
+                                                            Casteljaloux                                                        </div>
+                                                        
+                                        </div>
+                                    </div>
+                                                                            <div class="thumbnail">
+                                            <img width="300" height="200" src="https://cdn.lepetitjournal.net/uploads/2026/03/IMG_20260320_163111-300x200.jpg" class="img-fluid wp-post-image" alt="Michèle Capot et Benjamin Aubaret lors de la permanence à l'OT" decoding="async">                                        </div>
+                                                                        <h3 class="tag-background-color-10736-before">Les Gîtes de France de Lot-et-Garonne à…</h3>
+                                </div>
+                            </a>
+                        </div>
+
+                        
+                        <div class="bottom-img-card d-flex flex-column  col-lg-3 col-md-4 col-sm-6 col-12">
+                            <a href="https://www.lepetitjournal.net/47-lot-et-garonne/2026/03/23/le-concert-de-printemps-reprend-ses-marques-a-la-bartere/" class="tag-background-color-10736-before item " rel="bookmark">
+                                <div class="">
+                                    <div class="has-thumbnail">
+                                        <div class="infos">
+                                                                                                    <div class="tag-background-color-10736 text-white p-1">
+                                                            Casteljaloux                                                        </div>
+                                                        
+                                        </div>
+                                    </div>
+                                                                            <div class="thumbnail">
+                                            <img width="300" height="200" src="https://cdn.lepetitjournal.net/uploads/2026/03/1-17-300x200.jpg" class="img-fluid wp-post-image" alt="L'harmonie Alegria Banda sous la direction de Gilles Giraudeau" decoding="async" loading="lazy">                                        </div>
+                                                                        <h3 class="tag-background-color-10736-before">Le Concert de Printemps a repris ses…</h3>
+                                </div>
+                            </a>
+                        </div>
+
+                        
+                        <div class="bottom-img-card  col-lg-3 col-md-4 col-sm-6 col-12">
+                            <a href="https://www.lepetitjournal.net/47-lot-et-garonne/2026/03/23/agenda-516/" class="tag-background-color-10736-before item " rel="bookmark">
+                                <div class="">
+                                    <div class="has-thumbnail">
+                                        <div class="infos">
+                                                                                                    <div class="tag-background-color-10736 text-white p-1">
+                                                            Casteljaloux                                                        </div>
+                                                        
+                                        </div>
+                                    </div>
+                                                                        <h3 class="tag-background-color-10736-before">Agenda</h3>
+                                </div>
+                            </a>
+                        </div>
+
+                        
+                        <div class="bottom-img-card  col-lg-3 col-md-4 col-sm-6 col-12">
+                            <a href="https://www.lepetitjournal.net/47-lot-et-garonne/2026/03/23/cinema-lodyssee-126/" class="tag-background-color-10736-before item " rel="bookmark">
+                                <div class="">
+                                    <div class="has-thumbnail">
+                                        <div class="infos">
+                                                                                                    <div class="tag-background-color-10736 text-white p-1">
+                                                            Casteljaloux                                                        </div>
+                                                        
+                                        </div>
+                                    </div>
+                                                                        <h3 class="tag-background-color-10736-before">Cinéma l’Odyssée</h3>
+                                </div>
+                            </a>
+                        </div>
+
+                        
+                        <div class="bottom-img-card  col-lg-3 col-md-4 col-sm-6 col-12">
+                            <a href="https://www.lepetitjournal.net/47-lot-et-garonne/2026/03/23/le-monde-mineral-dans-la-vie-quotidienne/" class="tag-background-color-10736-before item " rel="bookmark">
+                                <div class="">
+                                    <div class="has-thumbnail">
+                                        <div class="infos">
+                                                                                                    <div class="tag-background-color-10736 text-white p-1">
+                                                            Poussignac                                                        </div>
+                                                        
+                                        </div>
+                                    </div>
+                                                                        <h3 class="tag-background-color-10736-before">Le monde minéral dans la vie quotidienne</h3>
+                                </div>
+                            </a>
+                        </div>
+
+                        
+                        <div class="bottom-img-card d-flex flex-column  col-lg-3 col-md-4 col-sm-6 col-12">
+                            <a href="https://www.lepetitjournal.net/47-lot-et-garonne/2026/03/23/bruno-galichon-passe-le-relais-a-stephane-brunet/" class="tag-background-color-10736-before item " rel="bookmark">
+                                <div class="">
+                                    <div class="has-thumbnail">
+                                        <div class="infos">
+                                                                                                    <div class="tag-background-color-10736 text-white p-1">
+                                                            La Réunion                                                        </div>
+                                                        
+                                        </div>
+                                    </div>
+                                                                            <div class="thumbnail">
+                                            <img width="300" height="200" src="https://cdn.lepetitjournal.net/uploads/2026/03/IMG_20260320_224910-300x200.jpg" class="img-fluid wp-post-image" alt="Mise en place du maire et son conseil municipal" decoding="async" loading="lazy">                                        </div>
+                                                                        <h3 class="tag-background-color-10736-before">Bruno Galichon passe le relais à Stéphane…</h3>
+                                </div>
+                            </a>
+                        </div>
+
+                        
+                        <div class="bottom-img-card  col-lg-3 col-md-4 col-sm-6 col-12">
+                            <a href="https://www.lepetitjournal.net/47-lot-et-garonne/2026/03/23/foire-dagen-avec-les-pros-dici/" class="tag-background-color-10736-before item " rel="bookmark">
+                                <div class="">
+                                    <div class="has-thumbnail">
+                                        <div class="infos">
+                                                                                                    <div class="tag-background-color-10736 text-white p-1">
+                                                            Casteljaloux                                                        </div>
+                                                        
+                                        </div>
+                                    </div>
+                                                                        <h3 class="tag-background-color-10736-before">Foire d’Agen avec Les Pros d’Ici</h3>
+                                </div>
+                            </a>
+                        </div>
+
+                        
+                        <div class="bottom-img-card d-flex flex-column  col-lg-3 col-md-4 col-sm-6 col-12">
+                            <a href="https://www.lepetitjournal.net/47-lot-et-garonne/2026/03/23/mise-en-place-du-conseil-municipal-5/" class="tag-background-color-10736-before item " rel="bookmark">
+                                <div class="">
+                                    <div class="has-thumbnail">
+                                        <div class="infos">
+                                                                                                    <div class="tag-background-color-10736 text-white p-1">
+                                                            Casteljaloux                                                        </div>
+                                                        
+                                        </div>
+                                    </div>
+                                                                            <div class="thumbnail">
+                                            <img width="300" height="200" src="https://cdn.lepetitjournal.net/uploads/2026/03/IMG_3510-300x200.jpg" class="img-fluid wp-post-image" alt="Julie Castillo, élue maire par ses colistiers" decoding="async" loading="lazy" srcset="https://cdn.lepetitjournal.net/uploads/2026/03/IMG_3510-300x200.jpg 300w, https://cdn.lepetitjournal.net/uploads/2026/03/IMG_3510-768x512.jpg 768w, https://cdn.lepetitjournal.net/uploads/2026/03/IMG_3510-1536x1024.jpg 1536w, https://cdn.lepetitjournal.net/uploads/2026/03/IMG_3510-2048x1365.jpg 2048w, https://cdn.lepetitjournal.net/uploads/2026/03/IMG_3510-600x400.jpg 600w, https://cdn.lepetitjournal.net/uploads/2026/03/IMG_3510-1024x683.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px">                                        </div>
+                                                                        <h3 class="tag-background-color-10736-before">Mise en place du conseil municipal</h3>
+                                </div>
+                            </a>
+                        </div>
+
+                        
+                        <div class="bottom-img-card  col-lg-3 col-md-4 col-sm-6 col-12">
+                            <a href="https://www.lepetitjournal.net/47-lot-et-garonne/2026/03/23/usc-la-b-victorieuse-a-surgeres/" class="tag-background-color-10736-before item " rel="bookmark">
+                                <div class="">
+                                    <div class="has-thumbnail">
+                                        <div class="infos">
+                                                                                                    <div class="tag-background-color-10736 text-white p-1">
+                                                            Casteljaloux                                                        </div>
+                                                        
+                                        </div>
+                                    </div>
+                                                                        <h3 class="tag-background-color-10736-before">USC : la B victorieuse à Surgères</h3>
+                                </div>
+                            </a>
+                        </div>
+
+                        
+                        <div class="bottom-img-card d-flex flex-column  col-lg-3 col-md-4 col-sm-6 col-12">
+                            <a href="https://www.lepetitjournal.net/47-lot-et-garonne/2026/03/23/les-cadets-laissent-filer-surgeres-en-2eme-mi-temps/" class="tag-background-color-10736-before item " rel="bookmark">
+                                <div class="">
+                                    <div class="has-thumbnail">
+                                        <div class="infos">
+                                                                                                    <div class="tag-background-color-10736 text-white p-1">
+                                                            Casteljaloux                                                        </div>
+                                                        
+                                        </div>
+                                    </div>
+                                                                            <div class="thumbnail">
+                                            <img width="300" height="200" src="https://cdn.lepetitjournal.net/uploads/2026/03/398036098383565845-300x200.jpg" class="img-fluid wp-post-image" alt="Groupé pénétrant" decoding="async" loading="lazy">                                        </div>
+                                                                        <h3 class="tag-background-color-10736-before">Les Cadets laissent filer Surgères en 2ème…</h3>
+                                </div>
+                            </a>
+                        </div>
+
+                        
+                        <div class="bottom-img-card d-flex flex-column  col-lg-3 col-md-4 col-sm-6 col-12">
+                            <a href="https://www.lepetitjournal.net/47-lot-et-garonne/2026/03/23/les-juniors-vainqueurs-face-a-bon-encontre/" class="tag-background-color-10736-before item " rel="bookmark">
+                                <div class="">
+                                    <div class="has-thumbnail">
+                                        <div class="infos">
+                                                                                                    <div class="tag-background-color-10736 text-white p-1">
+                                                            Casteljaloux                                                        </div>
+                                                        
+                                        </div>
+                                    </div>
+                                                                            <div class="thumbnail">
+                                            <img width="300" height="200" src="https://cdn.lepetitjournal.net/uploads/2026/03/f6b65505-a698-4321-b8f9-062d7455c14c-300x200.jpg" class="img-fluid wp-post-image" alt="Les U 19 (Juniors) ont fêté la victoire" decoding="async" loading="lazy">                                        </div>
+                                                                        <h3 class="tag-background-color-10736-before">Les Juniors vainqueurs face à Bon-Encontre</h3>
+                                </div>
+                            </a>
+                        </div>
+
+                        
+                        <div class="bottom-img-card d-flex flex-column  col-lg-3 col-md-4 col-sm-6 col-12">
+                            <a href="https://www.lepetitjournal.net/47-lot-et-garonne/2026/03/23/cidff-permanence-juridique-en-ville/" class="tag-background-color-10736-before item " rel="bookmark">
+                                <div class="">
+                                    <div class="has-thumbnail">
+                                        <div class="infos">
+                                                                                                    <div class="tag-background-color-10736 text-white p-1">
+                                                            Casteljaloux                                                        </div>
+                                                        
+                                        </div>
+                                    </div>
+                                                                            <div class="thumbnail">
+                                            <img width="300" height="200" src="https://cdn.lepetitjournal.net/uploads/2026/03/IMG_3502-300x200.jpg" class="img-fluid wp-post-image" alt="Eva Duthu entourée par les divers intervenants dans ce projet (Audrey De Brito absente)." decoding="async" loading="lazy" srcset="https://cdn.lepetitjournal.net/uploads/2026/03/IMG_3502-300x200.jpg 300w, https://cdn.lepetitjournal.net/uploads/2026/03/IMG_3502-768x512.jpg 768w, https://cdn.lepetitjournal.net/uploads/2026/03/IMG_3502-1536x1024.jpg 1536w, https://cdn.lepetitjournal.net/uploads/2026/03/IMG_3502-2048x1365.jpg 2048w, https://cdn.lepetitjournal.net/uploads/2026/03/IMG_3502-600x400.jpg 600w, https://cdn.lepetitjournal.net/uploads/2026/03/IMG_3502-1024x683.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px">                                        </div>
+                                                                        <h3 class="tag-background-color-10736-before">CIDFF. Permanence juridique en ville</h3>
+                                </div>
+                            </a>
+                        </div>
+
+                                        </div>
+
+
+        </div></aside>
+    </div>
+    
+                
+            </div><!-- #main -->
+
+        </div><!-- Single Post end -->
+
+
+                <div id="secondary" class="col-md-12 col-lg-3 widget-area" role="complementary">
+                                        <div class="row">
+                        
+        <aside id="articles-recents-7" class=" widget articles-recents widget col-12 col-sm-6 col-lg-12 articles-recents">
+        <!-- Slider one -->
+        <div class="a-la-une">
+            <span id="flux-control" class="float-right"> <a class="prev"><i class="fa fa-chevron-up" aria-hidden="true"></i></a><a class="next"><i class="fa fa-chevron-down" aria-hidden="true"></i></a></span><h3 class="widget-title">À la Une</h3>            <div class="lSSlideOuter vertical"><div class="lSSlideWrapper usingCss" style="height: 400px;"><ul class="flux loading lightSlider lsGrab lSSlide" style="height: 1300px; transform: translate3d(0px, -400px, 0px);"><li class="clone left" style="height: 100px; margin-bottom: 0px;">
+                        <!-- Thematiques -->
+                        <div id="span-article" class="tag-background-color-26405">
+                            <span>
+                                                                    <a href="https://www.lepetitjournal.net/thematique/generale/" class="text-white">
+                                        Générale                                    </a>
+                                    
+                            </span>
+                        </div><!-- Thematiques end -->
+
+                        <a href="https://www.lepetitjournal.net/47-lot-et-garonne/2026/03/23/celebrer-les-savoir-faire-dexception/" rel="bookmark" class="text-white">
+                            <h4 class="entry-title">Célébrer les savoir-faire d’exception</h4>
+                            
+                            <p class="post-date">
+                                <i class="fa fa-history" aria-hidden="true"></i>
+                                23 mars 2026 à 13h05                            </p>
+                        </a>
+                                            </li><li class="clone left" style="height: 100px; margin-bottom: 0px;">
+                        <!-- Thematiques -->
+                        <div id="span-article" class="tag-background-color-10736">
+                            <span>
+                                                                    <a href="https://www.lepetitjournal.net/./47-lot-et-garonne/e47-pays-du-dropt/e47-pays-du-dropt-pays-de-lauzun/e47-pays-du-dropt-pays-de-lauzun-allemans-du-dropt/" class="text-white">
+                                        Allemans-du-Dropt                                    </a>
+                                    
+                            </span>
+                        </div><!-- Thematiques end -->
+
+                        <a href="https://www.lepetitjournal.net/47-lot-et-garonne/2026/03/23/concert-3393/" rel="bookmark" class="text-white">
+                            <h4 class="entry-title">Concert</h4>
+                            
+                            <p class="post-date">
+                                <i class="fa fa-history" aria-hidden="true"></i>
+                                23 mars 2026 à 12h44                            </p>
+                        </a>
+                                            </li><li class="clone left" style="height: 100px; margin-bottom: 0px;">
+                        <!-- Thematiques -->
+                        <div id="span-article" class="tag-background-color-26406">
+                            <span>
+                                                                    <a href="https://www.lepetitjournal.net/thematique/actualites/" class="text-white">
+                                        Actualités                                    </a>
+                                    
+                            </span>
+                        </div><!-- Thematiques end -->
+
+                        <a href="https://www.lepetitjournal.net/47-lot-et-garonne/2026/03/23/reunion-du-collectif-a-layrac/" rel="bookmark" class="text-white">
+                            <h4 class="entry-title">Réunion du collectif à...</h4>
+                            
+                            <p class="post-date">
+                                <i class="fa fa-history" aria-hidden="true"></i>
+                                23 mars 2026 à 11h53                            </p>
+                        </a>
+                                            </li><li class="clone left" style="height: 100px; margin-bottom: 0px;">
+                        <!-- Thematiques -->
+                        <div id="span-article" class="tag-background-color-26406">
+                            <span>
+                                                                    <a href="https://www.lepetitjournal.net/thematique/actualites/" class="text-white">
+                                        Actualités                                    </a>
+                                    
+                            </span>
+                        </div><!-- Thematiques end -->
+
+                        <a href="https://www.lepetitjournal.net/47-lot-et-garonne/2026/03/23/initiation-a-lorientation-en-milieu-forestier/" rel="bookmark" class="text-white">
+                            <h4 class="entry-title">Initiation à l’orientation en...</h4>
+                            
+                            <p class="post-date">
+                                <i class="fa fa-history" aria-hidden="true"></i>
+                                23 mars 2026 à 11h50                            </p>
+                        </a>
+                                            </li>
+                                    <li class="lslide active" style="height: 100px; margin-bottom: 0px;">
+                        <!-- Thematiques -->
+                        <div id="span-article" class="tag-background-color-10736">
+                            <span>
+                                                                    <a href="https://www.lepetitjournal.net/./47-lot-et-garonne/e47-pays-agenais/e47-pays-agenais-agglomeration-dagen/e47-pays-agenais-agglomeration-dagen-layrac/" class="text-white">
+                                        Layrac                                    </a>
+                                    
+                            </span>
+                        </div><!-- Thematiques end -->
+
+                        <a href="https://www.lepetitjournal.net/47-lot-et-garonne/2026/03/25/comite-carnaval-en-pleine-effervescence/" rel="bookmark" class="text-white">
+                            <h4 class="entry-title">Comité Carnaval&nbsp;: en pleine...</h4>
+                            
+                            <p class="post-date">
+                                <i class="fa fa-history" aria-hidden="true"></i>
+                                25 mars 2026 à 11h21                            </p>
+                        </a>
+                                            </li>
+                                    <li class="lslide" style="height: 100px; margin-bottom: 0px;">
+                        <!-- Thematiques -->
+                        <div id="span-article" class="tag-background-color-26405">
+                            <span>
+                                                                    <a href="https://www.lepetitjournal.net/thematique/generale/" class="text-white">
+                                        Générale                                    </a>
+                                    
+                            </span>
+                        </div><!-- Thematiques end -->
+
+                        <a href="https://www.lepetitjournal.net/47-lot-et-garonne/2026/03/23/celebrer-les-savoir-faire-dexception/" rel="bookmark" class="text-white">
+                            <h4 class="entry-title">Célébrer les savoir-faire d’exception</h4>
+                            
+                            <p class="post-date">
+                                <i class="fa fa-history" aria-hidden="true"></i>
+                                23 mars 2026 à 13h05                            </p>
+                        </a>
+                                            </li>
+                                    <li class="lslide" style="height: 100px; margin-bottom: 0px;">
+                        <!-- Thematiques -->
+                        <div id="span-article" class="tag-background-color-10736">
+                            <span>
+                                                                    <a href="https://www.lepetitjournal.net/./47-lot-et-garonne/e47-pays-du-dropt/e47-pays-du-dropt-pays-de-lauzun/e47-pays-du-dropt-pays-de-lauzun-allemans-du-dropt/" class="text-white">
+                                        Allemans-du-Dropt                                    </a>
+                                    
+                            </span>
+                        </div><!-- Thematiques end -->
+
+                        <a href="https://www.lepetitjournal.net/47-lot-et-garonne/2026/03/23/concert-3393/" rel="bookmark" class="text-white">
+                            <h4 class="entry-title">Concert</h4>
+                            
+                            <p class="post-date">
+                                <i class="fa fa-history" aria-hidden="true"></i>
+                                23 mars 2026 à 12h44                            </p>
+                        </a>
+                                            </li>
+                                    <li class="lslide" style="height: 100px; margin-bottom: 0px;">
+                        <!-- Thematiques -->
+                        <div id="span-article" class="tag-background-color-26406">
+                            <span>
+                                                                    <a href="https://www.lepetitjournal.net/thematique/actualites/" class="text-white">
+                                        Actualités                                    </a>
+                                    
+                            </span>
+                        </div><!-- Thematiques end -->
+
+                        <a href="https://www.lepetitjournal.net/47-lot-et-garonne/2026/03/23/reunion-du-collectif-a-layrac/" rel="bookmark" class="text-white">
+                            <h4 class="entry-title">Réunion du collectif à...</h4>
+                            
+                            <p class="post-date">
+                                <i class="fa fa-history" aria-hidden="true"></i>
+                                23 mars 2026 à 11h53                            </p>
+                        </a>
+                                            </li>
+                                    <li class="lslide" style="height: 100px; margin-bottom: 0px;">
+                        <!-- Thematiques -->
+                        <div id="span-article" class="tag-background-color-26406">
+                            <span>
+                                                                    <a href="https://www.lepetitjournal.net/thematique/actualites/" class="text-white">
+                                        Actualités                                    </a>
+                                    
+                            </span>
+                        </div><!-- Thematiques end -->
+
+                        <a href="https://www.lepetitjournal.net/47-lot-et-garonne/2026/03/23/initiation-a-lorientation-en-milieu-forestier/" rel="bookmark" class="text-white">
+                            <h4 class="entry-title">Initiation à l’orientation en...</h4>
+                            
+                            <p class="post-date">
+                                <i class="fa fa-history" aria-hidden="true"></i>
+                                23 mars 2026 à 11h50                            </p>
+                        </a>
+                                            </li>
+                            <li class="clone right" style="height: 100px; margin-bottom: 0px;">
+                        <!-- Thematiques -->
+                        <div id="span-article" class="tag-background-color-10736">
+                            <span>
+                                                                    <a href="https://www.lepetitjournal.net/./47-lot-et-garonne/e47-pays-agenais/e47-pays-agenais-agglomeration-dagen/e47-pays-agenais-agglomeration-dagen-layrac/" class="text-white">
+                                        Layrac                                    </a>
+                                    
+                            </span>
+                        </div><!-- Thematiques end -->
+
+                        <a href="https://www.lepetitjournal.net/47-lot-et-garonne/2026/03/25/comite-carnaval-en-pleine-effervescence/" rel="bookmark" class="text-white">
+                            <h4 class="entry-title">Comité Carnaval&nbsp;: en pleine...</h4>
+                            
+                            <p class="post-date">
+                                <i class="fa fa-history" aria-hidden="true"></i>
+                                25 mars 2026 à 11h21                            </p>
+                        </a>
+                                            </li><li class="clone right" style="height: 100px; margin-bottom: 0px;">
+                        <!-- Thematiques -->
+                        <div id="span-article" class="tag-background-color-26405">
+                            <span>
+                                                                    <a href="https://www.lepetitjournal.net/thematique/generale/" class="text-white">
+                                        Générale                                    </a>
+                                    
+                            </span>
+                        </div><!-- Thematiques end -->
+
+                        <a href="https://www.lepetitjournal.net/47-lot-et-garonne/2026/03/23/celebrer-les-savoir-faire-dexception/" rel="bookmark" class="text-white">
+                            <h4 class="entry-title">Célébrer les savoir-faire d’exception</h4>
+                            
+                            <p class="post-date">
+                                <i class="fa fa-history" aria-hidden="true"></i>
+                                23 mars 2026 à 13h05                            </p>
+                        </a>
+                                            </li><li class="clone right" style="height: 100px; margin-bottom: 0px;">
+                        <!-- Thematiques -->
+                        <div id="span-article" class="tag-background-color-10736">
+                            <span>
+                                                                    <a href="https://www.lepetitjournal.net/./47-lot-et-garonne/e47-pays-du-dropt/e47-pays-du-dropt-pays-de-lauzun/e47-pays-du-dropt-pays-de-lauzun-allemans-du-dropt/" class="text-white">
+                                        Allemans-du-Dropt                                    </a>
+                                    
+                            </span>
+                        </div><!-- Thematiques end -->
+
+                        <a href="https://www.lepetitjournal.net/47-lot-et-garonne/2026/03/23/concert-3393/" rel="bookmark" class="text-white">
+                            <h4 class="entry-title">Concert</h4>
+                            
+                            <p class="post-date">
+                                <i class="fa fa-history" aria-hidden="true"></i>
+                                23 mars 2026 à 12h44                            </p>
+                        </a>
+                                            </li><li class="clone right" style="height: 100px; margin-bottom: 0px;">
+                        <!-- Thematiques -->
+                        <div id="span-article" class="tag-background-color-26406">
+                            <span>
+                                                                    <a href="https://www.lepetitjournal.net/thematique/actualites/" class="text-white">
+                                        Actualités                                    </a>
+                                    
+                            </span>
+                        </div><!-- Thematiques end -->
+
+                        <a href="https://www.lepetitjournal.net/47-lot-et-garonne/2026/03/23/reunion-du-collectif-a-layrac/" rel="bookmark" class="text-white">
+                            <h4 class="entry-title">Réunion du collectif à...</h4>
+                            
+                            <p class="post-date">
+                                <i class="fa fa-history" aria-hidden="true"></i>
+                                23 mars 2026 à 11h53                            </p>
+                        </a>
+                                            </li></ul></div></div>
+
+            <!--
+                <div></div>
+                            <a href="" class="btn btn-primary text-white">
+                                    </a>
+            -->        </div><!-- Slider one end -->
+        </aside>
+        <aside id="edition_papier-2" class="widget col-12 col-sm-6 col-lg-12 widget_edition_papier"><a href="https://www.lepetitjournal.net/les-unes-petit-journal/"><h3 class="widget-title">Lire l’édition papier en pdf !</h3></a>                <div class="lSSlideOuter "><div class="lSSlideWrapper usingCss" style="transition-duration: 750ms; transition-timing-function: ease;"><ul id="widget-couvs" class="lightSlider lsGrab lSSlide" style="width: 3570px; transform: translate3d(-1530px, 0px, 0px); height: 400px; padding-bottom: 0%;"><li class="clone left" style="width: 255px; margin-right: 0px;">
+                            <a href="https://www.lepetitjournal.net/les-unes-petit-journal/40-landes/le-petit-journal-landes-25-03-2026/" class="couv">
+                                <h4 class="text-white">
+                                    Landes                                </h4>
+                                <h5 class="text-white">
+                                    Mercredi 25 Mars 2026                                </h5>
+                                <img width="255" height="400" src="https://cdn.lepetitjournal.net/uploads/2026/03/le-petit-journal-landes-25-03-2026-255x400.jpg" class="img-fluid wp-post-image" alt="" decoding="async" loading="lazy">                            </a>
+                        </li>
+                                            <li class="lslide" style="width: 255px; margin-right: 0px;">
+                            <a href="https://www.lepetitjournal.net/les-unes-petit-journal/09-ariege/le-petit-journal-ariege-25-03-2026/" class="couv">
+                                <h4 class="text-white">
+                                    Ariège                                </h4>
+                                <h5 class="text-white">
+                                    Mercredi 25 Mars 2026                                </h5>
+                                <img width="255" height="400" src="https://cdn.lepetitjournal.net/uploads/2026/03/le-petit-journal-ariege-25-03-2026-255x400.jpg" class="img-fluid wp-post-image" alt="" decoding="async" loading="lazy">                            </a>
+                        </li>
+                                            <li class="lslide" style="width: 255px; margin-right: 0px;">
+                            <a href="https://www.lepetitjournal.net/les-unes-petit-journal/12-aveyron/le-petit-journal-aveyron-19-03-2026/" class="couv">
+                                <h4 class="text-white">
+                                    Aveyron                                </h4>
+                                <h5 class="text-white">
+                                    Jeudi 19 Mars 2026                                </h5>
+                                <img width="255" height="400" src="https://cdn.lepetitjournal.net/uploads/2026/03/le-petit-journal-aveyron-19-03-2026-255x400.jpg" class="img-fluid wp-post-image" alt="" decoding="async" loading="lazy">                            </a>
+                        </li>
+                                            <li class="lslide" style="width: 255px; margin-right: 0px;">
+                            <a href="https://www.lepetitjournal.net/les-unes-petit-journal/32-gers/le-petit-journal-gers-20-03-2026/" class="couv">
+                                <h4 class="text-white">
+                                    Gers                                </h4>
+                                <h5 class="text-white">
+                                    Vendredi 20 Mars 2026                                </h5>
+                                <img width="255" height="400" src="https://cdn.lepetitjournal.net/uploads/2026/03/le-petit-journal-gers-20-03-2026-255x400.jpg" class="img-fluid wp-post-image" alt="" decoding="async" loading="lazy">                            </a>
+                        </li>
+                                            <li class="lslide" style="width: 255px; margin-right: 0px;">
+                            <a href="https://www.lepetitjournal.net/les-unes-petit-journal/34-herault/le-petit-journal-herault-19-03-2026/" class="couv">
+                                <h4 class="text-white">
+                                    Hérault                                </h4>
+                                <h5 class="text-white">
+                                    Jeudi 19 Mars 2026                                </h5>
+                                <img width="255" height="400" src="https://cdn.lepetitjournal.net/uploads/2026/03/le-petit-journal-herault-19-03-2026-255x400.jpg" class="img-fluid wp-post-image" alt="" decoding="async" loading="lazy">                            </a>
+                        </li>
+                                            <li class="lslide" style="width: 255px; margin-right: 0px;">
+                            <a href="https://www.lepetitjournal.net/les-unes-petit-journal/46-lot/le-petit-journal-lot-19-03-2026/" class="couv">
+                                <h4 class="text-white">
+                                    Lot                                </h4>
+                                <h5 class="text-white">
+                                    Jeudi 19 Mars 2026                                </h5>
+                                <img width="255" height="400" src="https://cdn.lepetitjournal.net/uploads/2026/03/le-petit-journal-lot-19-03-2026-255x400.jpg" class="img-fluid wp-post-image" alt="" decoding="async" loading="lazy">                            </a>
+                        </li>
+                                            <li class="currentEdition lslide active" style="width: 255px; margin-right: 0px;">
+                            <a href="https://www.lepetitjournal.net/les-unes-petit-journal/47-lot-et-garonne/le-petit-journal-lot-et-garonne-25-03-2026/" class="couv">
+                                <h4 class="text-white">
+                                    Lot et Garonne                                </h4>
+                                <h5 class="text-white">
+                                    Mercredi 25 Mars 2026                                </h5>
+                                <img width="255" height="400" src="https://cdn.lepetitjournal.net/uploads/2026/03/le-petit-journal-lot-et-garonne-25-03-2026-255x400.jpg" class="img-fluid wp-post-image" alt="" decoding="async" loading="lazy">                            </a>
+                        </li>
+                                            <li class="lslide" style="width: 255px; margin-right: 0px;">
+                            <a href="https://www.lepetitjournal.net/les-unes-petit-journal/65-hautes-pyrenees/le-petit-journal-hautes-pyrenees-25-03-2026/" class="couv">
+                                <h4 class="text-white">
+                                    Hautes-Pyrénées                                </h4>
+                                <h5 class="text-white">
+                                    Mercredi 25 Mars 2026                                </h5>
+                                <img width="255" height="400" src="https://cdn.lepetitjournal.net/uploads/2026/03/le-petit-journal-hautes-pyrenees-25-03-2026-255x400.jpg" class="img-fluid wp-post-image" alt="" decoding="async" loading="lazy">                            </a>
+                        </li>
+                                            <li class="lslide" style="width: 255px; margin-right: 0px;">
+                            <a href="https://www.lepetitjournal.net/les-unes-petit-journal/66-pyrenees-orientales/le-petit-journal-pyrenees-orientales-19-03-2026/" class="couv">
+                                <h4 class="text-white">
+                                    Pyrénées-Orientales                                </h4>
+                                <h5 class="text-white">
+                                    Jeudi 19 Mars 2026                                </h5>
+                                <img width="255" height="400" src="https://cdn.lepetitjournal.net/uploads/2026/03/le-petit-journal-pyrenees-orientales-19-03-2026-255x400.jpg" class="img-fluid wp-post-image" alt="" decoding="async" loading="lazy">                            </a>
+                        </li>
+                                            <li class="lslide" style="width: 255px; margin-right: 0px;">
+                            <a href="https://www.lepetitjournal.net/les-unes-petit-journal/82-tarn-et-garonne/le-petit-journal-tarn-et-garonne-24-03-2026/" class="couv">
+                                <h4 class="text-white">
+                                    Tarn et Garonne                                </h4>
+                                <h5 class="text-white">
+                                    Mardi 24 Mars 2026                                </h5>
+                                <img width="255" height="400" src="https://cdn.lepetitjournal.net/uploads/2026/03/le-petit-journal-tarn-et-garonne-24-03-2026-255x400.jpg" class="img-fluid wp-post-image" alt="" decoding="async" loading="lazy">                            </a>
+                        </li>
+                                            <li class="lslide" style="width: 255px; margin-right: 0px;">
+                            <a href="https://www.lepetitjournal.net/les-unes-petit-journal/31-haute-garonne/le-petit-journal-haute-garonne-19-03-2026/" class="couv">
+                                <h4 class="text-white">
+                                    Haute Garonne                                </h4>
+                                <h5 class="text-white">
+                                    Jeudi 19 Mars 2026                                </h5>
+                                <img width="255" height="400" src="https://cdn.lepetitjournal.net/uploads/2026/03/le-petit-journal-haute-garonne-19-03-2026-255x400.jpg" class="img-fluid wp-post-image" alt="" decoding="async" loading="lazy">                            </a>
+                        </li>
+                                            <li class="lslide" style="width: 255px; margin-right: 0px;">
+                            <a href="https://www.lepetitjournal.net/les-unes-petit-journal/11-aude/le-petit-journal-aude-19-03-2026/" class="couv">
+                                <h4 class="text-white">
+                                    Aude                                </h4>
+                                <h5 class="text-white">
+                                    Jeudi 19 Mars 2026                                </h5>
+                                <img width="255" height="400" src="https://cdn.lepetitjournal.net/uploads/2026/03/le-petit-journal-aude-19-03-2026-255x400.jpg" class="img-fluid wp-post-image" alt="" decoding="async" loading="lazy">                            </a>
+                        </li>
+                                            <li class="lslide" style="width: 255px; margin-right: 0px;">
+                            <a href="https://www.lepetitjournal.net/les-unes-petit-journal/40-landes/le-petit-journal-landes-25-03-2026/" class="couv">
+                                <h4 class="text-white">
+                                    Landes                                </h4>
+                                <h5 class="text-white">
+                                    Mercredi 25 Mars 2026                                </h5>
+                                <img width="255" height="400" src="https://cdn.lepetitjournal.net/uploads/2026/03/le-petit-journal-landes-25-03-2026-255x400.jpg" class="img-fluid wp-post-image" alt="" decoding="async" loading="lazy">                            </a>
+                        </li>
+                                    <li class="clone right" style="width: 255px; margin-right: 0px;">
+                            <a href="https://www.lepetitjournal.net/les-unes-petit-journal/09-ariege/le-petit-journal-ariege-25-03-2026/" class="couv">
+                                <h4 class="text-white">
+                                    Ariège                                </h4>
+                                <h5 class="text-white">
+                                    Mercredi 25 Mars 2026                                </h5>
+                                <img width="255" height="400" src="https://cdn.lepetitjournal.net/uploads/2026/03/le-petit-journal-ariege-25-03-2026-255x400.jpg" class="img-fluid wp-post-image" alt="" decoding="async" loading="lazy">                            </a>
+                        </li></ul></div><ul class="lSPager lSpg" style="margin-top: 5px;"><li class=""><a href="#">1</a></li><li><a href="#">2</a></li><li><a href="#">3</a></li><li><a href="#">4</a></li><li><a href="#">5</a></li><li class="active"><a href="#">6</a></li><li><a href="#">7</a></li><li><a href="#">8</a></li><li><a href="#">9</a></li><li><a href="#">10</a></li><li><a href="#">11</a></li><li><a href="#">12</a></li></ul></div>
+            </aside><aside id="text-8" class="widget col-12 col-sm-6 col-lg-12 widget_text">			<div class="textwidget"><p><!-- /21688010876/sidebar_right_all_zones --></p>
+<div id="div-gpt-ad-1741366146175-0"><script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1741366146175-0'); });
+  </script></div>
+<p><!-- Sidebar taille fixe --><!--<ins class="adsbygoogle" style="display: inline-block; max-height: 180px; width: 100%; min-height: 100px;" data-ad-client="ca-pub-6497009750647568" data-ad-slot="6215779339" data-ad-format="rectangle"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>--></p>
+</div>
+		</aside><aside id="short_links-2" class="widget col-12 col-sm-6 col-lg-12 widget_short_links">
+<ul class="short-links bg-secondary">
+    <li class="alerte-info">
+        <a href="https://www.lepetitjournal.net/alerte-info/" title="Nous faire part d'une information pour publication" class="tooltipTrigger">
+            <span>
+                <i class="fa fa-bullhorn" aria-hidden="true"></i>
+                Alerte info            </span>
+        </a>
+    </li>
+
+    <li class="publiez-annonces">
+        <a href="https://www.lepetitjournal.net/petite_annonce/?cat=18247" title="Consulter toutes les annonces" class="tooltipTrigger">
+            <span class="icon">
+                <i class="fa fa-pencil-square-o fa-flip-horizontal" aria-hidden="true"></i>
+                Petites annonces            </span>
+        </a>
+
+                    <ul>
+                                    <li>
+                        <h4><a href="https://www.lepetitjournal.net/petite_annonce/09-ariege/divers-2/achat-antiquites-brocante/">
+                                ACHAT ANTIQUITES-BROCANTE                            </a>
+                        </h4>
+                    </li>
+                                    <li>
+                        <h4><a href="https://www.lepetitjournal.net/petite_annonce/09-ariege/divers-2/achat-vehicules-epaves/">
+                                ACHAT VEHICULES EPAVES                            </a>
+                        </h4>
+                    </li>
+                                    <li>
+                        <h4><a href="https://www.lepetitjournal.net/petite_annonce/47-lot-et-garonne/immobilier/terrain/terrain-a-vendre-2/">
+                                TERRAIN A VENDRE                            </a>
+                        </h4>
+                    </li>
+                                    <li>
+                        <h4><a href="https://www.lepetitjournal.net/petite_annonce/09-ariege/immobilier/vacances/loue-grand-chalet/">
+                                LOUE GRAND CHALET                            </a>
+                        </h4>
+                    </li>
+                                    <li>
+                        <h4><a href="https://www.lepetitjournal.net/petite_annonce/09-ariege/moto-scooters/15488344/">
+                                KAWASAKI VERSYS 1000                            </a>
+                        </h4>
+                    </li>
+                            </ul>
+            
+    </li>
+    <li class="publiez-agenda">
+        <a href="https://www.lepetitjournal.net/agenda/?cat=18247" title="Consulter l'agenda" class="tooltipTrigger">
+            <span>
+                <i class="fa fa-calendar" aria-hidden="true"></i>
+                Agenda            </span>
+        </a>
+
+                        <p>Pas d'événement à venir</p>
+                
+    </li>
+    <li class="trouvez-correspondants">
+        <a href="https://www.lepetitjournal.net/trouvez-correspondant-pres-de-chez/">
+            <span>
+                <i class="fa fa-list-ul" aria-hidden="true"></i>
+            Un correspondant</span> Près de chez vous        </a>
+    </li>
+    <li class="annonces-legales">
+        <a href="https://www.lepetitjournal.net/les-annonces-legales/" target="_blank">
+            <span>
+                <i class="fa fa-commenting-o" aria-hidden="true"></i>
+            Déposez / Consultez</span> Une annonce légale        </a>
+    </li>
+
+    <li class="ou-trouver">
+        <a href="https://www.lepetitjournal.net/points-de-vente/">
+            <span>
+                <i class="fa fa-map-marker" aria-hidden="true"></i>
+            Où trouver</span> Le Petit Journal        </a>
+    </li>
+
+    <li class="bg-secondary abonnement">
+        <a href="https://www.lepetitjournal.net/boutique/" class="btn btn-primary btn-block" target="_blank">
+            S'abonner au Petit Journal        </a>
+    </li>
+
+</ul></aside><aside id="text-4" class="widget col-12 col-sm-6 col-lg-12 widget_text">			<div class="textwidget"><!-- Sidebar 1 -->
+<ins class="adsbygoogle" style="display: block; height: 600px;" data-ad-client="ca-pub-6497009750647568" data-ad-slot="9342433332" data-ad-format="auto" data-adsbygoogle-status="done"><div id="aswift_1_host" style="border: none; height: 600px; width: 255px; margin: 0px; padding: 0px; position: relative; visibility: visible; background-color: transparent; display: inline-block;"></div></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+		</aside>                    </div>
+
+                </div>
+        <!-- Sidebar right -->
+
+        <!-- Sidebar right end -->
+
+    </div><!-- .row -->
+
+</div><!-- #content -->
+
+<a id="down" class="btn btn-primary rounded-circle" href="#top" title="Revenir en haut de page">
+    <i class="fa fa-angle-up" aria-hidden="true"></i>
+</a>
+<footer>
+        <!-- footer before Newsletter disable -->
+    <!--<section id="footer-before" class="bg-white">
+        <div class="container">
+            <div id="footer-before-top" class="row">
+                <h2 class="col-lg-2 col-12 text-primary">
+                                    </h2>
+                <p class="col-lg-6 col-12 text-secondary">
+                                    </p>
+                <form class="col-lg-2 col-12 form-inline">
+                                    </form>
+            </div>
+        </div>
+    </section>--><!-- footer before end Newsletter disable -->
+
+    <!-- footer top -->
+    <section id="footer-top" class="bg-secondary">
+        <div class="container">
+            <div class="row">
+
+                <!-- footer aside -->
+                
+    <!-- ******************* The Hero Widget Area ******************* -->
+
+		<aside id="text-5" class=" col-md-12 p-b-2 widget col-md-4 widget_text">			<div class="textwidget"><p><!-- Bas de page --><ins class="adsbygoogle" style="display: block; height: 280px;" data-ad-client="ca-pub-6497009750647568" data-ad-slot="2685294137" data-ad-format="auto" data-adsbygoogle-status="done"><div id="aswift_2_host" style="border: none; height: 280px; width: 1110px; margin: 0px; padding: 0px; position: relative; visibility: visible; background-color: transparent; display: inline-block;"></div></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></p>
+</div>
+		</aside>
+
+
+                <div class="col-12">
+                    <div class="row ">
+                        <!-- footer aside end -->
+                        <div class="col-lg-2 col-12 d-none d-lg-block">
+                            <img src="https://cdn.lepetitjournal.net/themes/periwinkle-v2/images/Le_Petit_Journal_Logo.svg" alt="Le Petit Journal" title="Journal d'informations locales" class="img-fluid logo">
+                        </div>
+
+                        <div class="col-lg-8 col-12">
+                            <div class="menu-menu-principal-container"><ul id="main-menu" class=""><li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" class="root-cat menu-item menu-item-type-custom menu-item-object-custom menu-item-43358 nav-item"><a title="Ariège" href="https://www.lepetitjournal.net/09-ariege/accueil/" class="nav-link">Ariège</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" class="root-cat menu-item menu-item-type-custom menu-item-object-custom menu-item-43359 nav-item"><a title="Aude" href="https://www.lepetitjournal.net/11-aude/accueil/" class="nav-link">Aude</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" class="root-cat menu-item menu-item-type-custom menu-item-object-custom menu-item-43361 nav-item"><a title="Aveyron" href="https://www.lepetitjournal.net/12-aveyron/accueil/" class="nav-link">Aveyron</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" class="root-cat menu-item menu-item-type-custom menu-item-object-custom menu-item-43364 nav-item"><a title="Gers" href="https://www.lepetitjournal.net/32-gers/accueil/" class="nav-link">Gers</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" class="root-cat menu-item menu-item-type-custom menu-item-object-custom menu-item-43363 nav-item"><a title="Haute-Garonne" href="https://www.lepetitjournal.net/31-haute-garonne/accueil/" class="nav-link">Haute-Garonne</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" class="root-cat menu-item menu-item-type-custom menu-item-object-custom menu-item-43368 nav-item"><a title="Hautes-Pyrénées" href="https://www.lepetitjournal.net/65-hautes-pyrenees/accueil/" class="nav-link">Hautes-Pyrénées</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" class="root-cat menu-item menu-item-type-custom menu-item-object-custom menu-item-43365 nav-item"><a title="Hérault" href="https://www.lepetitjournal.net/34-herault/accueil/" class="nav-link">Hérault</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" class="root-cat menu-item menu-item-type-custom menu-item-object-custom menu-item-9744739 nav-item"><a title="Landes" href="https://www.lepetitjournal.net/40-landes/accueil/" class="nav-link">Landes</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" class="root-cat menu-item menu-item-type-custom menu-item-object-custom menu-item-43366 nav-item"><a title="Lot" href="https://www.lepetitjournal.net/46-lot/accueil/" class="nav-link">Lot</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" class="root-cat menu-item menu-item-type-custom menu-item-object-custom menu-item-43367 nav-item"><a title="Lot et Garonne" href="https://www.lepetitjournal.net/47-lot-et-garonne/accueil/" class="nav-link">Lot et Garonne</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" class="root-cat menu-item menu-item-type-custom menu-item-object-custom menu-item-43369 nav-item"><a title="Pyrénées-Orientales" href="https://www.lepetitjournal.net/66-pyrenees-orientales/accueil/" class="nav-link">Pyrénées-Orientales</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" class="root-cat menu-item menu-item-type-custom menu-item-object-custom menu-item-43370 nav-item"><a title="Tarn et Garonne" href="https://www.lepetitjournal.net/82-tarn-et-garonne/accueil/" class="nav-link">Tarn et Garonne</a></li>
+</ul></div>                        </div>
+
+                        <!-- Social Network -->
+                            <div id="social-network" class="col-lg-2 col-12 text-white">
+                                Suivez-nous                                <div>
+                                    <a href="https://www.facebook.com/groupelepetitjournal" class="text-white" target="_blank" rel="nofollow">
+                                                    <i class="fa fa-facebook-official" aria-hidden="true"></i>
+                                                  </a><a href="https://www.instagram.com/petitjournal31/?hl=fr" class="text-white" target="_blank" rel="nofollow">
+                                                    <i class="fa fa-instagram" aria-hidden="true"></i>
+                                                  </a><a href="https://twitter.com/petitjournal31?lang=fr" class="text-white" target="_blank" rel="nofollow">
+                                                    <i class="fa fa-twitter-square" aria-hidden="true"></i>
+                                                  </a>                                </div>
+                            </div>
+                        <!-- Social Network end -->
+                    </div>
+                </div>
+            </div>
+
+        </div><!-- container end -->
+    </section><!-- footer top end -->
+
+    <!-- footer after -->
+<section id="footer-after" class=" text-secondary">
+    <div class="container">
+        <div class="row">
+
+            <div id="footer-credit" class="col-lg-2 col-md-4 col-12">
+                2026                © Le Petit Journal            </div>
+
+            <div class="col-lg-8 col-md-4 col-12">
+                                <div id="footer-link" class="row">
+                    <div class="col-lg-4 col-12 footer-link-page">
+                        <a href="https://www.lepetitjournal.net/mentions-legales/">
+                            Mentions Légales                        </a>
+                    </div>
+                    <div class="col-lg-4 col-12 footer-link-page">
+                        <a href="https://www.lepetitjournal.net/conditions-generales-de-vente/">
+                            Conditions générales de vente                        </a>
+                    </div>
+                </div>
+                            </div>
+
+            <a id="agency" class="col-lg-2 col-md-4 col-12" href="http://www.periwinkle.fr" target="_blank" title="Conception et réalisation du site internet agence de communication Periwinkle" rel="nofollow">
+                Création : Periwinkle            </a>
+        </div>
+    </div><!-- container end -->
+</section><!-- footer after end --></footer>
+
+    <script>
+        //<![CDATA[
+        sp_track();
+        //]]>
+    </script>
+    	<script>
+		(function () {
+			var c = document.body.className;
+			c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+			document.body.className = c;
+		})();
+	</script>
+	<link rel="stylesheet" id="wc-blocks-style-css" href="https://cdn.lepetitjournal.net/plugins/woocommerce/assets/client/blocks/wc-blocks.css?ver=wc-9.3.6" media="all">
+<script src="https://cdn.lepetitjournal.net/plugins/woocommerce/assets/js/selectWoo/selectWoo.full.min.js?ver=1.0.9-wc.9.3.6" id="selectWoo-js" data-wp-strategy="defer"></script>
+<script id="wc-memberships-blocks-common-js-extra">
+var wc_memberships_blocks_common = {"keywords":{"email":"Email","phone":"Phone","plan":"Abonnement","address":"Address","search_not_found":"We didn't find any members. Please try a different search or check for typos.","results_not_found":"No records found..."},"ajaxUrl":"https:\/\/www.lepetitjournal.net\/wp-admin\/admin-ajax.php","restUrl":"https:\/\/www.lepetitjournal.net\/wp-json\/","restNonce":"ba607622b2"};
+</script>
+<script src="https://cdn.lepetitjournal.net/plugins/woocommerce-memberships/assets/js/frontend/wc-memberships-blocks-common.min.js?ver=1.26.9" id="wc-memberships-blocks-common-js"></script>
+<script src="https://www.lepetitjournal.net/wp-includes/js/dist/hooks.min.js?ver=2810c76e705dd1a53b18" id="wp-hooks-js"></script>
+<script src="https://www.lepetitjournal.net/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6" id="wp-i18n-js"></script>
+<script id="wp-i18n-js-after">
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+</script>
+<script src="https://cdn.lepetitjournal.net/plugins/contact-form-7/includes/swv/js/index.js?ver=6.0.6" id="swv-js"></script>
+<script id="contact-form-7-js-translations">
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "contact-form-7", {"translation-revision-date":"2025-02-06 12:02:14+0000","generator":"GlotPress\/4.0.1","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=2; plural=n > 1;","lang":"fr"},"This contact form is placed in the wrong place.":["Ce formulaire de contact est plac\u00e9 dans un mauvais endroit."],"Error:":["Erreur\u00a0:"]}},"comment":{"reference":"includes\/js\/index.js"}} );
+</script>
+<script id="contact-form-7-js-before">
+var wpcf7 = {
+    "api": {
+        "root": "https:\/\/www.lepetitjournal.net\/wp-json\/",
+        "namespace": "contact-form-7\/v1"
+    },
+    "cached": 1
+};
+</script>
+<script src="https://cdn.lepetitjournal.net/plugins/contact-form-7/includes/js/index.js?ver=6.0.6" id="contact-form-7-js"></script>
+<script id="superpwa-register-sw-js-extra">
+var superpwa_sw = {"url":"\/superpwa-sw.js?2.2.34","disable_addtohome":"0","enableOnDesktop":"","offline_form_addon_active":"","ajax_url":"https:\/\/www.lepetitjournal.net\/wp-admin\/admin-ajax.php","offline_message":"0","offline_message_txt":"You are currently offline.","online_message_txt":"You're back online . <a href=\"javascript:location.reload()\">refresh<\/a>","manifest_name":"superpwa-manifest.json"};
+</script>
+<script src="https://cdn.lepetitjournal.net/plugins/super-progressive-web-apps/public/js/register-sw.js?ver=2.2.41" id="superpwa-register-sw-js"></script>
+<script src="https://widgetlogic.org/v2/js/data.js?t=1774440000&amp;ver=6.0.0" id="widget-logic_live_match_widget-js"></script>
+<script src="https://www.lepetitjournal.net/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3" id="jquery-ui-core-js"></script>
+<script src="https://www.lepetitjournal.net/wp-includes/js/jquery/ui/menu.min.js?ver=1.13.3" id="jquery-ui-menu-js"></script>
+<script src="https://www.lepetitjournal.net/wp-includes/js/dist/dom-ready.min.js?ver=f77871ff7694fffea381" id="wp-dom-ready-js"></script>
+<script id="wp-a11y-js-translations">
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "default", {"translation-revision-date":"2025-10-01 05:31:01+0000","generator":"GlotPress\/4.0.3","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=2; plural=n > 1;","lang":"fr"},"Notifications":["Notifications"]}},"comment":{"reference":"wp-includes\/js\/dist\/a11y.js"}} );
+</script>
+<script src="https://www.lepetitjournal.net/wp-includes/js/dist/a11y.min.js?ver=d90eebea464f6c09bfd5" id="wp-a11y-js"></script>
+<script src="https://www.lepetitjournal.net/wp-includes/js/jquery/ui/autocomplete.min.js?ver=1.13.3" id="jquery-ui-autocomplete-js"></script>
+<script src="https://www.lepetitjournal.net/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.13.3" id="jquery-ui-datepicker-js"></script>
+<script id="jquery-ui-datepicker-js-after">
+jQuery(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Fermer","currentText":"Aujourd\u2019hui","monthNames":["janvier","f\u00e9vrier","mars","avril","mai","juin","juillet","ao\u00fbt","septembre","octobre","novembre","d\u00e9cembre"],"monthNamesShort":["Jan","F\u00e9v","Mar","Avr","Mai","Juin","Juil","Ao\u00fbt","Sep","Oct","Nov","D\u00e9c"],"nextText":"Suivant","prevText":"Pr\u00e9c\u00e9dent","dayNames":["dimanche","lundi","mardi","mercredi","jeudi","vendredi","samedi"],"dayNamesShort":["dim","lun","mar","mer","jeu","ven","sam"],"dayNamesMin":["D","L","M","M","J","V","S"],"dateFormat":"d MM yy","firstDay":1,"isRTL":false});});
+</script>
+<script src="https://cdn.lepetitjournal.net/themes/periwinkle-v2/js/child-theme.min.js?ver=2.6.8" id="child-understrap-scripts-js"></script>
+<script src="https://cdn.lepetitjournal.net/themes/periwinkle-v2/js/bibli.js?ver=2.6.8" id="bibli-js-js"></script>
+<script id="init-script-js-extra">
+var datas = {"root_url":"https:\/\/www.lepetitjournal.net","ajax_url":"https:\/\/www.lepetitjournal.net\/wp-admin\/admin-ajax.php","json_url":"https:\/\/www.lepetitjournal.net\/wp-json\/wp\/v2\/","theme_url":"https:\/\/cdn.lepetitjournal.net\/themes\/periwinkle-v2","local_tag_id":"10736","departement_tag_id":"26405"};
+var my_datas = {"theme_url":"https:\/\/cdn.lepetitjournal.net\/themes\/periwinkle-v2","home_url":"https:\/\/www.lepetitjournal.net"};
+</script>
+<script src="https://cdn.lepetitjournal.net/themes/periwinkle-v2/js/init.js?ver=2.6.8" id="init-script-js"></script>
+<script src="https://cdn.lepetitjournal.net/plugins/woocommerce/assets/js/sourcebuster/sourcebuster.min.js?ver=9.3.6" id="sourcebuster-js-js"></script>
+<script id="wc-order-attribution-js-extra">
+var wc_order_attribution = {"params":{"lifetime":1.0e-5,"session":30,"base64":false,"ajaxurl":"https:\/\/www.lepetitjournal.net\/wp-admin\/admin-ajax.php","prefix":"wc_order_attribution_","allowTracking":true},"fields":{"source_type":"current.typ","referrer":"current_add.rf","utm_campaign":"current.cmp","utm_source":"current.src","utm_medium":"current.mdm","utm_content":"current.cnt","utm_id":"current.id","utm_term":"current.trm","utm_source_platform":"current.plt","utm_creative_format":"current.fmt","utm_marketing_tactic":"current.tct","session_entry":"current_add.ep","session_start_time":"current_add.fd","session_pages":"session.pgs","session_count":"udata.vst","user_agent":"udata.uag"}};
+</script>
+<script src="https://cdn.lepetitjournal.net/plugins/woocommerce/assets/js/frontend/order-attribution.min.js?ver=9.3.6" id="wc-order-attribution-js"></script>
+<script src="https://www.google.com/recaptcha/api.js?render=6LfFyNcUAAAAADiFAgtOx6-227twy2IkvVEaJOcc&amp;ver=3.0" id="google-recaptcha-js"></script>
+<script src="https://www.lepetitjournal.net/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0" id="wp-polyfill-js"></script>
+<script id="wpcf7-recaptcha-js-before">
+var wpcf7_recaptcha = {
+    "sitekey": "6LfFyNcUAAAAADiFAgtOx6-227twy2IkvVEaJOcc",
+    "actions": {
+        "homepage": "homepage",
+        "contactform": "contactform"
+    }
+};
+</script>
+<script src="https://cdn.lepetitjournal.net/plugins/contact-form-7/modules/recaptcha/index.js?ver=6.0.6" id="wpcf7-recaptcha-js"></script>
+
+<script>
+    jQuery(function($) {
+        $('body').on(function() {
+            ga('set', 'userId', '0');
+        });
+    });
+</script>
+
+
+
+
+<p id="a11y-speak-intro-text" class="a11y-speak-intro-text" style="position: absolute;margin: -1px;padding: 0;height: 1px;width: 1px;overflow: hidden;clip: rect(1px, 1px, 1px, 1px);-webkit-clip-path: inset(50%);clip-path: inset(50%);border: 0;word-wrap: normal !important;" hidden="hidden">Notifications</p><div id="a11y-speak-assertive" class="a11y-speak-region" style="position: absolute;margin: -1px;padding: 0;height: 1px;width: 1px;overflow: hidden;clip: rect(1px, 1px, 1px, 1px);-webkit-clip-path: inset(50%);clip-path: inset(50%);border: 0;word-wrap: normal !important;" aria-live="assertive" aria-relevant="additions text" aria-atomic="true"></div><div id="a11y-speak-polite" class="a11y-speak-region" style="position: absolute;margin: -1px;padding: 0;height: 1px;width: 1px;overflow: hidden;clip: rect(1px, 1px, 1px, 1px);-webkit-clip-path: inset(50%);clip-path: inset(50%);border: 0;word-wrap: normal !important;" aria-live="polite" aria-relevant="additions text" aria-atomic="true"></div><ins class="adsbygoogle adsbygoogle-noablate" data-ad-hi="true" data-adsbygoogle-status="done" style="display: none !important;"><div id="aswift_0_host" style="border: none; height: 0px; width: 0px; margin: 0px; padding: 0px; position: relative; visibility: visible; background-color: transparent; display: inline-block;"></div></ins><table cellspacing="0" cellpadding="0" role="presentation" class="gstl_50 gssb_c" style="width: 189px; display: none; top: 57px; left: 409px; position: absolute;"><tbody><tr><td class="gssb_f"></td><td class="gssb_e" style="width: 100%;"></td></tr></tbody></table><div><div class="grecaptcha-badge" data-style="bottomright" style="width: 256px; height: 60px; position: fixed; visibility: hidden; display: block; transition: right 0.3s; bottom: 14px; right: -186px; box-shadow: gray 0px 0px 5px; border-radius: 2px; overflow: hidden;"><div class="grecaptcha-logo"><iframe title="reCAPTCHA" width="256" height="60" role="presentation" name="a-y8gacy3w873a" frameborder="0" scrolling="no" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox allow-storage-access-by-user-activation" src="https://www.google.com/recaptcha/api2/anchor?ar=1&amp;k=6LfFyNcUAAAAADiFAgtOx6-227twy2IkvVEaJOcc&amp;co=aHR0cHM6Ly93d3cubGVwZXRpdGpvdXJuYWwubmV0OjQ0Mw..&amp;hl=fr&amp;v=qm3PSRIx10pekcnS9DjGnjPW&amp;size=invisible&amp;anchor-ms=20000&amp;execute-ms=30000&amp;cb=wtcei81iduht"></iframe></div><div class="grecaptcha-error"></div><textarea id="g-recaptcha-response-100000" name="g-recaptcha-response" class="g-recaptcha-response" style="width: 250px; height: 40px; border: 1px solid rgb(193, 193, 193); margin: 10px 25px; padding: 0px; resize: none; display: none;"></textarea></div><iframe style="display: none;"></iframe></div><div id="appconsent"><iframe title="Fenêtre de consentement" srcdoc="
+    &lt;!DOCTYPE html&gt;
+    &lt;html lang=&quot;fr&quot;&gt;
+      &lt;head&gt;
+        &lt;meta charSet=&quot;UTF-8&quot; /&gt;
+        &lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.appconsent.io/tcf2-clear/current/fonts/index.css&quot; /&gt;
+      &lt;/head&gt;
+      &lt;body&gt;&lt;div&gt;&lt;/div&gt;&lt;/body&gt;
+    &lt;/html&gt;
+  " role="none" style="position: fixed; top: 0px; left: 0px; width: 100vw; height: 720px; z-index: 2147483647; background: rgba(0, 32, 71, 0.4); border: none;"></iframe></div><iframe src="https://ep2.adtrafficquality.google/sodar/sodar2/253/runner.html" width="0" height="0" style="display: none;"></iframe></body></html>
